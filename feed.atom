@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2021-10-26T19:13:59.511Z</updated>
+    <title>konhi's personal rss feed</title>
+    <updated>2021-10-26T19:16:34.807Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
