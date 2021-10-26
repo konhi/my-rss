@@ -1,385 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-26T19:05:59.701Z</id>
+    <id>https://konhi.me/my-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T19:05:59.701Z</updated>
+    <updated>2021-10-26T19:13:59.511Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
+    <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Secure Linux Servers with SE Linux]]></title>
-        <id>616fcad6d48e1707b6d78874</id>
-        <link href="https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/"/>
-        <updated>2021-10-26T17:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed]]></summary>
+        <title type="html"><![CDATA[Dziura w systemie e-TOLL: można było pobrać dane użytkowników]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/"/>
+        <updated>2021-10-26T11:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Początki bywają trudne. Z ledwie co oddanego do użytku systemu poboru opłat e-TOLL można było pobrać dane użytkowników, w tym ich PESEL-e. Winne okazało się znów niezbyt dobrze zabezpieczone API. Po...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Software Engineering? How to Become a Software Engineer]]></title>
-        <id>6122045f3bccf807612a5762</id>
-        <link href="https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/"/>
-        <updated>2021-10-26T17:16:01.000Z</updated>
-        <summary type="html"><![CDATA[If you are interested in the tech industry, then you might consider a career as a software engineer. But what is a software engineer and how do you become one?  In this article, I will explain what software engineers do and the steps you can take to become one. What]]></summary>
+        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59319</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-mniej-znane-funkcje-podnoszace-bezpieczenstwo-uzytkownikow-windowsa/"/>
+        <updated>2021-10-26T05:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Jak włączyć przeglądanie stron internetowych w środowisku izolowanym, czy da się unieszkodliwić makra w dokumentach pakietu Office, używane na potęgę do infekowania komputerów i co ma do tego PowerShell – dowiecie się z dzisiejszego poradnika.
+Nie sposób w jednym artykule omówić wszystkich narzędzi dostępnych w systemie Windows, które mogą podnieść bezpieczeństwo jego użytkowników, jeśli tylko zostaną odpowiednio skonfigurowane.… Czytaj dalej 
+The post Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Django Project: Create a Digital Resume Using Django and Python]]></title>
-        <id>617834f033422e07df364b90</id>
-        <link href="https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/"/>
-        <updated>2021-10-26T17:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Django is a popular web development framework that uses Python.  We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by teaching you how to create a digital resume using Python and Django. Bobby Stearman developed this course. Bobby has created]]></summary>
+        <title type="html"><![CDATA[Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59611</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-79-wojciech-pilszak-ekspert-informatyki-sledczej/"/>
+        <updated>2021-10-25T19:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Gościem siedemdziesiątego dziewiątego odcinka podcastu Rozmowa Kontrolowana jest Wojciech Pilszak, ekspert informatyki śledczej, prezes firmy e-Detektywi, wykładowca i trener.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Integrate a Static Website with WordPress]]></title>
-        <id>61746f69d48e1707b6d7a229</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-a-static-website-with-wordpress/"/>
-        <updated>2021-10-26T17:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Lots of people still use static websites, from family-run businesses who don't need to update information that often, to large teams who need to release something quickly without spending too much time and effort on it.  You might also want a static website for these reasons: Speed: pages load quicklyMinimal]]></summary>
+        <title type="html"><![CDATA[Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59605</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/ekspert-informatyki-sledczej-wojciech-pilszak-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2021-10-24T08:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Coraz większy kawałek naszego życia toczy się w świecie wirtualnym – nic więc dziwnego, że pojawiają się detektywi, specjalizujący się w poszukiwaniach w internecie. Z prezesem takiej właśnie agencji spotkamy się już dzisiaj. Poznajcie Wojciecha.
+Wojciech Pilszak  przez osiem lat zbierał doświadczenie jako funkcjonariusz policji, specjalizujący się w ściganiu cyberprzestępczości.… Czytaj dalej 
+The post Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In-Page Filtered Search With Vanilla JavaScript]]></title>
-        <id>https://css-tricks.com/?p=353747</id>
-        <link href="https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/"/>
-        <updated>2021-10-26T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …
-The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59584</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-438-2021-10-23-bierzcie-i-czytajcie/"/>
+        <updated>2021-10-23T20:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Czeka na was dużo ciekawych linków zarówno w części fabularnej, jak i technicznej – każdy ma szansę znaleźć coś dla siebie. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o tym, jak podrobiona próbka głosu prezesa posłużyła do kradzieży pieniędzy z banku (pkt 11) oraz materiał o unieszkodliwieniu infrastruktury grupy REvil przez organy ścigania (pkt 17).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>Hilman Ramadhan</name>
+            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userwell is for Managing Customer Feedback]]></title>
-        <id>https://css-tricks.com/?p=353621</id>
-        <link href="https://css-tricks.com/userwell-is-for-managing-customer-feedback/"/>
-        <updated>2021-10-26T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Building products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …
-The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Szkolenie dla dziennikarzy z cyberbezpieczeństwa, OPSEC i OSINT]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/"/>
+        <updated>2021-10-22T10:48:53.000Z</updated>
+        <summary type="html"><![CDATA[W ostatnich miesiącach wielu dziennikarzy pytało nas o to, jak mogą wykryć, czy są inwigilowani oraz jak zabezpieczyć zarówno siebie jak i komunikację ze swoimi źródłami, zwłaszcza tą przez internet...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android App Development for Beginners]]></title>
-        <id>61782fe233422e07df364b4f</id>
-        <link href="https://www.freecodecamp.org/news/android-app-development-for-beginners/"/>
-        <updated>2021-10-26T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Seventy-five percent of all phones are Android phones and seventy-five percent of all Internet users only access the Internet using their phone. So there is a big market for Android apps. We just published crash course on Android app development on the freeCodeCamp.org YouTube channel. This course is perfect]]></summary>
+        <title type="html"><![CDATA[Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59531</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-78-piotr-zarzycki-ekspert-cyberbezpieczenstwa/"/>
+        <updated>2021-10-17T20:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Gościem siedemdziesiątego ósmego odcinka podcastu Rozmowa Kontrolowana jest Piotr Zarzycki, pentester, bezpiecznik i prelegent.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
-        <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
-        <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
-        <updated>2021-10-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
+        <title type="html"><![CDATA[Fatalna wpadka Plusa. Każdy mógł pobrać dane klientów]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/"/>
+        <updated>2021-10-17T18:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Każdy kto wszedł na specjalną podstronę w domenie Plusa, mógł podejrzeć dane klientów Plusa i jego drugiej marki, Plusha. Można było ustalić do kogo należy dany numer telefonu a także uzyskać dostęp...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Table in SQL – Postgres and MySQL Example Query]]></title>
-        <id>612cbff5b5177808226d4a51</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-table-in-sql-postgres-and-mysql-example-query/"/>
-        <updated>2021-10-25T22:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to create tables in SQL is an important and fundamental concept.  In this tutorial, I will walk you through the SQL syntax for the CREATE TABLE statement using code examples for both PostgreSQL and MySQL.   Basic CREATE TABLE SyntaxHere is the basic syntax for the CREATE TABLE statement:]]></summary>
+        <title type="html"><![CDATA[Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59510</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/ekspert-cyberbezpieczenstwa-piotr-zarzycki-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2021-10-17T10:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Od programisty do bezpiecznika, od pierwszej linii SOC do zarządzania pentestami w jednym z największych banków, a potem jeszcze transfer z banku do telekomu – nasz gość ma ciekawą ścieżkę kariery. Zapraszamy na spotkanie z Piotrkiem.
+Piotr Zarzycki zaczynał karierę w IT jako programista.… Czytaj dalej 
+The post Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programming is Really Hard – But Don&#x27;t Give Up]]></title>
-        <id>616f0656d48e1707b6d78353</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-better-at-programming-even-when-its-hard/"/>
-        <updated>2021-10-25T21:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Learning to do something new is hard. Whether it's a physical feat like reaching a new best lift or a mental challenge like learning a new language – both entail months of work, multiple setbacks, and hundreds of hours of time put in. And then you still might just be at]]></summary>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59501</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-437-2021-10-17-bierzcie-i-czytajcie/"/>
+        <updated>2021-10-17T07:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Znów się ochłodziło, więc dajemy Wam dobrą okazję do spędzenia kilku godzin w domowym zaciszu i zapoznania się z zebranymi przez nas linkami. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o dziennikarzu, którego amerykańskie władze chcą ścigać za wgląd do źródła rządowej strony (pkt 5) oraz opowieść o największym ataku w historii Twitcha, do którego doszło w 2014 r.… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)]]></title>
-        <id>https://css-tricks.com/?p=353728</id>
-        <link href="https://css-tricks.com/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/"/>
-        <updated>2021-10-25T19:25:17.000Z</updated>
-        <summary type="html"><![CDATA[When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …
-The post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Hooks Tutorial – useState, useEffect, and How to Create Custom Hooks]]></title>
-        <id>616c3fff80d82d07c45a6337</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-react-hooks/"/>
-        <updated>2021-10-25T15:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Hooks were first introduced in React 16.8. And they're great because they let you use more of React's features – like managing your component's state, or performing an after effect when certain changes occur in state(s) without writing a class.  In this article, you will learn how to use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL vs REST API – Which Should You Use for Back End API Development?]]></title>
-        <id>6104f8e83306a507d1bfbc2c</id>
-        <link href="https://www.freecodecamp.org/news/graphql-vs-rest-api/"/>
-        <updated>2021-10-25T15:02:30.000Z</updated>
-        <summary type="html"><![CDATA[REST and GraphQL are both standard ways to develop backend APIs. But over the past decade REST APIs have dominated as a choice for developing backend API's. And many companies and developers use it actively in their projects.   But REST has some limitations, and there's another alternative available – GraphQL. GraphQL]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Semantics of Jamstack]]></title>
-        <id>https://css-tricks.com/?p=353496</id>
-        <link href="https://css-tricks.com/the-semantics-of-jamstack/"/>
-        <updated>2021-10-25T14:20:08.000Z</updated>
-        <summary type="html"><![CDATA[The past year has seen a healthy debate around the term ‘Jamstack’ as the definition gets stretched to include new use cases. I recently posted my take on a Jamstack definition in “Static vs. Dynamic vs. Jamstack: Where’s The Line?”…
-The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mike Neumegen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Query CSS Example – Max and Min Screen Width for Mobile Responsive Design]]></title>
-        <id>615d55c00d91c9077974d3fc</id>
-        <link href="https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/"/>
-        <updated>2021-10-25T14:02:26.000Z</updated>
-        <summary type="html"><![CDATA[When you are designing a website, it is really important that your content looks good on all screen sizes.  In this article, I will talk about how to use responsive design and media queries to make this happen. I will also provide code examples for media queries using max and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive Into object-fit And background-size In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/10/object-fit-background-size-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/object-fit-background-size-css/"/>
-        <updated>2021-10-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Quasar Framework: Building Cross-Platform Applications]]></title>
-        <id>https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/</id>
-        <link href="https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/"/>
-        <updated>2021-10-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joel Olawanle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Include (a Certain HTML element within another Certain HTML Element)]]></title>
-        <id>https://css-tricks.com/?p=354567</id>
-        <link href="https://caninclude.glitch.me/"/>
-        <updated>2021-10-22T17:57:30.000Z</updated>
-        <summary type="html"><![CDATA[A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.
-Some combinations feel fairly obvious: can you put …
-The post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Rounding Shapes]]></title>
-        <id>https://css-tricks.com/?p=353391</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
-        <updated>2021-10-22T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …
-The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
-        <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
-        <updated>2021-10-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Martin Grubinger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
-        <id>https://css-tricks.com/?p=354537</id>
-        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
-        <updated>2021-10-21T22:14:21.000Z</updated>
-        <summary type="html"><![CDATA[It’s not uncommon for my front-end workflow to go something like this:
-Work on thing.
-See that thing in an automatically refreshed browser.
-See something wrong with that thing.
-Inspect and correct the thing in DevTools.
-Apply the correct code 
-…
-The post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CSS-in-React Landscape]]></title>
-        <id>https://css-tricks.com/?p=353318</id>
-        <link href="https://css-tricks.com/the-css-in-react-landscape/"/>
-        <updated>2021-10-21T22:13:57.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …
-The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Contact Form With Next.js and Netlify]]></title>
-        <id>https://css-tricks.com/?p=353128</id>
-        <link href="https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/"/>
-        <updated>2021-10-21T14:26:03.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to create a contact form with Next.js and Netlify that displays a confirmation screen and features enhanced spam detection.
-Next.js is a powerful React framework for developing performant React applications that scale. By integrating a Next.js site with …
-The post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Monica Powell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
-        <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
-        <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
-        <updated>2021-10-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Typography Links VIII]]></title>
-        <id>https://css-tricks.com/?p=353866</id>
-        <link href="https://css-tricks.com/some-typography-links-viii/"/>
-        <updated>2021-10-20T23:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ 
-…
-The post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
-        <id>https://css-tricks.com/?p=353638</id>
-        <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
-        <updated>2021-10-20T15:02:28.000Z</updated>
-        <summary type="html"><![CDATA[No matter what stage you’re at as a developer, the tasks we complete—whether big or small—make a huge impact in our personal and professional growth. Unfortunately, those tasks aren’t always recognized because they can easily get lost in the sea …
-The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Emily Leung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/"/>
-        <updated>2021-10-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Holmes)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@supports selector()]]></title>
-        <id>https://css-tricks.com/?p=354115</id>
-        <link href="https://css-tricks.com/supports-selector/"/>
-        <updated>2021-10-19T21:12:18.000Z</updated>
-        <summary type="html"><![CDATA[I didn’t realize the support for @supports determining selector support was so good! I usually think of @supports as a way to test for property: value pair support. But with the selector() function, we can test for selector support …
-The post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
-        <id>https://css-tricks.com/?p=353462</id>
-        <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
-        <updated>2021-10-19T14:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! Elad reached out to me to show me his new CSS reset project called the-new-css-reset. It’s quite interesting! I thought a neat way to share it with you is not only to point you toward it, but …
-The post An Interview With Elad Shechter on “The New CSS Reset” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Elad Shechter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building An API With Gatsby Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-api-gatsby-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-api-gatsby-functions/"/>
-        <updated>2021-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?]]></title>
-        <id>https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/</id>
-        <link href="https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/"/>
-        <updated>2021-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-Digit Browser Versions in March 2022]]></title>
-        <id>https://css-tricks.com/?p=354269</id>
-        <link href="https://css-tricks.com/three-digit-browser-versions-in-march-2022/"/>
-        <updated>2021-10-18T22:53:05.000Z</updated>
-        <summary type="html"><![CDATA[We aren’t supposed to be doing any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do.
-Karl Dubost notes that there is a significant change coming to them, notably moving the version integer past …
-The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
-        <id>https://css-tricks.com/?p=353308</id>
-        <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
-        <updated>2021-10-18T14:48:34.000Z</updated>
-        <summary type="html"><![CDATA[I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …
-The post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alex Standiford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
-        <updated>2021-10-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Arijit Mondal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple But Effective Mental Health Routine For Programmers]]></title>
-        <id>https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/</id>
-        <link href="https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/"/>
-        <updated>2021-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dave Oscar)</name>
+            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
@@ -395,173 +164,141 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
-        <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
-        <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
-        <updated>2021-10-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
+        <title type="html"><![CDATA[Dziwne e-maile, &#8220;kryptyczne&#8221; i omijające spam. Prześladują użytkowników GMaila]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/"/>
+        <updated>2021-10-12T09:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Od ponad miesiąca otrzymujemy od Was zgłoszenia w sprawie “podejrzanych” e-maili, które omijają spam a w treści posiadają — jak to określił jeden z czytelników —...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
-        <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
-        <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
-        <updated>2021-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <title type="html"><![CDATA[Ile kosztuje niewiedza w chmurze? Analiza 5 niepotrzebnie wysokich rachunków]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/"/>
+        <updated>2021-10-11T06:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Chmura zdobywa popularność w Polsce. Co prawda nadal znajdujemy się w europejskim ogonku jeśli chodzi o poziom adopcji chmury. Według danych Eurostatu, w 2020 roku z clouda korzystało 24% polskich...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)]]></title>
-        <id>https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/</id>
-        <link href="https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/"/>
-        <updated>2021-10-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
+        <title type="html"><![CDATA[Odcinek 77 – Krzysztof Kotowicz, web security ninja]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59462</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-77-krzysztof-kotowicz-web-security-ninja/"/>
+        <updated>2021-10-10T21:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Gościem siedemdziesiątego siódmego odcinka podcastu Rozmowa Kontrolowana jest Krzysztof Kotowicz, ekspert bezpieczeństwa aplikacji WWW, programista, pentester, architekt zabezpieczeń.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 77 – Krzysztof Kotowicz, web security ninja first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful React APIs For Building Flexible Components With TypeScript]]></title>
-        <id>https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/</id>
-        <link href="https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/"/>
-        <updated>2021-10-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.]]></summary>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 436 [2021-10-10]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59429</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-436-2021-10-10-bierzcie-i-czytajcie/"/>
+        <updated>2021-10-10T15:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Za nami kolejny tydzień, w którym nie brakowało doniesień o świeżo zaobserwowanych atakach, nowo odkrytych lukach i innych incydentach. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej materiał wideo o tym, jak się zabezpiecza banknoty (pkt 7) oraz informacje o poważnym wycieku danych z platformy streamingowej Twitch (pkt 10).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 436 [2021-10-10]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Gaurav Khanna)</name>
+            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bridging The Gap Between Designers And Developers]]></title>
-        <id>https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/</id>
-        <link href="https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/"/>
-        <updated>2021-10-12T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
+        <title type="html"><![CDATA[Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59446</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/web-security-ninja-krzysztof-kotowicz-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2021-10-10T13:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Bezpieczeństwo aplikacji WWW jest chyba (z wielu powodów) jedną z najpopularniejszych specjalizacji w naszej branży. Niewiele jest jednak osób, które znają się na tym obszarze tak dobrze jak nasz dzisiejszy gość. Zapraszamy na spotkanie z Krzysztofem.
+Krzysztof Kotowicz zaczynał od kariery programisty, lecz w pewnym momencie skręcił w stronę bezpieczeństwa.… Czytaj dalej 
+The post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Autofill Dark Pattern]]></title>
-        <id>https://smashingmagazine.com/2021/10/autofill-dark-pattern/</id>
-        <link href="https://smashingmagazine.com/2021/10/autofill-dark-pattern/"/>
-        <updated>2021-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.]]></summary>
+        <title type="html"><![CDATA[[AKTUALIZACJA] Facebook, WhatsApp i Instagram nie działają]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/"/>
+        <updated>2021-10-04T16:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Awaria Facebooka, WhatsAppa i Instagrama. Od kilkudziesięciu minut nie działają. Problemem jak zwykle jest DNS, a dokładniej zmiana w konfiguracji routerów BGP obsługujących infrastrukturę Facebooka....
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alvaro Montoro)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Composable CSS Animation In Vue With AnimXYZ]]></title>
-        <id>https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/</id>
-        <link href="https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/"/>
-        <updated>2021-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.]]></summary>
+        <title type="html"><![CDATA[Są propozycje regulacji przeciwko wyłudzeniom kart SIM]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/"/>
+        <updated>2021-10-04T11:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Mamy wrażenie, że bezpieczeństwo wydawania duplikatów kart SIM obchodzi tylko dwie grupy ludzi: ofiary oszustw oraz speców od bezpieczeństwa. Dlatego dobrze, że przedstawiono propozycje rozwiązania...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ejiro Asiuwhu)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/"/>
-        <updated>2021-10-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!]]></summary>
+        <title type="html"><![CDATA[Czy można wysłać e-maila z czyjegoś adresu IP?]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/"/>
+        <updated>2021-10-03T17:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Od wczoraj sporo osób zadaje nam wiele pytań dotyczących tego “czy możliwe jest nieuprawnione wykorzystanie czyjegoś adresu IP” w związku z sytuacją, która spotkała jednego z dziennikarzy...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Bryan Robinson)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)]]></title>
-        <id>https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/</id>
-        <link href="https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/"/>
-        <updated>2021-10-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
+        <title type="html"><![CDATA[Wpadka GUS-u. Ujawniono e-maile kilkuset Polaków ze Spisu Powszechnego]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/"/>
+        <updated>2021-09-30T09:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Spis Powszechny dobiega do końca. Po trudnych początkach, wielu nieprawidłowościach i kilku oszustwach, wielkich problemów nie było. Choć niestety nie wiemy na czym faktycznie polega ochrona i...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To CSS Debugging]]></title>
-        <id>https://smashingmagazine.com/2021/10/guide-debugging-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/guide-debugging-css/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
+        <title type="html"><![CDATA[Polscy operatorzy przy granicy z Białorusią wysyłają migrantom SMS-y z ostrzeżeniem]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/"/>
+        <updated>2021-09-29T09:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Minister Kamiński informuje, że “migranci, którzy pojawiają się teraz przy granicy 🇵🇱|🇧🇾 w zasięgu naszych BTSów otrzymują takiego SMSa”: „The Polish...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Testing A Serverless API (API Gateway And Lambda)]]></title>
-        <id>https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/</id>
-        <link href="https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/"/>
-        <updated>2021-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tom Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Expandable Accessible Gallery]]></title>
-        <id>https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/</id>
-        <link href="https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/"/>
-        <updated>2021-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
-        <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
-        <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
-        <updated>2021-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Time Of Transition (October 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/</id>
-        <link href="https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/"/>
-        <updated>2021-09-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
-        <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
-        <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
-        <updated>2021-09-29T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Accessibility Of Your Markdown]]></title>
-        <id>https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/</id>
-        <link href="https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/"/>
-        <updated>2021-09-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Dive Into Cypress For End-to-End Testing]]></title>
-        <id>https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/</id>
-        <link href="https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/"/>
-        <updated>2021-09-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>

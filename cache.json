@@ -17,626 +17,227 @@
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Niebezpiecznik.pl",
+      "feedUrl": "http://feeds.feedburner.com/niebezpiecznik?format=xml",
+      "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=353747",
-          "author": "Hilman Ramadhan",
-          "description": "If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …\nThe post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/",
-          "publishedOn": "2021-10-26T14:11:59.000Z",
-          "wordCount": 1418,
-          "title": "In-Page Filtered Search With Vanilla JavaScript"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/",
+          "author": null,
+          "description": "Początki bywają trudne. Z ledwie co oddanego do użytku systemu poboru opłat e-TOLL można było pobrać dane użytkowników, w tym ich PESEL-e. Winne okazało się znów niezbyt dobrze zabezpieczone API. Po...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/",
+          "publishedOn": "2021-10-26T11:28:07.000Z",
+          "wordCount": 1977,
+          "title": "Dziura w systemie e-TOLL: można było pobrać dane użytkowników"
         },
         {
-          "id": "https://css-tricks.com/?p=353621",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nBuilding products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …\nThe post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/userwell-is-for-managing-customer-feedback/",
-          "publishedOn": "2021-10-26T14:10:05.000Z",
-          "wordCount": 621,
-          "title": "Userwell is for Managing Customer Feedback"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/",
+          "author": null,
+          "description": "W ostatnich miesiącach wielu dziennikarzy pytało nas o to, jak mogą wykryć, czy są inwigilowani oraz jak zabezpieczyć zarówno siebie jak i komunikację ze swoimi źródłami, zwłaszcza tą przez internet...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/",
+          "publishedOn": "2021-10-22T10:48:53.000Z",
+          "wordCount": 1335,
+          "title": "Szkolenie dla dziennikarzy z cyberbezpieczeństwa, OPSEC i OSINT"
         },
         {
-          "id": "https://css-tricks.com/?p=353728",
-          "author": "Chris Coyier",
-          "description": "When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …\nThe post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/",
-          "publishedOn": "2021-10-25T19:25:17.000Z",
-          "wordCount": 1860,
-          "title": "The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/",
+          "author": null,
+          "description": "Każdy kto wszedł na specjalną podstronę w domenie Plusa, mógł podejrzeć dane klientów Plusa i jego drugiej marki, Plusha. Można było ustalić do kogo należy dany numer telefonu a także uzyskać dostęp...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/",
+          "publishedOn": "2021-10-17T18:31:52.000Z",
+          "wordCount": 3610,
+          "title": "Fatalna wpadka Plusa. Każdy mógł pobrać dane klientów"
         },
         {
-          "id": "https://css-tricks.com/?p=353496",
-          "author": "Mike Neumegen",
-          "description": "The past year has seen a healthy debate around the term ‘Jamstack’ as the definition gets stretched to include new use cases. I recently posted my take on a Jamstack definition in “Static vs. Dynamic vs. Jamstack: Where’s The Line?”…\nThe post The Semantics of Jamstack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-semantics-of-jamstack/",
-          "publishedOn": "2021-10-25T14:20:08.000Z",
-          "wordCount": 1707,
-          "title": "The Semantics of Jamstack"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/",
+          "author": null,
+          "description": "Od ponad miesiąca otrzymujemy od Was zgłoszenia w sprawie “podejrzanych” e-maili, które omijają spam a w treści posiadają — jak to określił jeden z czytelników —...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/",
+          "publishedOn": "2021-10-12T09:26:07.000Z",
+          "wordCount": 3075,
+          "title": "Dziwne e-maile, &#8220;kryptyczne&#8221; i omijające spam. Prześladują użytkowników GMaila"
         },
         {
-          "id": "https://css-tricks.com/?p=354567",
-          "author": "Chris Coyier",
-          "description": "A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.\nSome combinations feel fairly obvious: can you put …\nThe post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://caninclude.glitch.me/",
-          "publishedOn": "2021-10-22T17:57:30.000Z",
-          "wordCount": 136,
-          "title": "Can Include (a Certain HTML element within another Certain HTML Element)"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/",
+          "author": null,
+          "description": "Chmura zdobywa popularność w Polsce. Co prawda nadal znajdujemy się w europejskim ogonku jeśli chodzi o poziom adopcji chmury. Według danych Eurostatu, w 2020 roku z clouda korzystało 24% polskich...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/",
+          "publishedOn": "2021-10-11T06:30:12.000Z",
+          "wordCount": 5371,
+          "title": "Ile kosztuje niewiedza w chmurze? Analiza 5 niepotrzebnie wysokich rachunków"
         },
         {
-          "id": "https://css-tricks.com/?p=353391",
-          "author": "Temani Afif",
-          "description": "Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …\nThe post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/",
-          "publishedOn": "2021-10-22T14:02:54.000Z",
-          "wordCount": 3465,
-          "title": "Exploring the CSS Paint API: Rounding Shapes"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/",
+          "author": null,
+          "description": "Awaria Facebooka, WhatsAppa i Instagrama. Od kilkudziesięciu minut nie działają. Problemem jak zwykle jest DNS, a dokładniej zmiana w konfiguracji routerów BGP obsługujących infrastrukturę Facebooka....\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/",
+          "publishedOn": "2021-10-04T16:29:29.000Z",
+          "wordCount": 6642,
+          "title": "[AKTUALIZACJA] Facebook, WhatsApp i Instagram nie działają"
         },
         {
-          "id": "https://css-tricks.com/?p=354537",
-          "author": "Geoff Graham",
-          "description": "It’s not uncommon for my front-end workflow to go something like this:\nWork on thing.\nSee that thing in an automatically refreshed browser.\nSee something wrong with that thing.\nInspect and correct the thing in DevTools.\nApply the correct code \n…\nThe post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/",
-          "publishedOn": "2021-10-21T22:14:21.000Z",
-          "wordCount": 575,
-          "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/",
+          "author": null,
+          "description": "Mamy wrażenie, że bezpieczeństwo wydawania duplikatów kart SIM obchodzi tylko dwie grupy ludzi: ofiary oszustw oraz speców od bezpieczeństwa. Dlatego dobrze, że przedstawiono propozycje rozwiązania...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/",
+          "publishedOn": "2021-10-04T11:09:02.000Z",
+          "wordCount": 5472,
+          "title": "Są propozycje regulacji przeciwko wyłudzeniom kart SIM"
         },
         {
-          "id": "https://css-tricks.com/?p=353318",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nI only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …\nThe post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-css-in-react-landscape/",
-          "publishedOn": "2021-10-21T22:13:57.000Z",
-          "wordCount": 1746,
-          "title": "The CSS-in-React Landscape"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/",
+          "author": null,
+          "description": "Od wczoraj sporo osób zadaje nam wiele pytań dotyczących tego “czy możliwe jest nieuprawnione wykorzystanie czyjegoś adresu IP” w związku z sytuacją, która spotkała jednego z dziennikarzy...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/",
+          "publishedOn": "2021-10-03T17:05:25.000Z",
+          "wordCount": 6764,
+          "title": "Czy można wysłać e-maila z czyjegoś adresu IP?"
         },
         {
-          "id": "https://css-tricks.com/?p=353128",
-          "author": "Monica Powell",
-          "description": "We’re going to create a contact form with Next.js and Netlify that displays a confirmation screen and features enhanced spam detection.\nNext.js is a powerful React framework for developing performant React applications that scale. By integrating a Next.js site with …\nThe post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/",
-          "publishedOn": "2021-10-21T14:26:03.000Z",
-          "wordCount": 1711,
-          "title": "How to Create a Contact Form With Next.js and Netlify"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/",
+          "author": null,
+          "description": "Spis Powszechny dobiega do końca. Po trudnych początkach, wielu nieprawidłowościach i kilku oszustwach, wielkich problemów nie było. Choć niestety nie wiemy na czym faktycznie polega ochrona i...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/",
+          "publishedOn": "2021-09-30T09:24:44.000Z",
+          "wordCount": 4136,
+          "title": "Wpadka GUS-u. Ujawniono e-maile kilkuset Polaków ze Spisu Powszechnego"
         },
         {
-          "id": "https://css-tricks.com/?p=353866",
-          "author": "Chris Coyier",
-          "description": "Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ \n…\nThe post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/some-typography-links-viii/",
-          "publishedOn": "2021-10-20T23:25:22.000Z",
-          "wordCount": 608,
-          "title": "Some Typography Links VIII"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353638",
-          "author": "Emily Leung",
-          "description": "No matter what stage you’re at as a developer, the tasks we complete—whether big or small—make a huge impact in our personal and professional growth. Unfortunately, those tasks aren’t always recognized because they can easily get lost in the sea …\nThe post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/",
-          "publishedOn": "2021-10-20T15:02:28.000Z",
-          "wordCount": 6168,
-          "title": "Creating Your Own Bragdoc With Eleventy"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354115",
-          "author": "Chris Coyier",
-          "description": "I didn’t realize the support for @supports determining selector support was so good! I usually think of @supports as a way to test for property: value pair support. But with the selector() function, we can test for selector support …\nThe post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/supports-selector/",
-          "publishedOn": "2021-10-19T21:12:18.000Z",
-          "wordCount": 869,
-          "title": "@supports selector()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353462",
-          "author": "Elad Shechter",
-          "description": "Hey folks! Elad reached out to me to show me his new CSS reset project called the-new-css-reset. It’s quite interesting! I thought a neat way to share it with you is not only to point you toward it, but …\nThe post An Interview With Elad Shechter on “The New CSS Reset” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/",
-          "publishedOn": "2021-10-19T14:48:40.000Z",
-          "wordCount": 3374,
-          "title": "An Interview With Elad Shechter on “The New CSS Reset”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354269",
-          "author": "Chris Coyier",
-          "description": "We aren’t supposed to be doing any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do.\nKarl Dubost notes that there is a significant change coming to them, notably moving the version integer past …\nThe post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/three-digit-browser-versions-in-march-2022/",
-          "publishedOn": "2021-10-18T22:53:05.000Z",
-          "wordCount": 528,
-          "title": "Three-Digit Browser Versions in March 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353308",
-          "author": "Alex Standiford",
-          "description": "I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …\nThe post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/",
-          "publishedOn": "2021-10-18T14:48:34.000Z",
-          "wordCount": 2414,
-          "title": "How to Build a Nearly Headless WordPress Website"
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/",
+          "author": null,
+          "description": "Minister Kamiński informuje, że “migranci, którzy pojawiają się teraz przy granicy 🇵🇱|🇧🇾 w zasięgu naszych BTSów otrzymują takiego SMSa”: „The Polish...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/",
+          "publishedOn": "2021-09-29T09:59:31.000Z",
+          "wordCount": 3236,
+          "title": "Polscy operatorzy przy granicy z Białorusią wysyłają migrantom SMS-y z ostrzeżeniem"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "Zaufana Trzecia Strona",
+      "feedUrl": "https://zaufanatrzeciastrona.pl/feed",
+      "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-          "author": "hello@smashingmagazine.com (Melvin Kosisochukwu)",
-          "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
-          "link": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-          "publishedOn": "2021-10-26T10:00:00.000Z",
-          "wordCount": 3028,
-          "title": "Optimizing Next.js Applications With Nx",
+          "id": "https://zaufanatrzeciastrona.pl/?p=59319",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Jak włączyć przeglądanie stron internetowych w środowisku izolowanym, czy da się unieszkodliwić makra w dokumentach pakietu Office, używane na potęgę do infekowania komputerów i co ma do tego PowerShell – dowiecie się z dzisiejszego poradnika.\nNie sposób w jednym artykule omówić wszystkich narzędzi dostępnych w systemie Windows, które mogą podnieść bezpieczeństwo jego użytkowników, jeśli tylko zostaną odpowiednio skonfigurowane.… Czytaj dalej \nThe post Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-mniej-znane-funkcje-podnoszace-bezpieczenstwo-uzytkownikow-windowsa/",
+          "publishedOn": "2021-10-26T05:55:07.000Z",
+          "wordCount": null,
+          "title": "Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59611",
+          "author": "Adam Haertle",
+          "description": "Gościem siedemdziesiątego dziewiątego odcinka podcastu Rozmowa Kontrolowana jest Wojciech Pilszak, ekspert informatyki śledczej, prezes firmy e-Detektywi, wykładowca i trener.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-79-wojciech-pilszak-ekspert-informatyki-sledczej/",
+          "publishedOn": "2021-10-25T19:34:45.000Z",
+          "wordCount": null,
+          "title": "Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej",
+          "itunes": {
+            "duration": "1:11:59"
+          },
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b5517f-415c-43ed-98a6-70215d408f7a/optimizing-nextjs-applications-nx.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/10/79.mp3",
+            "length": "60649767",
+            "type": "audio/mpeg"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
-          "link": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
-          "publishedOn": "2021-10-25T13:00:00.000Z",
-          "wordCount": 2034,
-          "title": "A Deep Dive Into object-fit And background-size In CSS",
+          "id": "https://zaufanatrzeciastrona.pl/?p=59605",
+          "author": "Adam Haertle",
+          "description": "Coraz większy kawałek naszego życia toczy się w świecie wirtualnym – nic więc dziwnego, że pojawiają się detektywi, specjalizujący się w poszukiwaniach w internecie. Z prezesem takiej właśnie agencji spotkamy się już dzisiaj. Poznajcie Wojciecha.\nWojciech Pilszak  przez osiem lat zbierał doświadczenie jako funkcjonariusz policji, specjalizujący się w ściganiu cyberprzestępczości.… Czytaj dalej \nThe post Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-informatyki-sledczej-wojciech-pilszak-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-10-24T08:21:59.000Z",
+          "wordCount": null,
+          "title": "Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59584",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Czeka na was dużo ciekawych linków zarówno w części fabularnej, jak i technicznej – każdy ma szansę znaleźć coś dla siebie. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o tym, jak podrobiona próbka głosu prezesa posłużyła do kradzieży pieniędzy z banku (pkt 11) oraz materiał o unieszkodliwieniu infrastruktury grupy REvil przez organy ścigania (pkt 17).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-438-2021-10-23-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-10-23T20:57:25.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59531",
+          "author": "Adam Haertle",
+          "description": "Gościem siedemdziesiątego ósmego odcinka podcastu Rozmowa Kontrolowana jest Piotr Zarzycki, pentester, bezpiecznik i prelegent.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-78-piotr-zarzycki-ekspert-cyberbezpieczenstwa/",
+          "publishedOn": "2021-10-17T20:55:16.000Z",
+          "wordCount": null,
+          "title": "Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa",
+          "itunes": {
+            "duration": "1:14:24"
+          },
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/19e7f717-46d5-4949-96f4-671f4744d0e1/object-fit-background-size-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/10/78.mp3",
+            "length": "62658955",
+            "type": "audio/mpeg"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "author": "hello@smashingmagazine.com (Joel Olawanle)",
-          "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
-          "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4929,
-          "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
+          "id": "https://zaufanatrzeciastrona.pl/?p=59510",
+          "author": "Adam Haertle",
+          "description": "Od programisty do bezpiecznika, od pierwszej linii SOC do zarządzania pentestami w jednym z największych banków, a potem jeszcze transfer z banku do telekomu – nasz gość ma ciekawą ścieżkę kariery. Zapraszamy na spotkanie z Piotrkiem.\nPiotr Zarzycki zaczynał karierę w IT jako programista.… Czytaj dalej \nThe post Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-cyberbezpieczenstwa-piotr-zarzycki-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-10-17T10:06:04.000Z",
+          "wordCount": null,
+          "title": "Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59501",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Znów się ochłodziło, więc dajemy Wam dobrą okazję do spędzenia kilku godzin w domowym zaciszu i zapoznania się z zebranymi przez nas linkami. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o dziennikarzu, którego amerykańskie władze chcą ścigać za wgląd do źródła rządowej strony (pkt 5) oraz opowieść o największym ataku w historii Twitcha, do którego doszło w 2014 r.… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-437-2021-10-17-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-10-17T07:36:03.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59462",
+          "author": "Adam Haertle",
+          "description": "Gościem siedemdziesiątego siódmego odcinka podcastu Rozmowa Kontrolowana jest Krzysztof Kotowicz, ekspert bezpieczeństwa aplikacji WWW, programista, pentester, architekt zabezpieczeń.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 77 – Krzysztof Kotowicz, web security ninja first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-77-krzysztof-kotowicz-web-security-ninja/",
+          "publishedOn": "2021-10-10T21:22:59.000Z",
+          "wordCount": null,
+          "title": "Odcinek 77 – Krzysztof Kotowicz, web security ninja",
+          "itunes": {
+            "duration": "1:18:10"
+          },
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/10/77.mp3",
+            "length": "65822856",
+            "type": "audio/mpeg"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
-          "author": "hello@smashingmagazine.com (Martin Grubinger)",
-          "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
-          "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
-          "publishedOn": "2021-10-22T09:30:00.000Z",
-          "wordCount": 4633,
-          "title": "How To Build A Real-Time Multi-User Game From Scratch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://zaufanatrzeciastrona.pl/?p=59429",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Za nami kolejny tydzień, w którym nie brakowało doniesień o świeżo zaobserwowanych atakach, nowo odkrytych lukach i innych incydentach. Życzymy zatem udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej materiał wideo o tym, jak się zabezpiecza banknoty (pkt 7) oraz informacje o poważnym wycieku danych z platformy streamingowej Twitch (pkt 10).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 436 [2021-10-10]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-436-2021-10-10-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-10-10T15:04:24.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 436 [2021-10-10]. Bierzcie i czytajcie",
+          "itunes": {}
         },
         {
-          "id": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
-          "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2884,
-          "title": "Respecting Users’ Motion Preferences",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
-          "author": "hello@smashingmagazine.com (Ben Holmes)",
-          "description": "Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.",
-          "link": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
-          "publishedOn": "2021-10-20T11:00:00.000Z",
-          "wordCount": 5057,
-          "title": "Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1ff6275f-bf33-480f-bdd4-690e94f96314/building-ssg-11ty-vite-jam-sandwich.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.",
-          "link": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
-          "publishedOn": "2021-10-19T14:00:00.000Z",
-          "wordCount": 2532,
-          "title": "Building An API With Gatsby Functions",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/110c2aa7-7744-48d6-a234-9e67e903cbe5/building-api-gatsby-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.",
-          "link": "https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/",
-          "publishedOn": "2021-10-19T10:00:00.000Z",
-          "wordCount": 9120,
-          "title": "Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f30e407-6c98-4abf-80f3-8d312ac20eb2/smashing-podcast-episode-42.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/",
-          "author": "hello@smashingmagazine.com (Arijit Mondal)",
-          "description": "Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.",
-          "link": "https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/",
-          "publishedOn": "2021-10-18T14:00:00.000Z",
-          "wordCount": 2146,
-          "title": "Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e522651-eaf2-45e7-a544-9da7beb7b23e/nextjs-ecommerce-cls-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/",
-          "author": "hello@smashingmagazine.com (Dave Oscar)",
-          "description": "In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.",
-          "link": "https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/",
-          "publishedOn": "2021-10-16T10:00:00.000Z",
-          "wordCount": 2845,
-          "title": "A Simple But Effective Mental Health Routine For Programmers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c36dd2b2-f807-42a7-b8d1-9e6e9a00b3e7/effective-mental-health-routine-for-programmers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/",
-          "author": "hello@smashingmagazine.com (Nataliya Sambir)",
-          "description": "Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.",
-          "link": "https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/",
-          "publishedOn": "2021-10-15T13:00:00.000Z",
-          "wordCount": 4020,
-          "title": "Tips And Tricks For Evaluating UX/UI Designers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/727cbd89-cbf4-4a29-af64-ac51d777ffba/tips-tricks-evaluating-ux-ui-designers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
-          "link": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
-          "publishedOn": "2021-10-14T12:00:00.000Z",
-          "wordCount": 3523,
-          "title": "Smart CSS Solutions For Common UI Challenges",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3bf0115-0bc9-41b7-b027-3ea8b6b7e848/transition-css-gradients-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).",
-          "link": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
-          "publishedOn": "2021-10-13T11:00:00.000Z",
-          "wordCount": 1000,
-          "title": "Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
-          "author": "hello@smashingmagazine.com (Gaurav Khanna)",
-          "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
-          "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
-          "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2341,
-          "title": "Useful React APIs For Building Flexible Components With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
-          "author": "hello@smashingmagazine.com (Matthew Talebi)",
-          "description": "UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.",
-          "link": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
-          "publishedOn": "2021-10-12T10:30:00.000Z",
-          "wordCount": 2174,
-          "title": "Bridging The Gap Between Designers And Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f89855fe-fbaf-4d96-80a4-189aa27e8afb/gap-between-designers-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
-          "author": "hello@smashingmagazine.com (Alvaro Montoro)",
-          "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
-          "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
-          "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3733,
-          "title": "The Autofill Dark Pattern",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
-          "author": "hello@smashingmagazine.com (Ejiro Asiuwhu)",
-          "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
-          "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
-          "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2816,
-          "title": "Composable CSS Animation In Vue With AnimXYZ",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
-          "author": "hello@smashingmagazine.com (Bryan Robinson)",
-          "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
-          "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
-          "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7093,
-          "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
-          "author": "hello@smashingmagazine.com (Anton Tyschenko)",
-          "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
-          "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
-          "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 1009,
-          "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
-          "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5480,
-          "title": "A Guide To CSS Debugging",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
-          "author": "hello@smashingmagazine.com (Tom Hudson)",
-          "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
-          "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
-          "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Local Testing A Serverless API (API Gateway And Lambda)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
-          "author": "hello@smashingmagazine.com (Silvestar Bistrović)",
-          "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
-          "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
-          "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2611,
-          "title": "How To Build An Expandable Accessible Gallery",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "author": "hello@smashingmagazine.com (Miracle Onyenma)",
-          "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
-          "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4898,
-          "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
-          "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2479,
-          "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
-          "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5051,
-          "title": "Using Modern Image Formats: AVIF And WebP",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
-          "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3880,
-          "title": "Improving The Accessibility Of Your Markdown",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
-          "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4960,
-          "title": "Let’s Dive Into Cypress For End-to-End Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "616fcad6d48e1707b6d78874",
-          "author": null,
-          "description": "Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed",
-          "link": "https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/",
-          "publishedOn": "2021-10-26T17:33:34.000Z",
-          "wordCount": 867,
-          "title": "How to Secure Linux Servers with SE Linux"
-        },
-        {
-          "id": "6122045f3bccf807612a5762",
-          "author": null,
-          "description": "If you are interested in the tech industry, then you might consider a career as a software engineer. But what is a software engineer and how do you become one?  In this article, I will explain what software engineers do and the steps you can take to become one. What",
-          "link": "https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/",
-          "publishedOn": "2021-10-26T17:16:01.000Z",
-          "wordCount": 1620,
-          "title": "What is Software Engineering? How to Become a Software Engineer"
-        },
-        {
-          "id": "617834f033422e07df364b90",
-          "author": null,
-          "description": "Django is a popular web development framework that uses Python.  We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by teaching you how to create a digital resume using Python and Django. Bobby Stearman developed this course. Bobby has created",
-          "link": "https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/",
-          "publishedOn": "2021-10-26T17:15:47.000Z",
-          "wordCount": 353,
-          "title": "Django Project: Create a Digital Resume Using Django and Python"
-        },
-        {
-          "id": "61746f69d48e1707b6d7a229",
-          "author": null,
-          "description": "Lots of people still use static websites, from family-run businesses who don't need to update information that often, to large teams who need to release something quickly without spending too much time and effort on it.  You might also want a static website for these reasons: Speed: pages load quicklyMinimal",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-a-static-website-with-wordpress/",
-          "publishedOn": "2021-10-26T17:09:22.000Z",
-          "wordCount": 1217,
-          "title": "How to Integrate a Static Website with WordPress"
-        },
-        {
-          "id": "61782fe233422e07df364b4f",
-          "author": null,
-          "description": "Seventy-five percent of all phones are Android phones and seventy-five percent of all Internet users only access the Internet using their phone. So there is a big market for Android apps. We just published crash course on Android app development on the freeCodeCamp.org YouTube channel. This course is perfect",
-          "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/",
-          "publishedOn": "2021-10-26T12:01:00.000Z",
-          "wordCount": 400,
-          "title": "Android App Development for Beginners"
-        },
-        {
-          "id": "612cbff5b5177808226d4a51",
-          "author": null,
-          "description": "Knowing how to create tables in SQL is an important and fundamental concept.  In this tutorial, I will walk you through the SQL syntax for the CREATE TABLE statement using code examples for both PostgreSQL and MySQL.   Basic CREATE TABLE SyntaxHere is the basic syntax for the CREATE TABLE statement:",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-table-in-sql-postgres-and-mysql-example-query/",
-          "publishedOn": "2021-10-25T22:53:29.000Z",
-          "wordCount": 1452,
-          "title": "How to Create a Table in SQL – Postgres and MySQL Example Query"
-        },
-        {
-          "id": "616f0656d48e1707b6d78353",
-          "author": null,
-          "description": "Learning to do something new is hard. Whether it's a physical feat like reaching a new best lift or a mental challenge like learning a new language – both entail months of work, multiple setbacks, and hundreds of hours of time put in. And then you still might just be at",
-          "link": "https://www.freecodecamp.org/news/how-to-get-better-at-programming-even-when-its-hard/",
-          "publishedOn": "2021-10-25T21:43:19.000Z",
-          "wordCount": 1242,
-          "title": "Programming is Really Hard – But Don&#x27;t Give Up"
-        },
-        {
-          "id": "616c3fff80d82d07c45a6337",
-          "author": null,
-          "description": "Hooks were first introduced in React 16.8. And they're great because they let you use more of React's features – like managing your component's state, or performing an after effect when certain changes occur in state(s) without writing a class.  In this article, you will learn how to use",
-          "link": "https://www.freecodecamp.org/news/introduction-to-react-hooks/",
-          "publishedOn": "2021-10-25T15:39:22.000Z",
-          "wordCount": 1950,
-          "title": "React Hooks Tutorial – useState, useEffect, and How to Create Custom Hooks"
-        },
-        {
-          "id": "6104f8e83306a507d1bfbc2c",
-          "author": null,
-          "description": "REST and GraphQL are both standard ways to develop backend APIs. But over the past decade REST APIs have dominated as a choice for developing backend API's. And many companies and developers use it actively in their projects.   But REST has some limitations, and there's another alternative available – GraphQL. GraphQL",
-          "link": "https://www.freecodecamp.org/news/graphql-vs-rest-api/",
-          "publishedOn": "2021-10-25T15:02:30.000Z",
-          "wordCount": 1523,
-          "title": "GraphQL vs REST API – Which Should You Use for Back End API Development?"
-        },
-        {
-          "id": "615d55c00d91c9077974d3fc",
-          "author": null,
-          "description": "When you are designing a website, it is really important that your content looks good on all screen sizes.  In this article, I will talk about how to use responsive design and media queries to make this happen. I will also provide code examples for media queries using max and",
-          "link": "https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/",
-          "publishedOn": "2021-10-25T14:02:26.000Z",
-          "wordCount": 1135,
-          "title": "Media Query CSS Example – Max and Min Screen Width for Mobile Responsive Design"
+          "id": "https://zaufanatrzeciastrona.pl/?p=59446",
+          "author": "Adam Haertle",
+          "description": "Bezpieczeństwo aplikacji WWW jest chyba (z wielu powodów) jedną z najpopularniejszych specjalizacji w naszej branży. Niewiele jest jednak osób, które znają się na tym obszarze tak dobrze jak nasz dzisiejszy gość. Zapraszamy na spotkanie z Krzysztofem.\nKrzysztof Kotowicz zaczynał od kariery programisty, lecz w pewnym momencie skręcił w stronę bezpieczeństwa.… Czytaj dalej \nThe post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/web-security-ninja-krzysztof-kotowicz-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-10-10T13:01:31.000Z",
+          "wordCount": null,
+          "title": "Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
         }
       ]
     }
