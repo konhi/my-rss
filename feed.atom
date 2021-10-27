@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-10-27T00:51:14.445Z</updated>
+    <updated>2021-10-27T17:30:07.270Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -91,6 +91,27 @@ The post Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie firs
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[22 października 2021]]></title>
+        <id>https://news.mrugalski.pl/post/665742354220711936</id>
+        <link href="http://feedproxy.google.com/~r/unknowNews/~3/0qUMwDdxToE/665742354220711936"/>
+        <updated>2021-10-22T11:16:24.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Jak co piątek, przygotowałem dla Ciebie nowe zestawienie interesujących linków z branży IT :)
+
+Realistyczny symulator polowań (gra 3D) za niecałe 5zł
+Ostatnie dni na zgarnięcie ebooków dla DevOpsów
+
+1) Oficjalna, darmowa wersja webowa VSCode Server (działa w przeglądarce)
+https://vscode.dev/
+INFO: działa idealnie w Chrome. Pozwala pracować na plikach lokalnych, jak i na tych z repozytoriów GitHuba. Można używać własnych skórek i innych urozmaiceń. Idealne rozwiązanie do pracy z każdego miejsca i z platform, na których nie da się postawić natywnego VSCode.
+2) Jak odzyskać dostęp do przejętego przez hackerów konta na Facebooku?
+https://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/
+INFO: istnieją firmy, które się tym zajmują, ale samodzielne wykonan…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Szkolenie dla dziennikarzy z cyberbezpieczeństwa, OPSEC i OSINT]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/</id>
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/"/>
@@ -176,6 +197,29 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[15 października 2021]]></title>
+        <id>https://news.mrugalski.pl/post/665108999857897472</id>
+        <link href="http://feedproxy.google.com/~r/unknowNews/~3/ovCLlBCXPjI/665108999857897472"/>
+        <updated>2021-10-15T11:29:30.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Czas na nowe zestawienie interesujących linków z branży IT - zapraszam do lektury :)
+
+Zupełnie odnowiona oferta VPSów za 35zł/rok.
+
+1) Zbiór subiektywnie najciekawszych linków na temat cybersecurity
+https://szurek.top/
+INFO: kolekcja ma 34 strony, więc jest co czytać/słuchać/oglądać. 
+2) GraphQL - o co tyle hałasu i dlaczego miałby Ci pomóc w pracy?
+https://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql
+INFO: jakie problemy znane z RESTa rozwiązuje GraphQL? Jak to wpływa na wydajność i poziom skomplikowania aplikacji? Dobry zbiór argumentów w dyskusji na temat przejścia z REST na GraphQL
+3) Reklamy strych gier wideo  (na PC, konsole i inne platformy)
+https://retrocgads.tumblr.com
+INFO: spora kolekcja głównie reklam z gazet. Powiew nostalgi…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dziwne e-maile, &#8220;kryptyczne&#8221; i omijające spam. Prześladują użytkowników GMaila]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/</id>
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/"/>
@@ -249,6 +293,28 @@ The post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[8 października 2021]]></title>
+        <id>https://news.mrugalski.pl/post/664477275236057088</id>
+        <link href="http://feedproxy.google.com/~r/unknowNews/~3/HrJNbYMwOZM/664477275236057088"/>
+        <updated>2021-10-08T12:08:31.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Tak, to już piątek, a ja przybywam do Ciebie z nową porcją ciekawych linków z branży IT :) 
+
+Kursy webdevelopmentu - €1 za paczkę
+Ebooki dla Devopsów - kup 5 sztuk za niecałe 5zł.
+6 ebooków na temat uczenia maszynowego - za grosze
+
+1) Pełna roadmapa umiejętności wartych opanowania przez web developera
+https://andreasbm.github.io/web-skills/
+INFO: użyj drag&drop, aby zobaczyć całą listę. Po najechaniu myszką zobaczysz linki do stron, które ułatwią Ci naukę
+2) Elevator Saga - czy umiałbyś zaprogramować algorytm do obsługi windy w JavaScript?
+https://play.elevatorsaga.com/
+INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij start i po każdej zmianie kodu ‘Apply’. Koniecznie przeczytaj dokumentację (przykładowy kod nie obsługuje nawet naciśnięcia przycisku …]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[AKTUALIZACJA] Facebook, WhatsApp i Instagram nie działają]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/</id>
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/"/>
@@ -285,6 +351,29 @@ The post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 października 2021]]></title>
+        <id>https://news.mrugalski.pl/post/663840511377965056</id>
+        <link href="http://feedproxy.google.com/~r/unknowNews/~3/zoqSA3sF_I8/663840511377965056"/>
+        <updated>2021-10-01T11:27:25.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Zapraszam do copiątkowej lektury ciekawych linków z branży IT :)
+
+Masz konto na Facebooku? Dołącz do grupy “Promocje IT”
+
+1) Jak to jest pracować w wirtualnej rzeczywistości po 40-50h tygodniowo? Dobrze?
+https://blog.immersed.team/working-from-orbit-39bf95a6d385
+INFO: artykuł człowieka, który od ponad 2.5 roku pracuje tylko w wirtualnym środowisku (platforma Immersed + Oculus). Ciekawy setup pozwalający np. trzymać 6 monitorów na małym biurku w kawalerce ;)
+2) Nagrania z zeszłorocznej konferencji “Oh My Hack” (playlista)
+https://www.youtube.com/watch?v=I5hE4oJ7kuU&list=PLnKL6-WWWE_UGj71IqyIgIurMBGm0fwK1
+INFO: łącznie 30 prelekcji na temat szeroko pojętego cybersecurity
+3) Emulator starych Windowsów + oprogramowanie (działa online)
+https://emupedia.net/beta/emuos/
+INFO: wybi…]]></summary>
+        <author>
+            <name>unknowNews</name>
         </author>
     </entry>
     <entry>

@@ -250,6 +250,49 @@
           "itunes": {}
         }
       ]
+    },
+    {
+      "title": "unknowNews",
+      "feedUrl": "http://feeds.feedburner.com/unknowNews?format=xml",
+      "siteUrl": "https://news.mrugalski.pl/",
+      "articles": [
+        {
+          "id": "https://news.mrugalski.pl/post/665742354220711936",
+          "author": null,
+          "description": "◢ #unknownews ◣\nJak co piątek, przygotowałem dla Ciebie nowe zestawienie interesujących linków z branży IT :)\n\nRealistyczny symulator polowań (gra 3D) za niecałe 5zł\nOstatnie dni na zgarnięcie ebooków dla DevOpsów\n\n1) Oficjalna, darmowa wersja webowa VSCode Server (działa w przeglądarce)\nhttps://vscode.dev/\nINFO: działa idealnie w Chrome. Pozwala pracować na plikach lokalnych, jak i na tych z repozytoriów GitHuba. Można używać własnych skórek i innych urozmaiceń. Idealne rozwiązanie do pracy z każdego miejsca i z platform, na których nie da się postawić natywnego VSCode.\n2) Jak odzyskać dostęp do przejętego przez hackerów konta na Facebooku?\nhttps://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/\nINFO: istnieją firmy, które się tym zajmują, ale samodzielne wykonan…",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/0qUMwDdxToE/665742354220711936",
+          "publishedOn": "2021-10-22T11:16:24.000Z",
+          "wordCount": 1052,
+          "title": "22 października 2021"
+        },
+        {
+          "id": "https://news.mrugalski.pl/post/665108999857897472",
+          "author": null,
+          "description": "◢ #unknownews ◣\nCzas na nowe zestawienie interesujących linków z branży IT - zapraszam do lektury :)\n\nZupełnie odnowiona oferta VPSów za 35zł/rok.\n\n1) Zbiór subiektywnie najciekawszych linków na temat cybersecurity\nhttps://szurek.top/\nINFO: kolekcja ma 34 strony, więc jest co czytać/słuchać/oglądać. \n2) GraphQL - o co tyle hałasu i dlaczego miałby Ci pomóc w pracy?\nhttps://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql\nINFO: jakie problemy znane z RESTa rozwiązuje GraphQL? Jak to wpływa na wydajność i poziom skomplikowania aplikacji? Dobry zbiór argumentów w dyskusji na temat przejścia z REST na GraphQL\n3) Reklamy strych gier wideo  (na PC, konsole i inne platformy)\nhttps://retrocgads.tumblr.com\nINFO: spora kolekcja głównie reklam z gazet. Powiew nostalgi…",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/ovCLlBCXPjI/665108999857897472",
+          "publishedOn": "2021-10-15T11:29:30.000Z",
+          "wordCount": 1103,
+          "title": "15 października 2021"
+        },
+        {
+          "id": "https://news.mrugalski.pl/post/664477275236057088",
+          "author": null,
+          "description": "◢ #unknownews ◣\nTak, to już piątek, a ja przybywam do Ciebie z nową porcją ciekawych linków z branży IT :) \n\nKursy webdevelopmentu - €1 za paczkę\nEbooki dla Devopsów - kup 5 sztuk za niecałe 5zł.\n6 ebooków na temat uczenia maszynowego - za grosze\n\n1) Pełna roadmapa umiejętności wartych opanowania przez web developera\nhttps://andreasbm.github.io/web-skills/\nINFO: użyj drag&drop, aby zobaczyć całą listę. Po najechaniu myszką zobaczysz linki do stron, które ułatwią Ci naukę\n2) Elevator Saga - czy umiałbyś zaprogramować algorytm do obsługi windy w JavaScript?\nhttps://play.elevatorsaga.com/\nINFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij start i po każdej zmianie kodu ‘Apply’. Koniecznie przeczytaj dokumentację (przykładowy kod nie obsługuje nawet naciśnięcia przycisku …",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/HrJNbYMwOZM/664477275236057088",
+          "publishedOn": "2021-10-08T12:08:31.000Z",
+          "wordCount": 1125,
+          "title": "8 października 2021"
+        },
+        {
+          "id": "https://news.mrugalski.pl/post/663840511377965056",
+          "author": null,
+          "description": "◢ #unknownews ◣\nZapraszam do copiątkowej lektury ciekawych linków z branży IT :)\n\nMasz konto na Facebooku? Dołącz do grupy “Promocje IT”\n\n1) Jak to jest pracować w wirtualnej rzeczywistości po 40-50h tygodniowo? Dobrze?\nhttps://blog.immersed.team/working-from-orbit-39bf95a6d385\nINFO: artykuł człowieka, który od ponad 2.5 roku pracuje tylko w wirtualnym środowisku (platforma Immersed + Oculus). Ciekawy setup pozwalający np. trzymać 6 monitorów na małym biurku w kawalerce ;)\n2) Nagrania z zeszłorocznej konferencji “Oh My Hack” (playlista)\nhttps://www.youtube.com/watch?v=I5hE4oJ7kuU&list=PLnKL6-WWWE_UGj71IqyIgIurMBGm0fwK1\nINFO: łącznie 30 prelekcji na temat szeroko pojętego cybersecurity\n3) Emulator starych Windowsów + oprogramowanie (działa online)\nhttps://emupedia.net/beta/emuos/\nINFO: wybi…",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/zoqSA3sF_I8/663840511377965056",
+          "publishedOn": "2021-10-01T11:27:25.000Z",
+          "wordCount": 947,
+          "title": "1 października 2021"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
