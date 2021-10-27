@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-10-26T20:13:52.221Z</updated>
+    <updated>2021-10-27T00:51:14.445Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59617</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/jak-adolf-hitler-dostal-wazny-polski-certyfikat-covid/"/>
+        <updated>2021-10-26T22:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Nie, to nie jest żart. W sieci znaleźć można ważny certyfikat COVID wystawiony w Polsce dla Adolfa Hitlera, urodzonego 1 stycznia 1930. Co więcej, osoba udostępniająca certyfikat twierdzi, że może wystawić ich więcej za jedyne 300 dolarów.
+Certyfikaty COVID, przedstawiane w postaci kodu QR, mają zaświadczać o szczepieniu, przechorowaniu lub negatywnym wyniku testu i umożliwiać m.… Czytaj dalej 
+The post Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dziura w systemie e-TOLL: można było pobrać dane użytkowników]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/</id>
