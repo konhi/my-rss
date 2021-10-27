@@ -3,5 +3,6 @@ sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://feeds.feedburner.com/niebezpiecznik?format=xml
   - href: https://zaufanatrzeciastrona.pl/feed
+  - href: http://feeds.feedburner.com/unknowNews?format=xml
 
 siteTitle: "konhi's personal rss feed"
