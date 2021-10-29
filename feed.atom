@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-10-28T00:51:54.961Z</updated>
+    <updated>2021-10-29T00:50:29.144Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Totolotek zhackowany. Dane użytkowników mogły wyciec]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/"/>
+        <updated>2021-10-28T12:53:12.000Z</updated>
+        <summary type="html"><![CDATA[Totolotek został trafiony ransomwarem. Informuje o tym ofiary w e-mailach, które właśnie zaczął rozsyłać. Zaszyfrowano systemy, ale włamywacze mogli też ukraść dane użytkowników. Sporo danych:...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ktoś wystawił poprawny certyfikat COVID na Adolfa Hitlera i Myszkę Miki]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/"/>
+        <updated>2021-10-28T11:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Od tygodnia na różnych zagranicznych forach i grupach na różnych komunikatorach pojawiają się wpisy dotyczące fałszywie wystawionych, ale poprawnie weryfikujących się, oficjalnych europejskich...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=59617</id>
@@ -382,19 +408,6 @@ INFO: wybi…]]></summary>
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/"/>
         <updated>2021-09-30T09:24:44.000Z</updated>
         <summary type="html"><![CDATA[Spis Powszechny dobiega do końca. Po trudnych początkach, wielu nieprawidłowościach i kilku oszustwach, wielkich problemów nie było. Choć niestety nie wiemy na czym faktycznie polega ochrona i...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polscy operatorzy przy granicy z Białorusią wysyłają migrantom SMS-y z ostrzeżeniem]]></title>
-        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/</id>
-        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/"/>
-        <updated>2021-09-29T09:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Minister Kamiński informuje, że “migranci, którzy pojawiają się teraz przy granicy 🇵🇱|🇧🇾 w zasięgu naszych BTSów otrzymują takiego SMSa”: „The Polish...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>

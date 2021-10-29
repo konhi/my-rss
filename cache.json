@@ -22,6 +22,24 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/",
+          "author": null,
+          "description": "Totolotek został trafiony ransomwarem. Informuje o tym ofiary w e-mailach, które właśnie zaczął rozsyłać. Zaszyfrowano systemy, ale włamywacze mogli też ukraść dane użytkowników. Sporo danych:...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/",
+          "publishedOn": "2021-10-28T12:53:12.000Z",
+          "wordCount": 2031,
+          "title": "Totolotek zhackowany. Dane użytkowników mogły wyciec"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/",
+          "author": null,
+          "description": "Od tygodnia na różnych zagranicznych forach i grupach na różnych komunikatorach pojawiają się wpisy dotyczące fałszywie wystawionych, ale poprawnie weryfikujących się, oficjalnych europejskich...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/",
+          "publishedOn": "2021-10-28T11:34:54.000Z",
+          "wordCount": 2752,
+          "title": "Ktoś wystawił poprawny certyfikat COVID na Adolfa Hitlera i Myszkę Miki"
+        },
+        {
           "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/",
           "author": null,
           "description": "Początki bywają trudne. Z ledwie co oddanego do użytku systemu poboru opłat e-TOLL można było pobrać dane użytkowników, w tym ich PESEL-e. Winne okazało się znów niezbyt dobrze zabezpieczone API. Po...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
@@ -101,15 +119,6 @@
           "publishedOn": "2021-09-30T09:24:44.000Z",
           "wordCount": 4136,
           "title": "Wpadka GUS-u. Ujawniono e-maile kilkuset Polaków ze Spisu Powszechnego"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/",
-          "author": null,
-          "description": "Minister Kamiński informuje, że “migranci, którzy pojawiają się teraz przy granicy 🇵🇱|🇧🇾 w zasięgu naszych BTSów otrzymują takiego SMSa”: „The Polish...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/SA16W6rIabI/",
-          "publishedOn": "2021-09-29T09:59:31.000Z",
-          "wordCount": 3236,
-          "title": "Polscy operatorzy przy granicy z Białorusią wysyłają migrantom SMS-y z ostrzeżeniem"
         }
       ]
     },
