@@ -22,6 +22,15 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/NAHKe07rgr8/",
+          "author": null,
+          "description": "Końcówka roku to czas konferencji. Zapraszamy na The Hack Summit, jedną z czołowych, polskich konferencji poświęconych tematyce IT security, której jesteśmy patronem. Krótko o edycji 2021: Szeroka...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/NAHKe07rgr8/",
+          "publishedOn": "2021-10-29T14:12:48.000Z",
+          "wordCount": 994,
+          "title": "* Zapraszamy na The Hack Summit 2021"
+        },
+        {
           "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/",
           "author": null,
           "description": "Totolotek został trafiony ransomwarem. Informuje o tym ofiary w e-mailach, które właśnie zaczął rozsyłać. Zaszyfrowano systemy, ale włamywacze mogli też ukraść dane użytkowników. Sporo danych:...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
@@ -110,15 +119,6 @@
           "publishedOn": "2021-10-03T17:05:25.000Z",
           "wordCount": 6764,
           "title": "Czy można wysłać e-maila z czyjegoś adresu IP?"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/",
-          "author": null,
-          "description": "Spis Powszechny dobiega do końca. Po trudnych początkach, wielu nieprawidłowościach i kilku oszustwach, wielkich problemów nie było. Choć niestety nie wiemy na czym faktycznie polega ochrona i...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l8gH32OE170/",
-          "publishedOn": "2021-09-30T09:24:44.000Z",
-          "wordCount": 4136,
-          "title": "Wpadka GUS-u. Ujawniono e-maile kilkuset Polaków ze Spisu Powszechnego"
         }
       ]
     },
@@ -265,6 +265,15 @@
       "feedUrl": "http://feeds.feedburner.com/unknowNews?format=xml",
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
+        {
+          "id": "https://news.mrugalski.pl/post/666375475831226368",
+          "author": null,
+          "description": "◢ #unknownews ◣\nWitam w kolejnym wydaniu zestawienia i zapraszam do czytania :)\n\nZestaw książek i magazynów na temat Raspberry Pi\nKursy wideo z branży IT po 39zł/szt\n\n\n1) Jak i jakie dane pobiera FBI od firm telekomunikacyjnych?\nhttps://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon\nINFO: mnie najbardziej zainteresowała tabelka z ostatniego obrazka, czyli to jakie dane i jak długo przetrzymują sieci. Ciekawe, jak to wygląda u nas w kraju.\n2) Wyszła nowa wersja Raspberyy Pi Zero - co można z nią zrobić?\nhttps://blog.alexellis.io/raspberry-pi-zero-2/\nINFO: trzeba przyznać, że rewolucji tutaj nie ma (wymiana procesora na mocniejszy), ale artykuł i tak daje kilka fajnych pomysłów, do czego taką ‘zerówkę’ (jak i każdą inną malinkę) można wykorzystać\n3) Wybierz najlep…",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/2KFKg2CnskQ/666375475831226368",
+          "publishedOn": "2021-10-29T10:59:36.000Z",
+          "wordCount": 1030,
+          "title": "29 października 2021"
+        },
         {
           "id": "https://news.mrugalski.pl/post/665742354220711936",
           "author": null,
