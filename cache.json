@@ -128,6 +128,16 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59649",
+          "author": "Adam Haertle",
+          "description": "Współpraca w trójkącie IT – bezpieczeństwo – biznes nigdy nie była prosta. Rywalizacja, obwinianie się za porażki i podkradanie sukcesów to chleb powszedni w wielu firmach. Jak poruszać się w tym świecie – to świetnie wie nasz gość. Poznajcie Tomasza.\nMało jest branż tak bardzo zależnych od technologii jak telekomunikacja.… Czytaj dalej \nThe post Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-rynku-ict-tomasz-matula-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-10-30T19:32:01.000Z",
+          "wordCount": null,
+          "title": "Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=59617",
           "author": "Adam Haertle",
           "description": "Nie, to nie jest żart. W sieci znaleźć można ważny certyfikat COVID wystawiony w Polsce dla Adolfa Hitlera, urodzonego 1 stycznia 1930. Co więcej, osoba udostępniająca certyfikat twierdzi, że może wystawić ich więcej za jedyne 300 dolarów.\nCertyfikaty COVID, przedstawiane w postaci kodu QR, mają zaświadczać o szczepieniu, przechorowaniu lub negatywnym wyniku testu i umożliwiać m.… Czytaj dalej \nThe post Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID first appeared on Zaufana Trzecia Strona.",
@@ -300,15 +310,6 @@
           "publishedOn": "2021-10-08T12:08:31.000Z",
           "wordCount": 1125,
           "title": "8 października 2021"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/663840511377965056",
-          "author": null,
-          "description": "◢ #unknownews ◣\nZapraszam do copiątkowej lektury ciekawych linków z branży IT :)\n\nMasz konto na Facebooku? Dołącz do grupy “Promocje IT”\n\n1) Jak to jest pracować w wirtualnej rzeczywistości po 40-50h tygodniowo? Dobrze?\nhttps://blog.immersed.team/working-from-orbit-39bf95a6d385\nINFO: artykuł człowieka, który od ponad 2.5 roku pracuje tylko w wirtualnym środowisku (platforma Immersed + Oculus). Ciekawy setup pozwalający np. trzymać 6 monitorów na małym biurku w kawalerce ;)\n2) Nagrania z zeszłorocznej konferencji “Oh My Hack” (playlista)\nhttps://www.youtube.com/watch?v=I5hE4oJ7kuU&list=PLnKL6-WWWE_UGj71IqyIgIurMBGm0fwK1\nINFO: łącznie 30 prelekcji na temat szeroko pojętego cybersecurity\n3) Emulator starych Windowsów + oprogramowanie (działa online)\nhttps://emupedia.net/beta/emuos/\nINFO: wybi…",
-          "link": "http://feedproxy.google.com/~r/unknowNews/~3/zoqSA3sF_I8/663840511377965056",
-          "publishedOn": "2021-10-01T11:27:25.000Z",
-          "wordCount": 947,
-          "title": "1 października 2021"
         }
       ]
     }

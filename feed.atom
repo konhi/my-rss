@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-10-30T10:12:05.065Z</updated>
+    <updated>2021-10-30T23:47:33.120Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59649</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/ekspert-rynku-ict-tomasz-matula-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2021-10-30T19:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Współpraca w trójkącie IT – bezpieczeństwo – biznes nigdy nie była prosta. Rywalizacja, obwinianie się za porażki i podkradanie sukcesów to chleb powszedni w wielu firmach. Jak poruszać się w tym świecie – to świetnie wie nasz gość. Poznajcie Tomasza.
+Mało jest branż tak bardzo zależnych od technologii jak telekomunikacja.… Czytaj dalej 
+The post Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Zapraszamy na The Hack Summit 2021]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/NAHKe07rgr8/</id>
@@ -413,29 +425,6 @@ INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij star
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 października 2021]]></title>
-        <id>https://news.mrugalski.pl/post/663840511377965056</id>
-        <link href="http://feedproxy.google.com/~r/unknowNews/~3/zoqSA3sF_I8/663840511377965056"/>
-        <updated>2021-10-01T11:27:25.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Zapraszam do copiątkowej lektury ciekawych linków z branży IT :)
-
-Masz konto na Facebooku? Dołącz do grupy “Promocje IT”
-
-1) Jak to jest pracować w wirtualnej rzeczywistości po 40-50h tygodniowo? Dobrze?
-https://blog.immersed.team/working-from-orbit-39bf95a6d385
-INFO: artykuł człowieka, który od ponad 2.5 roku pracuje tylko w wirtualnym środowisku (platforma Immersed + Oculus). Ciekawy setup pozwalający np. trzymać 6 monitorów na małym biurku w kawalerce ;)
-2) Nagrania z zeszłorocznej konferencji “Oh My Hack” (playlista)
-https://www.youtube.com/watch?v=I5hE4oJ7kuU&list=PLnKL6-WWWE_UGj71IqyIgIurMBGm0fwK1
-INFO: łącznie 30 prelekcji na temat szeroko pojętego cybersecurity
-3) Emulator starych Windowsów + oprogramowanie (działa online)
-https://emupedia.net/beta/emuos/
-INFO: wybi…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
