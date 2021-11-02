@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-02T04:17:41.137Z</updated>
+    <updated>2021-11-02T05:11:59.453Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -459,19 +459,6 @@ INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij star
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/"/>
         <updated>2021-10-04T11:09:02.000Z</updated>
         <summary type="html"><![CDATA[Mamy wrażenie, że bezpieczeństwo wydawania duplikatów kart SIM obchodzi tylko dwie grupy ludzi: ofiary oszustw oraz speców od bezpieczeństwa. Dlatego dobrze, że przedstawiono propozycje rozwiązania...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czy można wysłać e-maila z czyjegoś adresu IP?]]></title>
-        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/</id>
-        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/-fPqBITwFMs/"/>
-        <updated>2021-10-03T17:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Od wczoraj sporo osób zadaje nam wiele pytań dotyczących tego “czy możliwe jest nieuprawnione wykorzystanie czyjegoś adresu IP” w związku z sytuacją, która spotkała jednego z dziennikarzy...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
