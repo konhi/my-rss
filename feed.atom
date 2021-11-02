@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-02T13:19:59.250Z</updated>
+    <updated>2021-11-02T14:13:01.299Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga! Spora akcja oszustów na Allegro Lokalnie]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/Qz7-QSvotEk/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/Qz7-QSvotEk/"/>
+        <updated>2021-11-02T13:15:41.000Z</updated>
+        <summary type="html"><![CDATA[W ostatnim tygodniu zaczęło do nas spływać więcej niż zwykle zgłoszeń od osób, które próbowano okraść na Allegro Lokalnie. Oto na czym polega przekręt: 1. Wystawisz ofertę sprzedaży 2. Odzywa się do...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackerNews top stories #81]]></title>
         <id>https://dmasior.com/hackernews-top-stories-81/</id>
