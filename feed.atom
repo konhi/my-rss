@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-02T22:13:27.152Z</updated>
+    <updated>2021-11-02T23:13:50.491Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -472,19 +472,6 @@ INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij star
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/"/>
         <updated>2021-10-04T16:29:29.000Z</updated>
         <summary type="html"><![CDATA[Awaria Facebooka, WhatsAppa i Instagrama. Od kilkudziesięciu minut nie działają. Problemem jak zwykle jest DNS, a dokładniej zmiana w konfiguracji routerów BGP obsługujących infrastrukturę Facebooka....
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Są propozycje regulacji przeciwko wyłudzeniom kart SIM]]></title>
-        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/</id>
-        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/1IQ_1mk7gxE/"/>
-        <updated>2021-10-04T11:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Mamy wrażenie, że bezpieczeństwo wydawania duplikatów kart SIM obchodzi tylko dwie grupy ludzi: ofiary oszustw oraz speców od bezpieczeństwa. Dlatego dobrze, że przedstawiono propozycje rozwiązania...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
