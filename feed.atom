@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-02T14:13:01.299Z</updated>
+    <updated>2021-11-02T15:14:33.514Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Komiks dla dzieci o cyberbezpieczeństwie (i nie tylko)]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/_ySTaunHLLk/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/_ySTaunHLLk/"/>
+        <updated>2021-11-02T14:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Po zmianie czasu, zmrok zapada szybciej. Tym z Was, którzy mają dzieci, na długie jesienne wieczory polecamy edukacyjny komiks “Róża, a co chcesz wiedzieć? (część 2)“, w którym...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga! Spora akcja oszustów na Allegro Lokalnie]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/Qz7-QSvotEk/</id>
