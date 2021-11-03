@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-03T04:17:34.844Z</updated>
+    <updated>2021-11-03T05:11:57.778Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -464,19 +464,6 @@ https://play.elevatorsaga.com/
 INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij start i po każdej zmianie kodu ‘Apply’. Koniecznie przeczytaj dokumentację (przykładowy kod nie obsługuje nawet naciśnięcia przycisku …]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AKTUALIZACJA] Facebook, WhatsApp i Instagram nie działają]]></title>
-        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/</id>
-        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/xNSTjqBvI5w/"/>
-        <updated>2021-10-04T16:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Awaria Facebooka, WhatsAppa i Instagrama. Od kilkudziesięciu minut nie działają. Problemem jak zwykle jest DNS, a dokładniej zmiana w konfiguracji routerów BGP obsługujących infrastrukturę Facebooka....
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
