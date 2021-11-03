@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-03T11:11:41.077Z</updated>
+    <updated>2021-11-03T12:21:20.762Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bardzo kreatywne oszustwo z Bitcoinami w tle]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/XWX5Cb08zFc/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/XWX5Cb08zFc/"/>
+        <updated>2021-11-03T11:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Oj dawno nie widzieliśmy tak dobrze dopracowanego i tak kreatywnego oszustwa. Ktoś włożył w ten wałek sporo serca. Zobaczcie! Adam, czeka na Ciebie 25 bitcoinów! Kilka dni temu jedna z naszych...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Komiks dla dzieci o cyberbezpieczeństwie (i nie tylko)]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/_ySTaunHLLk/</id>
