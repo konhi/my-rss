@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-03T18:15:48.321Z</updated>
+    <updated>2021-11-03T18:36:55.623Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Źle się dzieje w CERT Polska, czyli zabawy polityków w cyber]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59674</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/zle-sie-dzieje-w-cert-polska-czyli-zabawy-politykow-w-cyber/"/>
+        <updated>2021-11-03T18:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Na co dzień nie komentuję zmian kadrowych w polskich firmach i organizacjach ani nie piszę felietonów. Czasem jednak dochodzi do sytuacji na tyle szkodliwej i jednocześnie niepokojącej, że nie potrafię i nie chcę zostawić jej bez komentarza.
+Kilka dni temu Przemek Jaroszewski, dotychczasowy kierownik zespołu CERT Polska, został bez żadnego ostrzeżenia ani merytorycznego uzasadnienia de facto wyrzucony z pracy.… Czytaj dalej 
+The post Źle się dzieje w CERT Polska, czyli zabawy polityków w cyber first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bardzo kreatywne oszustwo z Bitcoinami w tle]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/XWX5Cb08zFc/</id>
