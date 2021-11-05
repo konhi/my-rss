@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-05T10:14:54.956Z</updated>
+    <updated>2021-11-05T11:11:30.029Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59688</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/general-karol-molenda-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2021-11-05T10:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Choć rzadko trafia na pierwsze strony gazet, cyberbezpieczeństwo w armii jest niezwykle ważne dla bezpieczeństwa całego kraju. Jak dzisiaj wygląda i dokąd zmierza – o tym opowie w naszej audycji dyrektor NCBC, generał Karol Molenda.
+Generał Molenda jest nie tylko dyrektorem Narodowego Centrum Bezpieczeństwa Cyberprzestrzeni, ale także  pełni funkcję Pełnomocnika Ministra Obrony Narodowej ds.… Czytaj dalej 
+The post Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odcinek 80 – Tomasz Matuła, ekspert rynku ICT]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59686</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-80-tomasz-matula-ekspert-rynku-ict/"/>
+        <updated>2021-11-05T10:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Gościem osiemdziesiątego odcinka podcastu Rozmowa Kontrolowana jest Tomasz Matuła, wieloletni szef zespołów IT i bezpieczeństwa w telekomunikacji, ekspert rynku technologii i telekomunikacji.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.… Czytaj dalej 
+The post Odcinek 80 – Tomasz Matuła, ekspert rynku ICT first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nowy wymiar oszustwa na &#8220;fałszywego pracownika banku&#8221;. BLIK i wpłatomat zamiast aplikacji AnyDesk i TeamViewer]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/sU35iBLgPek/</id>

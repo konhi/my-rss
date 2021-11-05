@@ -137,6 +137,33 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59688",
+          "author": "Adam Haertle",
+          "description": "Choć rzadko trafia na pierwsze strony gazet, cyberbezpieczeństwo w armii jest niezwykle ważne dla bezpieczeństwa całego kraju. Jak dzisiaj wygląda i dokąd zmierza – o tym opowie w naszej audycji dyrektor NCBC, generał Karol Molenda.\nGenerał Molenda jest nie tylko dyrektorem Narodowego Centrum Bezpieczeństwa Cyberprzestrzeni, ale także  pełni funkcję Pełnomocnika Ministra Obrony Narodowej ds.… Czytaj dalej \nThe post Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/general-karol-molenda-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-11-05T10:44:01.000Z",
+          "wordCount": null,
+          "title": "Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59686",
+          "author": "Adam Haertle",
+          "description": "Gościem osiemdziesiątego odcinka podcastu Rozmowa Kontrolowana jest Tomasz Matuła, wieloletni szef zespołów IT i bezpieczeństwa w telekomunikacji, ekspert rynku technologii i telekomunikacji.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.… Czytaj dalej \nThe post Odcinek 80 – Tomasz Matuła, ekspert rynku ICT first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-80-tomasz-matula-ekspert-rynku-ict/",
+          "publishedOn": "2021-11-05T10:35:49.000Z",
+          "wordCount": null,
+          "title": "Odcinek 80 – Tomasz Matuła, ekspert rynku ICT",
+          "itunes": {
+            "duration": "1:22:43"
+          },
+          "enclosure": {
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/11/80.mp3",
+            "length": "69639926",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=59674",
           "author": "Adam Haertle",
           "description": "Na co dzień nie komentuję zmian kadrowych w polskich firmach i organizacjach ani nie piszę felietonów. Czasem jednak dochodzi do sytuacji na tyle szkodliwej i jednocześnie niepokojącej, że nie potrafię i nie chcę zostawić jej bez komentarza.\nKilka dni temu Przemek Jaroszewski, dotychczasowy kierownik zespołu CERT Polska, został bez żadnego ostrzeżenia ani merytorycznego uzasadnienia de facto wyrzucony z pracy.… Czytaj dalej \nThe post Źle się dzieje w CERT Polska, czyli zabawy polityków w cyber first appeared on Zaufana Trzecia Strona.",
