@@ -341,6 +341,15 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/667007905152794624",
+          "author": null,
+          "description": "◢ #unknownews ◣\nJak co piątek, zapraszam do lektóry zestawienia z ciekawymi linkami z branży IT :)\n1) Zwróć TRUE - gra sprawdzająca Twoją znajomość JavaScript\nhttps://alf.nu/ReturnTrue\nINFO: zasady gry są bardzo proste. Podaj takie parametry wejściowe do funkcji, aby zwróciła ona wartość TRUE. Zrób to także w minimalnej ilości znaków. Jest tam kilka ‘sezonów’ tej gry. Zwróć coś, \n2) Sekrety DevToolsów - kompilacja sztuczek\nhttps://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/\nINFO: świetny tekst pokazujący kilka mniej znanych możliwości narzędzi dla webmasterów\n3) Radiooooo - czyli skrzyżowanie odtwarzacza muzyki z… wehikułem czasu\nhttps://radiooooo.com\nINFO: kliknij dowolny kraj i wybierz rok, z którego chcesz posłuchać przebojów. Niestety wersja darmo…",
+          "link": "http://feedproxy.google.com/~r/unknowNews/~3/jSMeO2Fk548/667007905152794624",
+          "publishedOn": "2021-11-05T10:31:47.000Z",
+          "wordCount": 1030,
+          "title": "5 listopada 2021"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/666375475831226368",
           "author": null,
           "description": "◢ #unknownews ◣\nWitam w kolejnym wydaniu zestawienia i zapraszam do czytania :)\n\nZestaw książek i magazynów na temat Raspberry Pi\nKursy wideo z branży IT po 39zł/szt\n\n\n1) Jak i jakie dane pobiera FBI od firm telekomunikacyjnych?\nhttps://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon\nINFO: mnie najbardziej zainteresowała tabelka z ostatniego obrazka, czyli to jakie dane i jak długo przetrzymują sieci. Ciekawe, jak to wygląda u nas w kraju.\n2) Wyszła nowa wersja Raspberyy Pi Zero - co można z nią zrobić?\nhttps://blog.alexellis.io/raspberry-pi-zero-2/\nINFO: trzeba przyznać, że rewolucji tutaj nie ma (wymiana procesora na mocniejszy), ale artykuł i tak daje kilka fajnych pomysłów, do czego taką ‘zerówkę’ (jak i każdą inną malinkę) można wykorzystać\n3) Wybierz najlep…",

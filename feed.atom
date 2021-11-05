@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-05T12:21:16.190Z</updated>
+    <updated>2021-11-05T13:19:39.918Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -41,6 +41,26 @@ Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się 
 The post Odcinek 80 – Tomasz Matuła, ekspert rynku ICT first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 listopada 2021]]></title>
+        <id>https://news.mrugalski.pl/post/667007905152794624</id>
+        <link href="http://feedproxy.google.com/~r/unknowNews/~3/jSMeO2Fk548/667007905152794624"/>
+        <updated>2021-11-05T10:31:47.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Jak co piątek, zapraszam do lektóry zestawienia z ciekawymi linkami z branży IT :)
+1) Zwróć TRUE - gra sprawdzająca Twoją znajomość JavaScript
+https://alf.nu/ReturnTrue
+INFO: zasady gry są bardzo proste. Podaj takie parametry wejściowe do funkcji, aby zwróciła ona wartość TRUE. Zrób to także w minimalnej ilości znaków. Jest tam kilka ‘sezonów’ tej gry. Zwróć coś, 
+2) Sekrety DevToolsów - kompilacja sztuczek
+https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/
+INFO: świetny tekst pokazujący kilka mniej znanych możliwości narzędzi dla webmasterów
+3) Radiooooo - czyli skrzyżowanie odtwarzacza muzyki z… wehikułem czasu
+https://radiooooo.com
+INFO: kliknij dowolny kraj i wybierz rok, z którego chcesz posłuchać przebojów. Niestety wersja darmo…]]></summary>
+        <author>
+            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
