@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-05T11:11:30.029Z</updated>
+    <updated>2021-11-05T12:21:16.190Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ciekawy &#8220;atak&#8221; z Loterią Narodowego Programu Szczepień w tle]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/JacaThU4YUU/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/JacaThU4YUU/"/>
+        <updated>2021-11-05T11:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Jeden z naszych Czytelników otrzymał ciekawego e-maila: Witaj XXX, Gratulujemy! Zostałeś jednym ze zwycięzców nagrody tygodniowej w loterii #SzczepimySię. Aby odebrać nagrodę musisz potwierdzić swoje...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=59688</id>
