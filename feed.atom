@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-05T23:13:51.137Z</updated>
+    <updated>2021-11-06T00:43:17.514Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 440 [2021-11-06]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59698</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-440-2021-11-06-bierzcie-i-czytajcie/"/>
+        <updated>2021-11-05T23:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania. Jak co tydzień, zebraliśmy dla Was najciekawsze informacje o nowych lukach, szkodnikach, atakach i innych pomysłach internetowych przestępców. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film o phreakingu, czyli łamaniu zabezpieczeń w celu uzyskania darmowych połączeń telefonicznych (pkt 2) oraz artykuł o tym, jak Yahoo skanowało e-maile użytkowników na życzenie amerykańskiego wywiadu (pkt 8).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 440 [2021-11-06]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ciekawy &#8220;atak&#8221; z Loterią Narodowego Programu Szczepień w tle]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/JacaThU4YUU/</id>
