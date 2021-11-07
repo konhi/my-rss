@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-07T11:10:51.460Z</updated>
+    <updated>2021-11-07T12:20:30.104Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #82]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-82/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-82/"/>
+        <updated>2021-11-07T11:20:48.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Oct 31, 2021 to Nov 07, 2021. In one blog post. [0] Pfizer’s oral Covid-19 antiviral cuts hospitalization, death by 85% https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to [1] Thank you, GitHub https://github.blog/2021-11-03-thank-you-github/ [2] Show HN: My wife is pregnant; naturally I made a baby-name app to prepare https://nomdebebe.app/ [3] Report on Stablecoins [pdf] https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf [4] … Continue reading HackerNews top stories #82]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 440 [2021-11-06]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=59698</id>

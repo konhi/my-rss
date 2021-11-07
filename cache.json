@@ -394,6 +394,15 @@
       "siteUrl": "https://dmasior.com",
       "articles": [
         {
+          "id": "https://dmasior.com/hackernews-top-stories-82/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Oct 31, 2021 to Nov 07, 2021. In one blog post. [0] Pfizer’s oral Covid-19 antiviral cuts hospitalization, death by 85% https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to [1] Thank you, GitHub https://github.blog/2021-11-03-thank-you-github/ [2] Show HN: My wife is pregnant; naturally I made a baby-name app to prepare https://nomdebebe.app/ [3] Report on Stablecoins [pdf] https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf [4] … Continue reading HackerNews top stories #82",
+          "link": "https://dmasior.com/hackernews-top-stories-82/",
+          "publishedOn": "2021-11-07T11:20:48.000Z",
+          "wordCount": 487,
+          "title": "HackerNews top stories #82"
+        },
+        {
           "id": "https://dmasior.com/hackernews-top-stories-81/",
           "author": "dmasior",
           "description": "HackerNews most popular stories from Oct 24, 2021 to Oct 31, 2021. In one blog post. [0] Grand jury subpoena for Signal user data, Central District of California https://signal.org/bigbrother/cd-california-grand-jury/ [1] Despite having just 5.8% sales, over 38% of bug reports come from Linux https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/ [2] 55 GiB/s FizzBuzz https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630 [3] I was rejected by Codecademy … Continue reading HackerNews top stories #81",
