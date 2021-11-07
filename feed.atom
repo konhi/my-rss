@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-06T23:13:47.460Z</updated>
+    <updated>2021-11-07T00:46:41.666Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -549,28 +549,6 @@ The post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej 
         <summary type="html"><![CDATA[HackerNews most popular stories from Oct 03, 2021 to Oct 10, 2021. In one blog post. [0] Facebook-owned sites are down https://facebook.com [1] Apple requires account deletion within apps in AppStore starting January 31 https://developer.apple.com/news/?id=mdkbobfo [2] EU court rules no EULA can forbid decompilation, if you want to fix a bug https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406 [3] Understanding how … Continue reading HackerNews top stories #78]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 października 2021]]></title>
-        <id>https://news.mrugalski.pl/post/664477275236057088</id>
-        <link href="http://feedproxy.google.com/~r/unknowNews/~3/HrJNbYMwOZM/664477275236057088"/>
-        <updated>2021-10-08T12:08:31.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Tak, to już piątek, a ja przybywam do Ciebie z nową porcją ciekawych linków z branży IT :) 
-
-Kursy webdevelopmentu - €1 za paczkę
-Ebooki dla Devopsów - kup 5 sztuk za niecałe 5zł.
-6 ebooków na temat uczenia maszynowego - za grosze
-
-1) Pełna roadmapa umiejętności wartych opanowania przez web developera
-https://andreasbm.github.io/web-skills/
-INFO: użyj drag&drop, aby zobaczyć całą listę. Po najechaniu myszką zobaczysz linki do stron, które ułatwią Ci naukę
-2) Elevator Saga - czy umiałbyś zaprogramować algorytm do obsługi windy w JavaScript?
-https://play.elevatorsaga.com/
-INFO: stara, dobrze znana gra, do której warto wrócić po latach. Kliknij start i po każdej zmianie kodu ‘Apply’. Koniecznie przeczytaj dokumentację (przykładowy kod nie obsługuje nawet naciśnięcia przycisku …]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
