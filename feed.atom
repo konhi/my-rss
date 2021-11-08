@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-08T14:12:41.781Z</updated>
+    <updated>2021-11-08T15:14:21.826Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wydarzenie bez precedensu – list otwarty pracowników CERT Polska]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=59720</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/wydarzenie-bez-precedensu-list-otwarty-pracownikow-cert-polska/"/>
+        <updated>2021-11-08T14:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Mieliśmy już w Polsce niemało zarówno dymisji, jak i nominacji z politycznym podtekstem. Chyba jednak nigdy jeszcze pracownicy instytucji dotkniętej takim wydarzeniem nie opowiedzieli się tak publicznie i zdecydowanie za swoim byłym już przełożonym.
+Kilka dni temu opisałem nagłe i motywowane politycznie zwolnienie z pracy Przemka Jaroszewskiego, szefa zespołu CERT Polska.… Czytaj dalej 
+The post Wydarzenie bez precedensu – list otwarty pracowników CERT Polska first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dane agentów celnych mogły zostać wykradzione]]></title>
         <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/l5Rz08Px_us/</id>
