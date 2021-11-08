@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-08T15:14:21.826Z</updated>
+    <updated>2021-11-08T16:21:31.637Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Media Markt i Saturn zhackowane]]></title>
+        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/OjCBUgr9uko/</id>
+        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/OjCBUgr9uko/"/>
+        <updated>2021-11-08T15:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Jak informuje nas jeden z Czytelników, sieć i serwery grupy Media Markt i Saturn zostały zaatakowane i część z nich ma być zaszyfrowana. Dobra wiadomość jest taka, że sklepy dalej funkcjonują, można...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wydarzenie bez precedensu – list otwarty pracowników CERT Polska]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=59720</id>
