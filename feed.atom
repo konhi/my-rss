@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-09T18:15:59.389Z</updated>
+    <updated>2021-11-09T19:11:09.592Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -558,19 +558,6 @@ INFO: spora kolekcja głównie reklam z gazet. Powiew nostalgi…]]></summary>
         <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/"/>
         <updated>2021-10-12T09:26:07.000Z</updated>
         <summary type="html"><![CDATA[Od ponad miesiąca otrzymujemy od Was zgłoszenia w sprawie “podejrzanych” e-maili, które omijają spam a w treści posiadają — jak to określił jeden z czytelników —...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ile kosztuje niewiedza w chmurze? Analiza 5 niepotrzebnie wysokich rachunków]]></title>
-        <id>http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/</id>
-        <link href="http://feedproxy.google.com/~r/niebezpiecznik/~3/kW3DjB6dOBA/"/>
-        <updated>2021-10-11T06:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Chmura zdobywa popularność w Polsce. Co prawda nadal znajdujemy się w europejskim ogonku jeśli chodzi o poziom adopcji chmury. Według danych Eurostatu, w 2020 roku z clouda korzystało 24% polskich...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
