@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-11-08T23:13:52.669Z</updated>
+    <updated>2021-11-09T00:45:37.051Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -610,16 +610,6 @@ Krzysztof Kotowicz zaczynał od kariery programisty, lecz w pewnym momencie skr�
 The post Web security ninja, Krzysztof Kotowicz, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNews top stories #78]]></title>
-        <id>https://dmasior.com/hackernews-top-stories-78/</id>
-        <link href="https://dmasior.com/hackernews-top-stories-78/"/>
-        <updated>2021-10-10T11:20:09.000Z</updated>
-        <summary type="html"><![CDATA[HackerNews most popular stories from Oct 03, 2021 to Oct 10, 2021. In one blog post. [0] Facebook-owned sites are down https://facebook.com [1] Apple requires account deletion within apps in AppStore starting January 31 https://developer.apple.com/news/?id=mdkbobfo [2] EU court rules no EULA can forbid decompilation, if you want to fix a bug https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406 [3] Understanding how … Continue reading HackerNews top stories #78]]></summary>
-        <author>
-            <name>dmasior</name>
         </author>
     </entry>
 </feed>
