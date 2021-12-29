@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-12-29T03:10:25.601Z</updated>
+    <updated>2021-12-29T04:13:27.914Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -321,19 +321,6 @@ The post Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku fi
         <link href="https://niebezpiecznik.pl/post/%e2%9a%a0%ef%b8%8f-uwaga-na-grozne-sms-y-o-nowej-wiadomosci/"/>
         <updated>2021-11-29T17:19:04.000Z</updated>
         <summary type="html"><![CDATA[Od tygodnia otrzymujemy wzmożone zgłoszenia dotyczące złośliwych SMS-ów, które zawierają komunikat w języku polskim dotyczący nowej wiadomości (MMS, poczty głosowej) i linki do różnych domen. Oto...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#x1f525; Cyber Week na Niebezpieczniku: nagrania naszych szkoleń za 50% taniej!]]></title>
-        <id>https://niebezpiecznik.pl/post/cyber-monday-na-niebezpieczniku-nagrania-za-50-taniej/</id>
-        <link href="https://niebezpiecznik.pl/post/cyber-monday-na-niebezpieczniku-nagrania-za-50-taniej/"/>
-        <updated>2021-11-29T15:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Krótko: dziś większość nagrań naszych wykładów/webinarów (które w rzeczywistości są mini-szkoleniami) otrzymasz za 50% ceny 🔥 Możesz je kupować osobno, a możesz jeszcze tańszym pakiecie 10...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
