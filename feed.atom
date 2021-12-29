@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-12-29T05:11:02.766Z</updated>
+    <updated>2021-12-29T06:12:52.203Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -308,19 +308,6 @@ The post Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku fi
         <link href="https://niebezpiecznik.pl/post/uwaga-na-grozne-sms-y-dotyczace-przesylek/"/>
         <updated>2021-12-01T13:16:44.000Z</updated>
         <summary type="html"><![CDATA[Właśnie ruszyła nowa kampania oszustów. Polacy otrzymują różne warianty SMS-ów, które dotyczą przesyłek. A to, że nie “można było jej dostarczy”, a to że “trzeba zmienić preferencje...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na groźne SMS-y o &#8220;nowej wiadomości&#8221;]]></title>
-        <id>https://niebezpiecznik.pl/post/%e2%9a%a0%ef%b8%8f-uwaga-na-grozne-sms-y-o-nowej-wiadomosci/</id>
-        <link href="https://niebezpiecznik.pl/post/%e2%9a%a0%ef%b8%8f-uwaga-na-grozne-sms-y-o-nowej-wiadomosci/"/>
-        <updated>2021-11-29T17:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Od tygodnia otrzymujemy wzmożone zgłoszenia dotyczące złośliwych SMS-ów, które zawierają komunikat w języku polskim dotyczący nowej wiadomości (MMS, poczty głosowej) i linki do różnych domen. Oto...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
