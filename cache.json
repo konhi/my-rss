@@ -4,17 +4,7 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "author": null,
-          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 292,
-          "title": "v1.11.3"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Niebezpiecznik.pl",
@@ -22,139 +12,67 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/IdGO5fKEdZ8/",
+          "id": "https://niebezpiecznik.pl/post/jak-ofiara-ataku-sms-owego-zostala-oskarzona-przez-prokurature-o-przywlaszczenie/",
           "author": null,
-          "description": "Centrum Medyczne Luxmed (uwaga, Luxmed Sp. z o.o. z Lublina to nie to samo co Lux Med Sp. z o.o. z Warszawy) poinformowała o “usterce” która powodowała “otwarty dostęp” do...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/IdGO5fKEdZ8/",
-          "publishedOn": "2021-11-09T10:49:13.000Z",
-          "wordCount": 1169,
-          "title": "Luxmed informuje o incydencie: &#8220;otwarty dostęp do danych osobowych pacjentów&#8221;"
+          "description": "Nabranie się na SMS-owe oszustwo może mieć konsekwencje wykraczające daleko poza to, że zostaniemy okradzeni. Niechcący możemy też czasem znaleźć się w centrum sprawy karnej i z ofiary stać...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/jak-ofiara-ataku-sms-owego-zostala-oskarzona-przez-prokurature-o-przywlaszczenie/",
+          "publishedOn": "2021-12-28T13:20:41.000Z",
+          "wordCount": 1824,
+          "title": "Jak ofiara ataku SMS-owego została oskarżona przez prokuraturę o przywłaszczenie"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/OjCBUgr9uko/",
+          "id": "https://niebezpiecznik.pl/post/klucze-u2f-pytania-i-odpowiedzi/",
           "author": null,
-          "description": "Jak informuje nas jeden z Czytelników, sieć i serwery grupy Media Markt i Saturn zostały zaatakowane i część z nich ma być zaszyfrowana. Dobra wiadomość jest taka, że sklepy dalej funkcjonują, można...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/OjCBUgr9uko/",
-          "publishedOn": "2021-11-08T15:41:45.000Z",
-          "wordCount": 1140,
-          "title": "Media Markt i Saturn zhackowane"
+          "description": "W ostatnich tygodniach, po tym jak zaproponowaliśmy że klucze U2F są idealnym prezentem pod choinkę, trafiło do nas dużo pytań. Odpowiedzi na najpopularniejsze znajdziecie na tym filmiku (z góry...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/klucze-u2f-pytania-i-odpowiedzi/",
+          "publishedOn": "2021-12-22T15:11:18.000Z",
+          "wordCount": 7105,
+          "title": "Klucze U2F &#8211; pytania i odpowiedzi. Dlaczego hakerzy ich nienawidzą i dlaczego warto z nich korzystać?"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l5Rz08Px_us/",
+          "id": "https://niebezpiecznik.pl/post/polskie-firmy-beda-zaraz-musialy-chronic-sygnalistow-i-zapewnic-im-mozliwosc-zglaszania-problemow/",
           "author": null,
-          "description": "Ministerstwo Finansów poinformowało, że PUESC (Platforma Usług Elektronicznych Skarbowo-Celnych) umożliwiała pobranie listy agentów celnych. Oto jakie dane można było pozyskać w sposób nieuprawniony:...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/l5Rz08Px_us/",
-          "publishedOn": "2021-11-08T10:08:09.000Z",
-          "wordCount": 939,
-          "title": "Dane agentów celnych mogły zostać wykradzione"
+          "description": "Macie w firmie wewnętrzną procedurę zgłaszania naruszeń prawa? Jeśli nie, to w niedalekiej przyszłości może Was za to spotkać odpowiedzialność karna! Polska będzie wdrażać przepisy o ochronie...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/polskie-firmy-beda-zaraz-musialy-chronic-sygnalistow-i-zapewnic-im-mozliwosc-zglaszania-problemow/",
+          "publishedOn": "2021-12-22T11:16:20.000Z",
+          "wordCount": 3732,
+          "title": "Polskie firmy będą zaraz musiały chronić sygnalistów i zapewnić im możliwość zgłaszania problemów"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/JacaThU4YUU/",
+          "id": "https://niebezpiecznik.pl/post/hackyeah-2021-mamy-dla-was-10-darmowych-biletow/",
           "author": null,
-          "description": "Jeden z naszych Czytelników otrzymał ciekawego e-maila: Witaj XXX, Gratulujemy! Zostałeś jednym ze zwycięzców nagrody tygodniowej w loterii #SzczepimySię. Aby odebrać nagrodę musisz potwierdzić swoje...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/JacaThU4YUU/",
-          "publishedOn": "2021-11-05T11:53:24.000Z",
-          "wordCount": 1254,
-          "title": "Ciekawy &#8220;atak&#8221; z Loterią Narodowego Programu Szczepień w tle"
+          "description": "HackYeah co roku przyciąga tłumy zafascynowanych uczestników. Jest to wydarzenie dla każdego, kto ma ochotę ulepszyć świat poprzez stworzenie kreatywnego rozwiązania bazującego na zaawansowanych...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/hackyeah-2021-mamy-dla-was-10-darmowych-biletow/",
+          "publishedOn": "2021-12-02T15:02:58.000Z",
+          "wordCount": 1082,
+          "title": "* HackYeah 2021 &#8211; mamy dla Was 10 darmowych biletów!"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/sU35iBLgPek/",
+          "id": "https://niebezpiecznik.pl/post/uwaga-na-grozne-sms-y-dotyczace-przesylek/",
           "author": null,
-          "description": "Skala ataków “fałszywych pracowników banków” na Polaków nadal jest ogromna i mamy wrażenie, że rośnie. Wciąż codziennie zgłasza się do nas po kilka osób, które w ten sposób okradziono...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/sU35iBLgPek/",
-          "publishedOn": "2021-11-04T10:50:47.000Z",
-          "wordCount": 3639,
-          "title": "Nowy wymiar oszustwa na &#8220;fałszywego pracownika banku&#8221;. BLIK i wpłatomat zamiast aplikacji AnyDesk i TeamViewer"
+          "description": "Właśnie ruszyła nowa kampania oszustów. Polacy otrzymują różne warianty SMS-ów, które dotyczą przesyłek. A to, że nie “można było jej dostarczy”, a to że “trzeba zmienić preferencje...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/uwaga-na-grozne-sms-y-dotyczace-przesylek/",
+          "publishedOn": "2021-12-01T13:16:44.000Z",
+          "wordCount": 5129,
+          "title": "&#x26a0;&#xfe0f; Uwaga na groźne SMS-y dotyczące przesyłek"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/XWX5Cb08zFc/",
+          "id": "https://niebezpiecznik.pl/post/%e2%9a%a0%ef%b8%8f-uwaga-na-grozne-sms-y-o-nowej-wiadomosci/",
           "author": null,
-          "description": "Oj dawno nie widzieliśmy tak dobrze dopracowanego i tak kreatywnego oszustwa. Ktoś włożył w ten wałek sporo serca. Zobaczcie! Adam, czeka na Ciebie 25 bitcoinów! Kilka dni temu jedna z naszych...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/XWX5Cb08zFc/",
-          "publishedOn": "2021-11-03T11:19:38.000Z",
-          "wordCount": 1284,
-          "title": "Bardzo kreatywne oszustwo z Bitcoinami w tle"
+          "description": "Od tygodnia otrzymujemy wzmożone zgłoszenia dotyczące złośliwych SMS-ów, które zawierają komunikat w języku polskim dotyczący nowej wiadomości (MMS, poczty głosowej) i linki do różnych domen. Oto...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/%e2%9a%a0%ef%b8%8f-uwaga-na-grozne-sms-y-o-nowej-wiadomosci/",
+          "publishedOn": "2021-11-29T17:19:04.000Z",
+          "wordCount": 2612,
+          "title": "&#x26a0;&#xfe0f; Uwaga na groźne SMS-y o &#8220;nowej wiadomości&#8221;"
         },
         {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/_ySTaunHLLk/",
+          "id": "https://niebezpiecznik.pl/post/cyber-monday-na-niebezpieczniku-nagrania-za-50-taniej/",
           "author": null,
-          "description": "Po zmianie czasu, zmrok zapada szybciej. Tym z Was, którzy mają dzieci, na długie jesienne wieczory polecamy edukacyjny komiks “Róża, a co chcesz wiedzieć? (część 2)“, w którym...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/_ySTaunHLLk/",
-          "publishedOn": "2021-11-02T14:44:58.000Z",
-          "wordCount": 1030,
-          "title": "Komiks dla dzieci o cyberbezpieczeństwie (i nie tylko)"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Qz7-QSvotEk/",
-          "author": null,
-          "description": "W ostatnim tygodniu zaczęło do nas spływać więcej niż zwykle zgłoszeń od osób, które próbowano okraść na Allegro Lokalnie. Oto na czym polega przekręt: 1. Wystawisz ofertę sprzedaży 2. Odzywa się do...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Qz7-QSvotEk/",
-          "publishedOn": "2021-11-02T13:15:41.000Z",
-          "wordCount": 1068,
-          "title": "&#x26a0;&#xfe0f; Uwaga! Spora akcja oszustów na Allegro Lokalnie"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/NAHKe07rgr8/",
-          "author": null,
-          "description": "Końcówka roku to czas konferencji. Zapraszamy na The Hack Summit, jedną z czołowych, polskich konferencji poświęconych tematyce IT security, której jesteśmy patronem. Krótko o edycji 2021: Szeroka...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/NAHKe07rgr8/",
-          "publishedOn": "2021-10-29T14:12:48.000Z",
-          "wordCount": 994,
-          "title": "* Zapraszamy na The Hack Summit 2021"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/",
-          "author": null,
-          "description": "Totolotek został trafiony ransomwarem. Informuje o tym ofiary w e-mailach, które właśnie zaczął rozsyłać. Zaszyfrowano systemy, ale włamywacze mogli też ukraść dane użytkowników. Sporo danych:...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/spbijCZCGGk/",
-          "publishedOn": "2021-10-28T12:53:12.000Z",
-          "wordCount": 2031,
-          "title": "Totolotek zhackowany. Dane użytkowników mogły wyciec"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/",
-          "author": null,
-          "description": "Od tygodnia na różnych zagranicznych forach i grupach na różnych komunikatorach pojawiają się wpisy dotyczące fałszywie wystawionych, ale poprawnie weryfikujących się, oficjalnych europejskich...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/Myug-zJ368I/",
-          "publishedOn": "2021-10-28T11:34:54.000Z",
-          "wordCount": 2752,
-          "title": "Ktoś wystawił poprawny certyfikat COVID na Adolfa Hitlera i Myszkę Miki"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/",
-          "author": null,
-          "description": "Początki bywają trudne. Z ledwie co oddanego do użytku systemu poboru opłat e-TOLL można było pobrać dane użytkowników, w tym ich PESEL-e. Winne okazało się znów niezbyt dobrze zabezpieczone API. Po...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/n7A4Nu6HqsA/",
-          "publishedOn": "2021-10-26T11:28:07.000Z",
-          "wordCount": 1977,
-          "title": "Dziura w systemie e-TOLL: można było pobrać dane użytkowników"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/",
-          "author": null,
-          "description": "W ostatnich miesiącach wielu dziennikarzy pytało nas o to, jak mogą wykryć, czy są inwigilowani oraz jak zabezpieczyć zarówno siebie jak i komunikację ze swoimi źródłami, zwłaszcza tą przez internet...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/hoD4UFbZiW8/",
-          "publishedOn": "2021-10-22T10:48:53.000Z",
-          "wordCount": 1335,
-          "title": "Szkolenie dla dziennikarzy z cyberbezpieczeństwa, OPSEC i OSINT"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/",
-          "author": null,
-          "description": "Każdy kto wszedł na specjalną podstronę w domenie Plusa, mógł podejrzeć dane klientów Plusa i jego drugiej marki, Plusha. Można było ustalić do kogo należy dany numer telefonu a także uzyskać dostęp...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/TlwUWJ9eB24/",
-          "publishedOn": "2021-10-17T18:31:52.000Z",
-          "wordCount": 3610,
-          "title": "Fatalna wpadka Plusa. Każdy mógł pobrać dane klientów"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/",
-          "author": null,
-          "description": "Od ponad miesiąca otrzymujemy od Was zgłoszenia w sprawie “podejrzanych” e-maili, które omijają spam a w treści posiadają — jak to określił jeden z czytelników —...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "http://feedproxy.google.com/~r/niebezpiecznik/~3/5PPRZoBtL7A/",
-          "publishedOn": "2021-10-12T09:26:07.000Z",
-          "wordCount": 3075,
-          "title": "Dziwne e-maile, &#8220;kryptyczne&#8221; i omijające spam. Prześladują użytkowników GMaila"
+          "description": "Krótko: dziś większość nagrań naszych wykładów/webinarów (które w rzeczywistości są mini-szkoleniami) otrzymasz za 50% ceny 🔥 Możesz je kupować osobno, a możesz jeszcze tańszym pakiecie 10...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/cyber-monday-na-niebezpieczniku-nagrania-za-50-taniej/",
+          "publishedOn": "2021-11-29T15:52:33.000Z",
+          "wordCount": 1143,
+          "title": "&#x1f525; Cyber Week na Niebezpieczniku: nagrania naszych szkoleń za 50% taniej!"
         }
       ]
     },
@@ -164,191 +82,117 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59720",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60454",
           "author": "Adam Haertle",
-          "description": "Mieliśmy już w Polsce niemało zarówno dymisji, jak i nominacji z politycznym podtekstem. Chyba jednak nigdy jeszcze pracownicy instytucji dotkniętej takim wydarzeniem nie opowiedzieli się tak publicznie i zdecydowanie za swoim byłym już przełożonym.\nKilka dni temu opisałem nagłe i motywowane politycznie zwolnienie z pracy Przemka Jaroszewskiego, szefa zespołu CERT Polska.… Czytaj dalej \nThe post Wydarzenie bez precedensu – list otwarty pracowników CERT Polska first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/wydarzenie-bez-precedensu-list-otwarty-pracownikow-cert-polska/",
-          "publishedOn": "2021-11-08T14:48:59.000Z",
+          "description": "Gościem osiemdziesiątego ósmego odcinka podcastu Rozmowa Kontrolowana jesteśmy my sami i odpowiadamy na pytania widzów i słuchaczy.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 88 –  AMA z Adamami first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-88-ama-z-adamami/",
+          "publishedOn": "2021-12-25T14:25:41.000Z",
           "wordCount": null,
-          "title": "Wydarzenie bez precedensu – list otwarty pracowników CERT Polska",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59716",
-          "author": "Adam Haertle",
-          "description": "Gościem osiemdziesiątego pierwszego odcinka podcastu Rozmowa Kontrolowana jest gen. Karol Molenda, dyrektor Narodowego Centrum Bezpieczeństwa Cyberprzestrzeni.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 81 – gen. Karol Molenda, dyrektor NCBC first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-81-gen-karol-molenda-dyrektor-ncbc/",
-          "publishedOn": "2021-11-07T22:03:22.000Z",
-          "wordCount": null,
-          "title": "Odcinek 81 – gen. Karol Molenda, dyrektor NCBC",
+          "title": "Odcinek 88 –  AMA z Adamami",
           "itunes": {
-            "duration": "1:44:43"
+            "duration": "1:31:15"
           },
           "enclosure": {
-            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/11/81.mp3",
-            "length": "88158685",
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/12/88.mp3",
+            "length": "76844468",
             "type": "audio/mpeg"
           }
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59698",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60432",
           "author": "Anna Wasilewska-Śpioch",
-          "description": "Zapraszamy do nowego wydania. Jak co tydzień, zebraliśmy dla Was najciekawsze informacje o nowych lukach, szkodnikach, atakach i innych pomysłach internetowych przestępców. Życzymy zatem udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej film o phreakingu, czyli łamaniu zabezpieczeń w celu uzyskania darmowych połączeń telefonicznych (pkt 2) oraz artykuł o tym, jak Yahoo skanowało e-maile użytkowników na życzenie amerykańskiego wywiadu (pkt 8).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 440 [2021-11-06]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-440-2021-11-06-bierzcie-i-czytajcie/",
-          "publishedOn": "2021-11-05T23:32:20.000Z",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury i oprócz miłego klikania życzymy udanego świętowania tym, którzy świętują, oraz przyjemnego odpoczynku nieświętującym, a w nadchodzącym nowym roku wszystkiego najbezpieczniejszego.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia o inwigilacji za pośrednictwem Pegasusa, której zostali poddani Roman Giertych, Ewa Wrzosek i Krzysztof Brejza (pkt 5-6), a także materiał o zmianach na rynku skradzionych danych finansowych, do których doszło po zamknięciu marketu Joker’s Stash (pkt 15).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 447 [2021-12-24]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-447-2021-12-24-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-12-24T21:36:49.000Z",
           "wordCount": null,
-          "title": "Weekendowa Lektura: odcinek 440 [2021-11-06]. Bierzcie i czytajcie",
+          "title": "Weekendowa Lektura: odcinek 447 [2021-12-24]. Bierzcie i czytajcie",
           "itunes": {}
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59688",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60352",
           "author": "Adam Haertle",
-          "description": "Choć rzadko trafia na pierwsze strony gazet, cyberbezpieczeństwo w armii jest niezwykle ważne dla bezpieczeństwa całego kraju. Jak dzisiaj wygląda i dokąd zmierza – o tym opowie w naszej audycji dyrektor NCBC, generał Karol Molenda.\nGenerał Molenda jest nie tylko dyrektorem Narodowego Centrum Bezpieczeństwa Cyberprzestrzeni, ale także  pełni funkcję Pełnomocnika Ministra Obrony Narodowej ds.… Czytaj dalej \nThe post Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/general-karol-molenda-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
-          "publishedOn": "2021-11-05T10:44:01.000Z",
+          "description": "Wiele osób zajętych jest dzisiaj pieczeniem pierniczków na Instagrama i dekorowaniem choinek – szanujemy to. Nasze pierniczki i choinki są już gotowe, więc weźmiemy na siebie dzisiejszy występ. Na was z kolei spada obowiązek zadawania pytań.\nPodobno nie ma głupich pytań – jesteśmy gotowi zarówno na decyzje o walce z końmi i kaczkami, jak i rozważania o łapaniu trakcji i stawaniu na szynach.… Czytaj dalej \nThe post AMA z Adamami – zapytaj, o co chcesz, w Rozmowie Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/ama-z-adamami-zapytaj-o-co-chcesz-w-rozmowie-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-12-19T10:35:16.000Z",
           "wordCount": null,
-          "title": "Generał Karol Molenda gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "title": "AMA z Adamami – zapytaj, o co chcesz, w Rozmowie Kontrolowanej w niedzielę o 21",
           "itunes": {}
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59686",
-          "author": "Adam Haertle",
-          "description": "Gościem osiemdziesiątego odcinka podcastu Rozmowa Kontrolowana jest Tomasz Matuła, wieloletni szef zespołów IT i bezpieczeństwa w telekomunikacji, ekspert rynku technologii i telekomunikacji.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.… Czytaj dalej \nThe post Odcinek 80 – Tomasz Matuła, ekspert rynku ICT first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-80-tomasz-matula-ekspert-rynku-ict/",
-          "publishedOn": "2021-11-05T10:35:49.000Z",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60306",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Przestępcy nie próżnują, więc mimo zbliżających się świąt zebraliśmy całkiem sporą dawkę newsów o atakach, lukach i szkodnikach. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej materiał o tym, jak Facebook (a właściwie Meta) postarał się unieszkodliwić sponsorowane przez rządy akcje szpiegowskie (pkt 8).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 446 [2021-12-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-446-2021-12-17-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-12-17T16:31:26.000Z",
           "wordCount": null,
-          "title": "Odcinek 80 – Tomasz Matuła, ekspert rynku ICT",
+          "title": "Weekendowa Lektura: odcinek 446 [2021-12-17]. Bierzcie i czytajcie",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=59609",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Czy użytkownicy przestarzałego Windowsa 7 mają jakiekolwiek szanse w starciu ze współczesnymi zagrożeniami? Co w kwestii bezpieczeństwa oferuje świeżo wydany Windows 11? Robić przesiadkę czy poprzestać na Windowsie 10? O tym wszystkim w dzisiejszym artykule.\nPod poprzednim tekstem z cyklu Podstawy Bezpieczeństwa pojawiła się sugestia uwzględnienia w naszych poradnikach systemu Windows 7, który – mimo braku wsparcia ze strony Microsoftu – nadal nie odszedł do lamusa.… Czytaj dalej \nThe post Podstawy Bezpieczeństwa: Od Windowsa 7 do Windowsa 11 – na co warto zwrócić uwagę first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-od-windowsa-7-do-windowsa-11-na-co-warto-zwrocic-uwage/",
+          "publishedOn": "2021-12-13T06:04:53.000Z",
+          "wordCount": null,
+          "title": "Podstawy Bezpieczeństwa: Od Windowsa 7 do Windowsa 11 – na co warto zwrócić uwagę",
+          "itunes": {}
+        },
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=60280",
+          "author": "Adam Haertle",
+          "description": "Gościem osiemdziesiątego siódmego odcinka podcastu Rozmowa Kontrolowana jest Aneta Legenza, zarządzająca modyfikacjami procesów bezpieczeństwa w banku Standard Chartered.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 87 –  Dyrektora Programu Transformacji Bezpieczeństwa, Aneta Legenza first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-87-dyrektora-programu-transformacji-bezpieczenstwa-aneta-legenza/",
+          "publishedOn": "2021-12-12T22:09:37.000Z",
+          "wordCount": null,
+          "title": "Odcinek 87 –  Dyrektora Programu Transformacji Bezpieczeństwa, Aneta Legenza",
           "itunes": {
-            "duration": "1:22:43"
+            "duration": "1:14:51"
           },
           "enclosure": {
-            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/11/80.mp3",
-            "length": "69639926",
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/12/87.mp3",
+            "length": "63050675",
             "type": "audio/mpeg"
           }
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59674",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60269",
           "author": "Adam Haertle",
-          "description": "Na co dzień nie komentuję zmian kadrowych w polskich firmach i organizacjach ani nie piszę felietonów. Czasem jednak dochodzi do sytuacji na tyle szkodliwej i jednocześnie niepokojącej, że nie potrafię i nie chcę zostawić jej bez komentarza.\nKilka dni temu Przemek Jaroszewski, dotychczasowy kierownik zespołu CERT Polska, został bez żadnego ostrzeżenia ani merytorycznego uzasadnienia de facto wyrzucony z pracy.… Czytaj dalej \nThe post Źle się dzieje w CERT Polska, czyli zabawy polityków w cyber first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/zle-sie-dzieje-w-cert-polska-czyli-zabawy-politykow-w-cyber/",
-          "publishedOn": "2021-11-03T18:29:24.000Z",
+          "description": "Co trzeba zrobić, by zmienić procesy bezpieczeństwa w międzynarodowym banku? Czy doświadczenie z największych firm konsultingowych pomaga bardziej niż studiowanie kryptologii i matematyki? Dzisiaj poszukamy odpowiedzi na te pytania. Poznajcie Anetę.\nNiektórzy z naszych gości ścieżkę zawodową mają prostą jak strzała – cyber od liceum, przez studia, pierwszą pracę, aż po dzień dzisiejszy.… Czytaj dalej \nThe post Security Transformation Lead, Aneta Legenza, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/security-transformation-lead-aneta-legenza-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2021-12-12T13:02:12.000Z",
           "wordCount": null,
-          "title": "Źle się dzieje w CERT Polska, czyli zabawy polityków w cyber",
+          "title": "Security Transformation Lead, Aneta Legenza, gościem Rozmowy Kontrolowanej w niedzielę o 21",
           "itunes": {}
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59632",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60173",
           "author": "Anna Wasilewska-Śpioch",
-          "description": "Zapraszamy do nowego wydania. Długi weekend wciąż jeszcze trwa i mamy nadzieję, że znajdziecie czas, by przejrzeć porcję linków z tego tygodnia – a jak zwykle jest co oglądać. Życzymy zatem udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej omówienie wewnętrznego przewodnika FBI po danych pobieranych od operatorów telekomunikacyjnych (pkt 12) oraz artykuł o namierzeniu przez niemiecką policję jednego z kluczowych operatorów ransomware’u REvil (pkt 15).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 439 [2021-10-31]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-439-2021-10-31-bierzcie-i-czytajcie/",
-          "publishedOn": "2021-10-31T09:00:11.000Z",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Kilkadziesiąt interesujących linków powinno Wam w zupełności wystarczyć na przetrwanie do końca tego weekendu. Życzymy zatem udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia na temat blokowania sieci Tor w Rosji (pkt 14-15) oraz nowe szczegóły dotyczące operacji Ironside, czyli dystrybucji wśród przestępców komunikatora An0m (pkt 20).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 445 [2021-12-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-445-2021-12-12-bierzcie-i-czytajcie/",
+          "publishedOn": "2021-12-12T11:59:45.000Z",
           "wordCount": null,
-          "title": "Weekendowa Lektura: odcinek 439 [2021-10-31]. Bierzcie i czytajcie",
+          "title": "Weekendowa Lektura: odcinek 445 [2021-12-12]. Bierzcie i czytajcie",
           "itunes": {}
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59649",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60200",
           "author": "Adam Haertle",
-          "description": "Współpraca w trójkącie IT – bezpieczeństwo – biznes nigdy nie była prosta. Rywalizacja, obwinianie się za porażki i podkradanie sukcesów to chleb powszedni w wielu firmach. Jak poruszać się w tym świecie – to świetnie wie nasz gość. Poznajcie Tomasza.\nMało jest branż tak bardzo zależnych od technologii jak telekomunikacja.… Czytaj dalej \nThe post Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-rynku-ict-tomasz-matula-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
-          "publishedOn": "2021-10-30T19:32:01.000Z",
+          "description": "W wyścigu zbrojeń między producentami antywirusów a twórcami wirusów ciągle nie ma oczywistych zwycięzców. Szczególnie w przypadku nowych zagrożeń ich identyfikacja jest dużym wyzwaniem. Jak zatem być o krok przed atakującymi?\nOprogramowanie antywirusowe rzetelnych producentów instalowane na stacjach roboczych czy na serwerach radzi sobie całkiem dobrze z większością zagrożeń.… Czytaj dalej \nThe post Sandboxing w chmurze, czyli jak wykrywać nowe zagrożenia first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/sandboxing-w-chmurze-czyli-jak-wykrywac-nowe-zagrozenia/",
+          "publishedOn": "2021-12-10T06:38:39.000Z",
           "wordCount": null,
-          "title": "Ekspert rynku ICT, Tomasz Matuła, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "title": "Sandboxing w chmurze, czyli jak wykrywać nowe zagrożenia",
           "itunes": {}
         },
         {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59617",
+          "id": "https://zaufanatrzeciastrona.pl/?p=60211",
           "author": "Adam Haertle",
-          "description": "Nie, to nie jest żart. W sieci znaleźć można ważny certyfikat COVID wystawiony w Polsce dla Adolfa Hitlera, urodzonego 1 stycznia 1930. Co więcej, osoba udostępniająca certyfikat twierdzi, że może wystawić ich więcej za jedyne 300 dolarów.\nCertyfikaty COVID, przedstawiane w postaci kodu QR, mają zaświadczać o szczepieniu, przechorowaniu lub negatywnym wyniku testu i umożliwiać m.… Czytaj dalej \nThe post Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/jak-adolf-hitler-dostal-wazny-polski-certyfikat-covid/",
-          "publishedOn": "2021-10-26T22:10:10.000Z",
+          "description": "Gdy wydaje się nam, że już wszystkie możliwe wektory ataku opisaliśmy od A do Z, pojawia się bardziej kreatywny przestępca, który wymyśla nowy sposób infekcji cudzych komputerów. Nie inaczej było i tym razem – a pretekstem jest zakup komputera.\nOdezwał się do nas jeden z czytelników, Wojtek, który sprzedawał komputer w serwisie Allegro Lokalnie.… Czytaj dalej \nThe post Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/sprzedajesz-komputer-uwazaj-na-ten-nowy-nietypowy-rodzaj-ataku/",
+          "publishedOn": "2021-12-09T22:10:31.000Z",
           "wordCount": null,
-          "title": "Jak Adolf Hitler się zaszczepił i dostał ważny polski certyfikat COVID",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59319",
-          "author": "Anna Wasilewska-Śpioch",
-          "description": "Jak włączyć przeglądanie stron internetowych w środowisku izolowanym, czy da się unieszkodliwić makra w dokumentach pakietu Office, używane na potęgę do infekowania komputerów i co ma do tego PowerShell – dowiecie się z dzisiejszego poradnika.\nNie sposób w jednym artykule omówić wszystkich narzędzi dostępnych w systemie Windows, które mogą podnieść bezpieczeństwo jego użytkowników, jeśli tylko zostaną odpowiednio skonfigurowane.… Czytaj dalej \nThe post Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-mniej-znane-funkcje-podnoszace-bezpieczenstwo-uzytkownikow-windowsa/",
-          "publishedOn": "2021-10-26T05:55:07.000Z",
-          "wordCount": null,
-          "title": "Podstawy Bezpieczeństwa: Mniej znane funkcje podnoszące bezpieczeństwo użytkowników Windowsa",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59611",
-          "author": "Adam Haertle",
-          "description": "Gościem siedemdziesiątego dziewiątego odcinka podcastu Rozmowa Kontrolowana jest Wojciech Pilszak, ekspert informatyki śledczej, prezes firmy e-Detektywi, wykładowca i trener.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-79-wojciech-pilszak-ekspert-informatyki-sledczej/",
-          "publishedOn": "2021-10-25T19:34:45.000Z",
-          "wordCount": null,
-          "title": "Odcinek 79 – Wojciech Pilszak, ekspert informatyki śledczej",
-          "itunes": {
-            "duration": "1:11:59"
-          },
-          "enclosure": {
-            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/10/79.mp3",
-            "length": "60649767",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59605",
-          "author": "Adam Haertle",
-          "description": "Coraz większy kawałek naszego życia toczy się w świecie wirtualnym – nic więc dziwnego, że pojawiają się detektywi, specjalizujący się w poszukiwaniach w internecie. Z prezesem takiej właśnie agencji spotkamy się już dzisiaj. Poznajcie Wojciecha.\nWojciech Pilszak  przez osiem lat zbierał doświadczenie jako funkcjonariusz policji, specjalizujący się w ściganiu cyberprzestępczości.… Czytaj dalej \nThe post Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-informatyki-sledczej-wojciech-pilszak-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
-          "publishedOn": "2021-10-24T08:21:59.000Z",
-          "wordCount": null,
-          "title": "Ekspert informatyki śledczej, Wojciech Pilszak, gościem Rozmowy Kontrolowanej w niedzielę o 21",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59584",
-          "author": "Anna Wasilewska-Śpioch",
-          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Czeka na was dużo ciekawych linków zarówno w części fabularnej, jak i technicznej – każdy ma szansę znaleźć coś dla siebie. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o tym, jak podrobiona próbka głosu prezesa posłużyła do kradzieży pieniędzy z banku (pkt 11) oraz materiał o unieszkodliwieniu infrastruktury grupy REvil przez organy ścigania (pkt 17).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-438-2021-10-23-bierzcie-i-czytajcie/",
-          "publishedOn": "2021-10-23T20:57:25.000Z",
-          "wordCount": null,
-          "title": "Weekendowa Lektura: odcinek 438 [2021-10-23]. Bierzcie i czytajcie",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59531",
-          "author": "Adam Haertle",
-          "description": "Gościem siedemdziesiątego ósmego odcinka podcastu Rozmowa Kontrolowana jest Piotr Zarzycki, pentester, bezpiecznik i prelegent.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-78-piotr-zarzycki-ekspert-cyberbezpieczenstwa/",
-          "publishedOn": "2021-10-17T20:55:16.000Z",
-          "wordCount": null,
-          "title": "Odcinek 78 – Piotr Zarzycki, ekspert cyberbezpieczeństwa",
-          "itunes": {
-            "duration": "1:14:24"
-          },
-          "enclosure": {
-            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2021/10/78.mp3",
-            "length": "62658955",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59510",
-          "author": "Adam Haertle",
-          "description": "Od programisty do bezpiecznika, od pierwszej linii SOC do zarządzania pentestami w jednym z największych banków, a potem jeszcze transfer z banku do telekomu – nasz gość ma ciekawą ścieżkę kariery. Zapraszamy na spotkanie z Piotrkiem.\nPiotr Zarzycki zaczynał karierę w IT jako programista.… Czytaj dalej \nThe post Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/ekspert-cyberbezpieczenstwa-piotr-zarzycki-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
-          "publishedOn": "2021-10-17T10:06:04.000Z",
-          "wordCount": null,
-          "title": "Ekspert cyberbezpieczeństwa, Piotr Zarzycki, gościem Rozmowy Kontrolowanej w niedzielę o 21",
-          "itunes": {}
-        },
-        {
-          "id": "https://zaufanatrzeciastrona.pl/?p=59501",
-          "author": "Anna Wasilewska-Śpioch",
-          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Znów się ochłodziło, więc dajemy Wam dobrą okazję do spędzenia kilku godzin w domowym zaciszu i zapoznania się z zebranymi przez nas linkami. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o dziennikarzu, którego amerykańskie władze chcą ścigać za wgląd do źródła rządowej strony (pkt 5) oraz opowieść o największym ataku w historii Twitcha, do którego doszło w 2014 r.… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
-          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-437-2021-10-17-bierzcie-i-czytajcie/",
-          "publishedOn": "2021-10-17T07:36:03.000Z",
-          "wordCount": null,
-          "title": "Weekendowa Lektura: odcinek 437 [2021-10-17]. Bierzcie i czytajcie",
+          "title": "Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku",
           "itunes": {}
         }
       ]
@@ -359,40 +203,31 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
-          "id": "https://news.mrugalski.pl/post/667007905152794624",
+          "id": "https://news.mrugalski.pl/post/671445102785445888",
           "author": null,
-          "description": "◢ #unknownews ◣\nJak co piątek, zapraszam do lektóry zestawienia z ciekawymi linkami z branży IT :)\n1) Zwróć TRUE - gra sprawdzająca Twoją znajomość JavaScript\nhttps://alf.nu/ReturnTrue\nINFO: zasady gry są bardzo proste. Podaj takie parametry wejściowe do funkcji, aby zwróciła ona wartość TRUE. Zrób to także w minimalnej ilości znaków. Jest tam kilka ‘sezonów’ tej gry. Zwróć coś, \n2) Sekrety DevToolsów - kompilacja sztuczek\nhttps://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/\nINFO: świetny tekst pokazujący kilka mniej znanych możliwości narzędzi dla webmasterów\n3) Radiooooo - czyli skrzyżowanie odtwarzacza muzyki z… wehikułem czasu\nhttps://radiooooo.com\nINFO: kliknij dowolny kraj i wybierz rok, z którego chcesz posłuchać przebojów. Niestety wersja darmo…",
-          "link": "http://feedproxy.google.com/~r/unknowNews/~3/jSMeO2Fk548/667007905152794624",
-          "publishedOn": "2021-11-05T10:31:47.000Z",
-          "wordCount": 1030,
-          "title": "5 listopada 2021"
+          "description": "◢ #unknownews ◣\nDziś mamy wigilię, ale ja nie robię sobie przerwy i tradycyjnie, jak co piątek, udostępniam nowe zestawienie ciekawych linków z branży IT. Zapraszam do lektury.\n1) Street Fighter II - optymalizacja grafik z użyciem… kartki papieru?\nhttps://fabiensanglard.net/sf2_sheets/index.html\nINFO: odrobina historii związanej ze starymi grami. Jak obchodzono ograniczenia pamięci i jak z Ryu zrobiono Kena. Piękne!\n2) Narzędzie do ‘ożywiania’ dziecięcych rysunków - wrzuć skan, a sztuczna inteligencja zmieni go w postać z kreskówki \nhttps://sketch.metademolab.com\nINFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko, bez starania się) i niektóre z utworzonych animacji są po prostu rewelacyjne, a przy niektórych AI chyba nie dało rady z moimi bazgrołami. Zauważyłem, ż…",
+          "link": "https://news.mrugalski.pl/post/671445102785445888",
+          "publishedOn": "2021-12-24T09:59:09.000Z",
+          "wordCount": 1233,
+          "title": "24 grudnia 2021"
         },
         {
-          "id": "https://news.mrugalski.pl/post/666375475831226368",
+          "id": "https://news.mrugalski.pl/post/670806254811316224",
           "author": null,
-          "description": "◢ #unknownews ◣\nWitam w kolejnym wydaniu zestawienia i zapraszam do czytania :)\n\nZestaw książek i magazynów na temat Raspberry Pi\nKursy wideo z branży IT po 39zł/szt\n\n\n1) Jak i jakie dane pobiera FBI od firm telekomunikacyjnych?\nhttps://www.vice.com/en/article/m7vqkv/how-fbi-gets-phone-data-att-tmobile-verizon\nINFO: mnie najbardziej zainteresowała tabelka z ostatniego obrazka, czyli to jakie dane i jak długo przetrzymują sieci. Ciekawe, jak to wygląda u nas w kraju.\n2) Wyszła nowa wersja Raspberyy Pi Zero - co można z nią zrobić?\nhttps://blog.alexellis.io/raspberry-pi-zero-2/\nINFO: trzeba przyznać, że rewolucji tutaj nie ma (wymiana procesora na mocniejszy), ale artykuł i tak daje kilka fajnych pomysłów, do czego taką ‘zerówkę’ (jak i każdą inną malinkę) można wykorzystać\n3) Wybierz najlep…",
-          "link": "http://feedproxy.google.com/~r/unknowNews/~3/2KFKg2CnskQ/666375475831226368",
-          "publishedOn": "2021-10-29T10:59:36.000Z",
-          "wordCount": 1030,
-          "title": "29 października 2021"
+          "description": "◢ #unknownews ◣\nCzas na cotygodniowe zestawienie interesujących znalezisk z branży IT :)\n\n🔥 Syberia 1 + Syberia 2 za niecałe 5zł (Windows + Mac)\n\n1) Prezentacja możliwości Unreal Engine 5 - robi wrażenie!\nhttps://www.youtube.com/watch?v=WU0gvPcc3jQ\nINFO: twórcy przygotowali coś na wzór trailera Matrixa, ale wszyscy aktorzy są wyrenderowani, podobnie jak cały otaczający ich świat.\n2) Architektura Oprogramowania - zbiór materiałów użytecznych przy projektowaniu softu\nhttps://mehdihadeli.github.io/awesome-software-architecture/\nINFO: fajnie zorganizowana porcja wiedzy, utrzymana w stylu klasycznych list ‘Awesome’ znanych z Githuba\n3) Log4shell, czyli podatność w log4j - które produkty są podatne?\nhttps://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/\nINFO: z racji tego, że…",
+          "link": "https://news.mrugalski.pl/post/670806254811316224",
+          "publishedOn": "2021-12-17T08:44:56.000Z",
+          "wordCount": 961,
+          "title": "17 grudnia 2021"
         },
         {
-          "id": "https://news.mrugalski.pl/post/665742354220711936",
+          "id": "https://news.mrugalski.pl/post/670199402479108096",
           "author": null,
-          "description": "◢ #unknownews ◣\nJak co piątek, przygotowałem dla Ciebie nowe zestawienie interesujących linków z branży IT :)\n\nRealistyczny symulator polowań (gra 3D) za niecałe 5zł\nOstatnie dni na zgarnięcie ebooków dla DevOpsów\n\n1) Oficjalna, darmowa wersja webowa VSCode Server (działa w przeglądarce)\nhttps://vscode.dev/\nINFO: działa idealnie w Chrome. Pozwala pracować na plikach lokalnych, jak i na tych z repozytoriów GitHuba. Można używać własnych skórek i innych urozmaiceń. Idealne rozwiązanie do pracy z każdego miejsca i z platform, na których nie da się postawić natywnego VSCode.\n2) Jak odzyskać dostęp do przejętego przez hackerów konta na Facebooku?\nhttps://www.washingtonpost.com/technology/2021/09/29/hacked-social-media-account/\nINFO: istnieją firmy, które się tym zajmują, ale samodzielne wykonan…",
-          "link": "http://feedproxy.google.com/~r/unknowNews/~3/0qUMwDdxToE/665742354220711936",
-          "publishedOn": "2021-10-22T11:16:24.000Z",
-          "wordCount": 1052,
-          "title": "22 października 2021"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/665108999857897472",
-          "author": null,
-          "description": "◢ #unknownews ◣\nCzas na nowe zestawienie interesujących linków z branży IT - zapraszam do lektury :)\n\nZupełnie odnowiona oferta VPSów za 35zł/rok.\n\n1) Zbiór subiektywnie najciekawszych linków na temat cybersecurity\nhttps://szurek.top/\nINFO: kolekcja ma 34 strony, więc jest co czytać/słuchać/oglądać. \n2) GraphQL - o co tyle hałasu i dlaczego miałby Ci pomóc w pracy?\nhttps://camiinthisthang.hashnode.dev/everything-i-learned-in-my-1st-year-as-a-swe-graphql\nINFO: jakie problemy znane z RESTa rozwiązuje GraphQL? Jak to wpływa na wydajność i poziom skomplikowania aplikacji? Dobry zbiór argumentów w dyskusji na temat przejścia z REST na GraphQL\n3) Reklamy strych gier wideo  (na PC, konsole i inne platformy)\nhttps://retrocgads.tumblr.com\nINFO: spora kolekcja głównie reklam z gazet. Powiew nostalgi…",
-          "link": "http://feedproxy.google.com/~r/unknowNews/~3/ovCLlBCXPjI/665108999857897472",
-          "publishedOn": "2021-10-15T11:29:30.000Z",
-          "wordCount": 1103,
-          "title": "15 października 2021"
+          "description": "◢ #unknownews ◣\nMamy piątek, więc zapraszam na lekturę nowego zestawienia ciekawych znalezisk z branży IT :)\n\nEbooki na temat Hackingu - paczka za €1\nEbooki dla majsterowiczów (po polsku) ze zniżką -50%\n\n1) Dziura w certyfikatach COVIDowych używanych przez policję w Hanoi (Wietnam)\nhttps://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english/\nINFO: okazuje się, że przez zastosowanie słabej kryptografii, każdy (dysponujący chmurą z 36 CPU i 60GB RAM) mógł sam sobie wygenerować odpowiedni certyfikat.\n2) CheckiO - sprawdź swoją znajomość TypeScripta/Pythona (język do wyboru) w prostej grze\nhttps://checkio.org\nINFO: gra nie wymaga zakładania konta (jest opcja pominięcia rejestracji), ale i tak warto to zrobić, aby móc zapisywać postępy\n3) Generator wyrażeń regularnych - s…",
+          "link": "https://news.mrugalski.pl/post/670199402479108096",
+          "publishedOn": "2021-12-10T15:59:16.000Z",
+          "wordCount": 1159,
+          "title": "10 grudnia 2021"
         }
       ]
     },
@@ -402,40 +237,40 @@
       "siteUrl": "https://dmasior.com",
       "articles": [
         {
-          "id": "https://dmasior.com/hackernews-top-stories-82/",
+          "id": "https://dmasior.com/hackernews-top-stories-89/",
           "author": "dmasior",
-          "description": "HackerNews most popular stories from Oct 31, 2021 to Nov 07, 2021. In one blog post. [0] Pfizer’s oral Covid-19 antiviral cuts hospitalization, death by 85% https://www.fiercebiotech.com/biotech/pfizer-s-oral-covid-19-antiviral-cuts-hospitalization-death-by-85-sending-team-barreling-to [1] Thank you, GitHub https://github.blog/2021-11-03-thank-you-github/ [2] Show HN: My wife is pregnant; naturally I made a baby-name app to prepare https://nomdebebe.app/ [3] Report on Stablecoins [pdf] https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf [4] … Continue reading HackerNews top stories #82",
-          "link": "https://dmasior.com/hackernews-top-stories-82/",
-          "publishedOn": "2021-11-07T11:20:48.000Z",
-          "wordCount": 487,
-          "title": "HackerNews top stories #82"
+          "description": "HackerNews most popular stories from Dec 19, 2021 to Dec 26, 2021. In one blog post. [0] Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb [1] Lithuania evacuates its embassy in China https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843 [2] Wish HN: Happy Holidays https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30. [3] Regulators Shut Down Lending Platform (YC Alum) LendUp https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/ … Continue reading HackerNews top stories #89",
+          "link": "https://dmasior.com/hackernews-top-stories-89/",
+          "publishedOn": "2021-12-26T11:21:31.000Z",
+          "wordCount": 496,
+          "title": "HackerNews top stories #89"
         },
         {
-          "id": "https://dmasior.com/hackernews-top-stories-81/",
+          "id": "https://dmasior.com/hackernews-top-stories-88/",
           "author": "dmasior",
-          "description": "HackerNews most popular stories from Oct 24, 2021 to Oct 31, 2021. In one blog post. [0] Grand jury subpoena for Signal user data, Central District of California https://signal.org/bigbrother/cd-california-grand-jury/ [1] Despite having just 5.8% sales, over 38% of bug reports come from Linux https://old.reddit.com/r/gamedev/comments/qeqn3b/despite_having_just_58_sales_over_38_of_bug/ [2] 55 GiB/s FizzBuzz https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630 [3] I was rejected by Codecademy … Continue reading HackerNews top stories #81",
-          "link": "https://dmasior.com/hackernews-top-stories-81/",
-          "publishedOn": "2021-10-31T11:21:04.000Z",
+          "description": "HackerNews most popular stories from Dec 12, 2021 to Dec 19, 2021. In one blog post. [0] TikTok streaming software is an illegal fork of OBS https://twitter.com/Naaackers/status/1471494415306788870 [1] AWS appears to be down again https://news.ycombinator.com/item?id=29567170 [2] President Daniels responds to Chinese student’s harassment https://www.purdueexponent.org/campus/article_aa3e67de-5de9-11ec-9246-af6384980cbb.html [3] I started a paper website business https://daily.tinyprojects.dev/paper_website [4] Toyota owners … Continue reading HackerNews top stories #88",
+          "link": "https://dmasior.com/hackernews-top-stories-88/",
+          "publishedOn": "2021-12-19T11:21:40.000Z",
+          "wordCount": 507,
+          "title": "HackerNews top stories #88"
+        },
+        {
+          "id": "https://dmasior.com/hackernews-top-stories-87/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Dec 05, 2021 to Dec 12, 2021. In one blog post. [0] AWS us-east-1 outage https://us-east-1.console.aws.amazon.com/console/home [1] Tailwind CSS v3.0 https://tailwindcss.com/blog/tailwindcss-v3 [2] CT scans of AirPods evolution https://scanofthemonth.com/ [3] We will be retiring Alexa.com https://support.alexa.com/hc/en-us/articles/4410503838999 [4] Pixel prevented me from calling 911 https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/ [5] Chrome users beware: Manifest v3 is … Continue reading HackerNews top stories #87",
+          "link": "https://dmasior.com/hackernews-top-stories-87/",
+          "publishedOn": "2021-12-12T11:21:30.000Z",
           "wordCount": 472,
-          "title": "HackerNews top stories #81"
+          "title": "HackerNews top stories #87"
         },
         {
-          "id": "https://dmasior.com/hackernews-top-stories-80/",
+          "id": "https://dmasior.com/hackernews-top-stories-86/",
           "author": "dmasior",
-          "description": "HackerNews most popular stories from Oct 17, 2021 to Oct 24, 2021. In one blog post. [0] Fed to ban policymakers from owning individual stocks https://www.cnbc.com/2021/10/21/fed-to-ban-policymakers-from-owning-individual-stocks-restrict-trading-following-controversy.html [1] California tried to save the nation from tax filing, then Intuit stepped in https://www.latimes.com/politics/story/2021-10-21/california-tried-to-save-the-nation-from-the-misery-of-tax-filing-then-intuit-stepped-in [2] Evidence for European presence in the Americas in AD 1021 https://www.nature.com/articles/s41586-021-03972-8 [3] Long … Continue reading HackerNews top stories #80",
-          "link": "https://dmasior.com/hackernews-top-stories-80/",
-          "publishedOn": "2021-10-24T11:20:41.000Z",
-          "wordCount": 486,
-          "title": "HackerNews top stories #80"
-        },
-        {
-          "id": "https://dmasior.com/hackernews-top-stories-79/",
-          "author": "dmasior",
-          "description": "HackerNews most popular stories from Oct 10, 2021 to Oct 17, 2021. In one blog post. [0] IoT hacking and rickrolling my high school district https://whitehoodhacker.net/posts/2021-10-04-the-big-rick [1] Canon sued for disabling scanner when printers run out of ink https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/ [2] Amazon copied products and rigged search results to promote its own brands https://www.reuters.com/investigates/special-report/amazon-india-rigging/ [3] Open … Continue reading HackerNews top stories #79",
-          "link": "https://dmasior.com/hackernews-top-stories-79/",
-          "publishedOn": "2021-10-17T11:20:25.000Z",
-          "wordCount": 497,
-          "title": "HackerNews top stories #79"
+          "description": "HackerNews most popular stories from Nov 28, 2021 to Dec 05, 2021. In one blog post. [0] I resigned from Twitter https://twitter.com/jack/status/1465347002426867720 [1] 100 years of whatever this will be https://apenwarr.ca/log/20211201 [2] This shouldn’t have happened: A vulnerability postmortem https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html [3] Germany: New government plans ‘right to encryption’ https://tutanota.com/blog/posts/germany-right-to-encryption/ [4] Ask HN: Has Google search … Continue reading HackerNews top stories #86",
+          "link": "https://dmasior.com/hackernews-top-stories-86/",
+          "publishedOn": "2021-12-05T11:21:29.000Z",
+          "wordCount": 483,
+          "title": "HackerNews top stories #86"
         }
       ]
     }
