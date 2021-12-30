@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-12-30T10:11:12.936Z</updated>
+    <updated>2021-12-30T11:09:02.601Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[32 pytania i odpowiedzi dotyczące Pegasusa]]></title>
+        <id>https://niebezpiecznik.pl/post/32-pytania-i-odpowiedzi-dotyczace-pegasusa/</id>
+        <link href="https://niebezpiecznik.pl/post/32-pytania-i-odpowiedzi-dotyczace-pegasusa/"/>
+        <updated>2021-12-30T10:47:32.000Z</updated>
+        <summary type="html"><![CDATA[W ostatnich dniach znów jest głośno na temat Pegasusa – rządowego trojana, o którym po raz pierwszy pisaliśmy w 2016 roku, cytując raport CitizenLabu. Ponieważ kierowaliście do nas w tej...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak ofiara ataku SMS-owego została oskarżona przez prokuraturę o przywłaszczenie]]></title>
         <id>https://niebezpiecznik.pl/post/jak-ofiara-ataku-sms-owego-zostala-oskarzona-przez-prokurature-o-przywlaszczenie/</id>
