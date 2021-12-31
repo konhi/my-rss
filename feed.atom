@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-12-31T11:08:44.823Z</updated>
+    <updated>2021-12-31T12:16:32.445Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 448 [2021-12-31]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60546</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-448-2021-12-31-bierzcie-i-czytajcie/"/>
+        <updated>2021-12-31T11:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do ostatniego w tym roku wydania Weekendowej Lektury. W okołoświątecznym okresie przestępcy nieco zmniejszyli obroty, ale i tak udało nam się zebrać trochę materiału do czytania. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film, który zrozumiale wyjaśnia, jak działa Pegasus i w jaki sposób sprawdzić, czy nas podsłuchuje (pkt 1) oraz doniesienia o rzekomym wycieku haseł przechowywanych w aplikacji LastPass (pkt 11).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 448 [2021-12-31]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[31 grudnia 2021]]></title>
         <id>https://news.mrugalski.pl/post/672071248950476800</id>
