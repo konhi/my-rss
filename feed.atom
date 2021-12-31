@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2021-12-31T08:12:41.554Z</updated>
+    <updated>2021-12-31T09:10:42.871Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[31 grudnia 2021]]></title>
+        <id>https://news.mrugalski.pl/post/672071248950476800</id>
+        <link href="https://news.mrugalski.pl/post/672071248950476800"/>
+        <updated>2021-12-31T07:51:28.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Mam dobrą i zła wiadomość. Dobra jest taka, że jakoś zebrałem się dzisiaj do zredagowania tego newslettera, a złą wiadomością jest fakt, że to niestety ostatnie wydanie zestawienia w tym roku 😉
+
+Największa, doroczna wyprzedaż książek z Heliona i Ebookpoint rusza już 2 stycznia
+Dziś sylwester, więc ta promocja może Ci się przydać. Tak tylko mówię…
+
+1) Jak zadbać o swoją przyszłość finansową jako software developer? - przemyślenia
+https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/
+INFO: to garść dobrych rad od człowieka, który pracował w Intelu, Sunie, Google, Amazonie itp. Nie wszystkie rady da się zastosować w Polsce, ale myślę, że warto przeczytać, zwłaszcza jeśli jesteś na początkowych etapach swojej kariery w branży IT.
+2…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tak, hasła z przeglądarki mogą być wykradzione, ale mimo to warto je tam zapamiętywać]]></title>
         <id>https://niebezpiecznik.pl/post/tak-hasla-z-przegladarki-moga-byc-wykradzione-ale-mimo-to-warto-je-tam-zapamietywac/</id>

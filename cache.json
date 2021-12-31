@@ -194,6 +194,15 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/672071248950476800",
+          "author": null,
+          "description": "◢ #unknownews ◣\nMam dobrą i zła wiadomość. Dobra jest taka, że jakoś zebrałem się dzisiaj do zredagowania tego newslettera, a złą wiadomością jest fakt, że to niestety ostatnie wydanie zestawienia w tym roku 😉\n\nNajwiększa, doroczna wyprzedaż książek z Heliona i Ebookpoint rusza już 2 stycznia\nDziś sylwester, więc ta promocja może Ci się przydać. Tak tylko mówię…\n\n1) Jak zadbać o swoją przyszłość finansową jako software developer? - przemyślenia\nhttps://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/\nINFO: to garść dobrych rad od człowieka, który pracował w Intelu, Sunie, Google, Amazonie itp. Nie wszystkie rady da się zastosować w Polsce, ale myślę, że warto przeczytać, zwłaszcza jeśli jesteś na początkowych etapach swojej kariery w branży IT.\n2…",
+          "link": "https://news.mrugalski.pl/post/672071248950476800",
+          "publishedOn": "2021-12-31T07:51:28.000Z",
+          "wordCount": 1244,
+          "title": "31 grudnia 2021"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/671445102785445888",
           "author": null,
           "description": "◢ #unknownews ◣\nDziś mamy wigilię, ale ja nie robię sobie przerwy i tradycyjnie, jak co piątek, udostępniam nowe zestawienie ciekawych linków z branży IT. Zapraszam do lektury.\n1) Street Fighter II - optymalizacja grafik z użyciem… kartki papieru?\nhttps://fabiensanglard.net/sf2_sheets/index.html\nINFO: odrobina historii związanej ze starymi grami. Jak obchodzono ograniczenia pamięci i jak z Ryu zrobiono Kena. Piękne!\n2) Narzędzie do ‘ożywiania’ dziecięcych rysunków - wrzuć skan, a sztuczna inteligencja zmieni go w postać z kreskówki \nhttps://sketch.metademolab.com\nINFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko, bez starania się) i niektóre z utworzonych animacji są po prostu rewelacyjne, a przy niektórych AI chyba nie dało rady z moimi bazgrołami. Zauważyłem, ż…",
