@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-01T22:09:42.580Z</updated>
+    <updated>2022-01-01T23:10:19.336Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nie, to nie ja wydzwaniam do was i oskarżam was o pedofilię]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60563</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/nie-to-nie-ja-wydzwaniam-do-was-i-oskarzam-was-o-pedofilie/"/>
+        <updated>2022-01-01T22:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Co powstanie z połączenia archaicznych protokołów telefonicznych z nudzącym się gamoniem o przeciętnych umiejętnościach technicznych? Odpowiedź jest prosta – telefony „od Adama Haertle” z Ivoną czytającą żałosne wypociny gamonia.
+Od wielu, wielu miesięcy ktoś się bardzo nudzi i jednocześnie odczuwa silną potrzebę znalezienia ujścia swoich ogromnych frustracji.… Czytaj dalej 
+The post Nie, to nie ja wydzwaniam do was i oskarżam was o pedofilię first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 448 [2021-12-31]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60546</id>
