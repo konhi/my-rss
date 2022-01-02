@@ -64,6 +64,23 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=60572",
+          "author": "Adam Haertle",
+          "description": "Gościem osiemdziesiątego dziewiątego odcinka podcastu Rozmowa Kontrolowana jest Wojciech Ledzion, Principal Threat Analyst w formie Mandiant.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 89 –  Threat Analyst, Wojciech Ledzion first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-89-threat-analyst-wojciech-ledzion/",
+          "publishedOn": "2022-01-02T21:57:45.000Z",
+          "wordCount": null,
+          "title": "Odcinek 89 –  Threat Analyst, Wojciech Ledzion",
+          "itunes": {
+            "duration": "50:10"
+          },
+          "enclosure": {
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2022/01/89.mp3",
+            "length": "42316961",
+            "type": "audio/mpeg"
+          }
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=60573",
           "author": "Adam Haertle",
           "description": "Przypisywanie zaawansowanych ataków konkretnym sprawcom to bardzo skomplikowane zadanie – nie mniej skomplikowane, niż ich wykrywanie. O tym i o innych ciekawych aspektach pracy analityka będziemy rozmawiać dzisiaj z Wojtkiem.\nJak trafić do Mandianta, jednej z najlepszych na świecie firm zajmujących się identyfikowaniem zagrożeń w świecie cyber i wykrywaniem napastników o najwyższym poziomie umiejętności?… Czytaj dalej \nThe post Threat analyst, Wojciech Ledzion, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
