@@ -64,6 +64,16 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=60573",
+          "author": "Adam Haertle",
+          "description": "Przypisywanie zaawansowanych ataków konkretnym sprawcom to bardzo skomplikowane zadanie – nie mniej skomplikowane, niż ich wykrywanie. O tym i o innych ciekawych aspektach pracy analityka będziemy rozmawiać dzisiaj z Wojtkiem.\nJak trafić do Mandianta, jednej z najlepszych na świecie firm zajmujących się identyfikowaniem zagrożeń w świecie cyber i wykrywaniem napastników o najwyższym poziomie umiejętności?… Czytaj dalej \nThe post Threat analyst, Wojciech Ledzion, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/threat-analyst-wojciech-ledzion-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2022-01-02T12:02:49.000Z",
+          "wordCount": null,
+          "title": "Threat analyst, Wojciech Ledzion, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {}
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=60563",
           "author": "Adam Haertle",
           "description": "Co powstanie z połączenia archaicznych protokołów telefonicznych z nudzącym się gamoniem o przeciętnych umiejętnościach technicznych? Odpowiedź jest prosta – telefony „od Adama Haertle” z Ivoną czytającą żałosne wypociny gamonia.\nOd wielu, wielu miesięcy ktoś się bardzo nudzi i jednocześnie odczuwa silną potrzebę znalezienia ujścia swoich ogromnych frustracji.… Czytaj dalej \nThe post Nie, to nie ja wydzwaniam do was i oskarżam was o pedofilię first appeared on Zaufana Trzecia Strona.",
@@ -247,6 +257,15 @@
       "feedUrl": "https://dmasior.com/rss",
       "siteUrl": "https://dmasior.com",
       "articles": [
+        {
+          "id": "https://dmasior.com/hackernews-top-stories-90/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Dec 26, 2021 to Jan 02, 2022. In one blog post. [0] “Play-to-Earn” and Bullshit Jobs https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/ [1] Ask HN: How did my LastPass master password get leaked? https://news.ycombinator.com/item?id=29705957 [2] LastPass users warned their master passwords are compromised https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/ [3] Boeing 777 departing Dubai nearly had a major incident after … Continue reading HackerNews top stories #90",
+          "link": "https://dmasior.com/hackernews-top-stories-90/",
+          "publishedOn": "2022-01-02T11:21:49.000Z",
+          "wordCount": 504,
+          "title": "HackerNews top stories #90"
+        },
         {
           "id": "https://dmasior.com/hackernews-top-stories-89/",
           "author": "dmasior",
