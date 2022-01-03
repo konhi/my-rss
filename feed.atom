@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-03T10:11:44.660Z</updated>
+    <updated>2022-01-03T11:08:59.663Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Przegląd wycieków z chmur z całego 2021 roku]]></title>
+        <id>https://niebezpiecznik.pl/post/przeglad-wyciekow-z-chmur-z-calego-2021-roku/</id>
+        <link href="https://niebezpiecznik.pl/post/przeglad-wyciekow-z-chmur-z-calego-2021-roku/"/>
+        <updated>2022-01-03T10:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Dobre podsumowanie różnych wpadek dotyczących infrastruktury chmurowej w 2021 roku. Przeczytaj także: Dane 540 mln użytkowników Facebooka były dostępne publicznie, znów w chmurze Amazona Na...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policja zgubiła 2 dyskietki z danymi osobowymi &#8230;38 osób]]></title>
+        <id>https://niebezpiecznik.pl/post/policja-zgubila-2-dyskietki/</id>
+        <link href="https://niebezpiecznik.pl/post/policja-zgubila-2-dyskietki/"/>
+        <updated>2022-01-03T10:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Niby właśnie wkroczyliśmy w 2022 rok, a tu informacja rodem z lat ’90 ;) Młodszym Czytelnikom, którzy dyskietki nigdy w rękach nie trzymali przypominamy, że to taki stary nośnik danych, głośny...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[* Regularny żart noworoczny]]></title>
+        <id>https://niebezpiecznik.pl/post/regularny-zart-noworoczny/</id>
+        <link href="https://niebezpiecznik.pl/post/regularny-zart-noworoczny/"/>
+        <updated>2022-01-03T10:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Ten dotyczący haseł. Tym razem zrobiliśmy go w wersji video: Nie zapomnijcie o dzwoneczku! ;)Przeczytaj także: “Wyślij nam e-maila z hasłem” – metoda autoryzacji w telekomach (i nie...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odcinek 89 –  Threat Analyst, Wojciech Ledzion]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60572</id>
