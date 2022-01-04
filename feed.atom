@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-04T08:13:23.157Z</updated>
+    <updated>2022-01-04T09:11:01.813Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Santander przypadkiem przelał ponad 700 milionów złotych na konta 75000 osób]]></title>
+        <id>https://niebezpiecznik.pl/post/santander-przypadkiem-przelal-ponad-700-milionow-zlotych-na-konta-75000-osob/</id>
+        <link href="https://niebezpiecznik.pl/post/santander-przypadkiem-przelal-ponad-700-milionow-zlotych-na-konta-75000-osob/"/>
+        <updated>2022-01-04T08:34:33.000Z</updated>
+        <summary type="html"><![CDATA[To się nazywa prezent na święta! Bank na skutek błędu wykonał 75 000 nadmiarowych transakcji na łączną kwotę ok. 711 milionów złotych. Ale gotówka nie wzięła się znikąd. Bank zduplikował przelewy...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Przegląd wycieków z chmur z całego 2021 roku]]></title>
         <id>https://niebezpiecznik.pl/post/przeglad-wyciekow-z-chmur-z-calego-2021-roku/</id>
