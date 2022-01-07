@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-07T08:13:06.190Z</updated>
+    <updated>2022-01-07T09:10:55.484Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podszywacz wygrywa. Nie tylko w sprawie Szymona Hołowni]]></title>
+        <id>https://niebezpiecznik.pl/post/podszywacz-wygrywa/</id>
+        <link href="https://niebezpiecznik.pl/post/podszywacz-wygrywa/"/>
+        <updated>2022-01-07T08:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Od ponad roku ktoś podszywa się pod mniej lub bardziej znane osoby, ludzi z branży bezpieczeństwa, aktywistów i dziennikarzy. Zakłada e-maile zwierające w loginie ich dane osobowe lub spoofuje ich...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Santander przypadkiem przelał ponad 700 milionów złotych na konta 75000 osób]]></title>
         <id>https://niebezpiecznik.pl/post/santander-przypadkiem-przelal-ponad-700-milionow-zlotych-na-konta-75000-osob/</id>
