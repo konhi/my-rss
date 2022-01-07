@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-07T14:09:57.474Z</updated>
+    <updated>2022-01-07T15:10:54.422Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 stycznia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/672715492421697536</id>
+        <link href="https://news.mrugalski.pl/post/672715492421697536"/>
+        <updated>2022-01-07T10:31:27.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Zapraszam do lektury najlepszego jak dotąd wydania zestawienia w 2002 roku ;)
+Link nr 7 pochodzi od sponsora, ale bardzo polecam rzucić okiem, bo warto.
+
+Kurs konfiguracji NGINXa dla Adminów/DevOpsów
+
+1) SmartHome - zrób to sam. Ciekawe studium przypadku jednego z wdrożeń.
+https://mmazurek.dev/jak-samemu-zrobilem-sobie-smarthome/
+INFO: rozwiązanie bazuje na Raspberry Pi, HoemAssistant i technologii ZigBee. Nie jest bardzo tanio, ale przynajmniej nie zamyka Cię w jednym ekosystemie i nie przywiązuje do konkretnego producenta akcesoriów.
+2) Autor przez 10 lat śledził każdą czynność, jaką wykonywał podczas dnia
+https://chaidarun.com/ten-years-of-logging-my-life
+INFO: pomagał sobie przy śledzeniu samodzielnie napisaną aplikacją na Androida, ale ostatecznie ważne jest to, jaki p…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podszywacz wygrywa. Nie tylko w sprawie Szymona Hołowni]]></title>
         <id>https://niebezpiecznik.pl/post/podszywacz-wygrywa/</id>
