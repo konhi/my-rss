@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-08T09:10:30.955Z</updated>
+    <updated>2022-01-08T10:10:57.549Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -463,18 +463,6 @@ INFO: gra nie wymaga zakładania konta (jest opcja pominięcia rejestracji), ale
         <summary type="html"><![CDATA[W wyścigu zbrojeń między producentami antywirusów a twórcami wirusów ciągle nie ma oczywistych zwycięzców. Szczególnie w przypadku nowych zagrożeń ich identyfikacja jest dużym wyzwaniem. Jak zatem być o krok przed atakującymi?
 Oprogramowanie antywirusowe rzetelnych producentów instalowane na stacjach roboczych czy na serwerach radzi sobie całkiem dobrze z większością zagrożeń.… Czytaj dalej 
 The post Sandboxing w chmurze, czyli jak wykrywać nowe zagrożenia first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60211</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/sprzedajesz-komputer-uwazaj-na-ten-nowy-nietypowy-rodzaj-ataku/"/>
-        <updated>2021-12-09T22:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Gdy wydaje się nam, że już wszystkie możliwe wektory ataku opisaliśmy od A do Z, pojawia się bardziej kreatywny przestępca, który wymyśla nowy sposób infekcji cudzych komputerów. Nie inaczej było i tym razem – a pretekstem jest zakup komputera.
-Odezwał się do nas jeden z czytelników, Wojtek, który sprzedawał komputer w serwisie Allegro Lokalnie.… Czytaj dalej 
-The post Sprzedajesz komputer – uważaj na ten nowy, nietypowy rodzaj ataku first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
