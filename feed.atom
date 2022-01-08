@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-08T22:12:38.925Z</updated>
+    <updated>2022-01-08T23:09:59.552Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 449 [2021-01-08]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60588</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-449-2021-01-08-bierzcie-i-czytajcie/"/>
+        <updated>2022-01-08T22:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do pierwszego w tym roku wydania Weekendowej Lektury. Zaparzcie sobie kawę lub herbatę, bo czeka na was nowa porcja linków, która pozwoli zorientować się w aktualnym krajobrazie zagrożeń. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej statystyki z działalności listy ostrzeżeń przed niebezpiecznymi stronami, którą prowadzi CERT Polska (pkt 2), informacje o ataku ransomware’u, który sparaliżował strony internetowe 8000 szkół (pkt 15) oraz artykuł o tym, jak dzięki Google Street View zatrzymano bossa włoskiej mafii (pkt 17).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 449 [2021-01-08]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior consultant, Magdalena Wrzosek, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60613</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/senior-consultant-magdalena-wrzosek-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-01-08T22:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Choć większość z was pewnie na co dzień (lub przynajmniej od święta) pracuje w konsoli tekstowej, to na małym czarnym okienku nie kończy się bezpieczeństwo. Jest go całkiem sporo także w innych miejscach, co świetnie udowadnia nasz gość. Poznajcie Magdę.
+Magda karierę zaczynała w Ministerstwie Cyfryzacji, gdzie koordynowała negocjacje dyrektywy NIS – pierwszego europejskiego prawa w zakresie cyberbezpieczeństwa a także pełniła rolę głównego planisty i moderatora ćwiczeń Cyber Europe.… Czytaj dalej 
+The post Senior consultant, Magdalena Wrzosek, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 stycznia 2022]]></title>
         <id>https://news.mrugalski.pl/post/672715492421697536</id>
