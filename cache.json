@@ -311,15 +311,6 @@
           "publishedOn": "2021-12-17T08:44:56.000Z",
           "wordCount": 961,
           "title": "17 grudnia 2021"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/670199402479108096",
-          "author": null,
-          "description": "◢ #unknownews ◣\nMamy piątek, więc zapraszam na lekturę nowego zestawienia ciekawych znalezisk z branży IT :)\n\nEbooki na temat Hackingu - paczka za €1\nEbooki dla majsterowiczów (po polsku) ze zniżką -50%\n\n1) Dziura w certyfikatach COVIDowych używanych przez policję w Hanoi (Wietnam)\nhttps://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english/\nINFO: okazuje się, że przez zastosowanie słabej kryptografii, każdy (dysponujący chmurą z 36 CPU i 60GB RAM) mógł sam sobie wygenerować odpowiedni certyfikat.\n2) CheckiO - sprawdź swoją znajomość TypeScripta/Pythona (język do wyboru) w prostej grze\nhttps://checkio.org\nINFO: gra nie wymaga zakładania konta (jest opcja pominięcia rejestracji), ale i tak warto to zrobić, aby móc zapisywać postępy\n3) Generator wyrażeń regularnych - s…",
-          "link": "https://news.mrugalski.pl/post/670199402479108096",
-          "publishedOn": "2021-12-10T15:59:16.000Z",
-          "wordCount": 1159,
-          "title": "10 grudnia 2021"
         }
       ]
     },

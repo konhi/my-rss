@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-09T03:12:21.680Z</updated>
+    <updated>2022-01-09T04:13:40.148Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -455,28 +455,6 @@ The post Weekendowa Lektura: odcinek 445 [2021-12-12]. Bierzcie i czytajcie firs
         <summary type="html"><![CDATA[HackerNews most popular stories from Dec 05, 2021 to Dec 12, 2021. In one blog post. [0] AWS us-east-1 outage https://us-east-1.console.aws.amazon.com/console/home [1] Tailwind CSS v3.0 https://tailwindcss.com/blog/tailwindcss-v3 [2] CT scans of AirPods evolution https://scanofthemonth.com/ [3] We will be retiring Alexa.com https://support.alexa.com/hc/en-us/articles/4410503838999 [4] Pixel prevented me from calling 911 https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/ [5] Chrome users beware: Manifest v3 is … Continue reading HackerNews top stories #87]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 grudnia 2021]]></title>
-        <id>https://news.mrugalski.pl/post/670199402479108096</id>
-        <link href="https://news.mrugalski.pl/post/670199402479108096"/>
-        <updated>2021-12-10T15:59:16.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Mamy piątek, więc zapraszam na lekturę nowego zestawienia ciekawych znalezisk z branży IT :)
-
-Ebooki na temat Hackingu - paczka za €1
-Ebooki dla majsterowiczów (po polsku) ze zniżką -50%
-
-1) Dziura w certyfikatach COVIDowych używanych przez policję w Hanoi (Wietnam)
-https://ctrsec.io/index.php/2021/09/29/weak-key-cryptography-in-real-world-english/
-INFO: okazuje się, że przez zastosowanie słabej kryptografii, każdy (dysponujący chmurą z 36 CPU i 60GB RAM) mógł sam sobie wygenerować odpowiedni certyfikat.
-2) CheckiO - sprawdź swoją znajomość TypeScripta/Pythona (język do wyboru) w prostej grze
-https://checkio.org
-INFO: gra nie wymaga zakładania konta (jest opcja pominięcia rejestracji), ale i tak warto to zrobić, aby móc zapisywać postępy
-3) Generator wyrażeń regularnych - s…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
