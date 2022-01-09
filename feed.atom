@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-09T11:08:36.619Z</updated>
+    <updated>2022-01-09T12:16:22.258Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #91]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-91/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-91/"/>
+        <updated>2022-01-09T11:22:08.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Jan 02, 2022 to Jan 09, 2022. In one blog post. [0] Google no longer producing high quality search results in significant categories https://twitter.com/mwseibel/status/1477701120319361026 [1] My First Impressions of Web3 https://moxie.org/2022/01/07/web3-first-impressions.html [2] Tell HN: Salary data is for sale https://news.ycombinator.com/item?id=29834753 [3] I took a job at Amazon, only to leave … Continue reading HackerNews top stories #91]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 449 [2021-01-08]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60588</id>
