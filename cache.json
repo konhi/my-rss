@@ -4,7 +4,17 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nThank you: @sokomin, @molakirlee, @philippnagel",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T04:57:40.000Z",
+          "wordCount": 285,
+          "title": "v1.12.0"
+        }
+      ]
     },
     {
       "title": "Niebezpiecznik.pl",
@@ -384,5 +394,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
