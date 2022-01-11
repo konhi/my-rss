@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-10T23:11:03.356Z</updated>
+    <updated>2022-01-11T00:39:33.913Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -478,28 +478,6 @@ Niektórzy z naszych gości ścieżkę zawodową mają prostą jak strzała – 
 The post Security Transformation Lead, Aneta Legenza, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 445 [2021-12-12]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60173</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-445-2021-12-12-bierzcie-i-czytajcie/"/>
-        <updated>2021-12-12T11:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Kilkadziesiąt interesujących linków powinno Wam w zupełności wystarczyć na przetrwanie do końca tego weekendu. Życzymy zatem udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia na temat blokowania sieci Tor w Rosji (pkt 14-15) oraz nowe szczegóły dotyczące operacji Ironside, czyli dystrybucji wśród przestępców komunikatora An0m (pkt 20).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 445 [2021-12-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNews top stories #87]]></title>
-        <id>https://dmasior.com/hackernews-top-stories-87/</id>
-        <link href="https://dmasior.com/hackernews-top-stories-87/"/>
-        <updated>2021-12-12T11:21:30.000Z</updated>
-        <summary type="html"><![CDATA[HackerNews most popular stories from Dec 05, 2021 to Dec 12, 2021. In one blog post. [0] AWS us-east-1 outage https://us-east-1.console.aws.amazon.com/console/home [1] Tailwind CSS v3.0 https://tailwindcss.com/blog/tailwindcss-v3 [2] CT scans of AirPods evolution https://scanofthemonth.com/ [3] We will be retiring Alexa.com https://support.alexa.com/hc/en-us/articles/4410503838999 [4] Pixel prevented me from calling 911 https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/ [5] Chrome users beware: Manifest v3 is … Continue reading HackerNews top stories #87]]></summary>
-        <author>
-            <name>dmasior</name>
         </author>
     </entry>
 </feed>
