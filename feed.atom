@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-11T17:21:01.105Z</updated>
+    <updated>2022-01-11T18:12:21.273Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -443,18 +443,6 @@ https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/
 INFO: z racji tego, że…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Od Windowsa 7 do Windowsa 11 – na co warto zwrócić uwagę]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=59609</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-od-windowsa-7-do-windowsa-11-na-co-warto-zwrocic-uwage/"/>
-        <updated>2021-12-13T06:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Czy użytkownicy przestarzałego Windowsa 7 mają jakiekolwiek szanse w starciu ze współczesnymi zagrożeniami? Co w kwestii bezpieczeństwa oferuje świeżo wydany Windows 11? Robić przesiadkę czy poprzestać na Windowsie 10? O tym wszystkim w dzisiejszym artykule.
-Pod poprzednim tekstem z cyklu Podstawy Bezpieczeństwa pojawiła się sugestia uwzględnienia w naszych poradnikach systemu Windows 7, który – mimo braku wsparcia ze strony Microsoftu – nadal nie odszedł do lamusa.… Czytaj dalej 
-The post Podstawy Bezpieczeństwa: Od Windowsa 7 do Windowsa 11 – na co warto zwrócić uwagę first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
