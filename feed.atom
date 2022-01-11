@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-11T09:11:09.327Z</updated>
+    <updated>2022-01-11T10:11:36.963Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -443,29 +443,6 @@ Pod poprzednim tekstem z cyklu Podstawy Bezpieczeństwa pojawiła się sugestia 
 The post Podstawy Bezpieczeństwa: Od Windowsa 7 do Windowsa 11 – na co warto zwrócić uwagę first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 87 –  Dyrektora Programu Transformacji Bezpieczeństwa, Aneta Legenza]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60280</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-87-dyrektora-programu-transformacji-bezpieczenstwa-aneta-legenza/"/>
-        <updated>2021-12-12T22:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Gościem osiemdziesiątego siódmego odcinka podcastu Rozmowa Kontrolowana jest Aneta Legenza, zarządzająca modyfikacjami procesów bezpieczeństwa w banku Standard Chartered.
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 87 –  Dyrektora Programu Transformacji Bezpieczeństwa, Aneta Legenza first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
