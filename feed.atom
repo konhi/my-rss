@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-11T14:10:05.483Z</updated>
+    <updated>2022-01-11T15:11:44.053Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: WhatsApp – jak zadbać o bezpieczeństwo i prywatność]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60177</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-whatsapp-jak-zadbac-o-bezpieczenstwo-i-prywatnosc/"/>
+        <updated>2022-01-11T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Pora na trzecią już aplikację firmy Meta (dawniej Facebook) i tym razem będzie to komunikator WhatsApp. Jak bardzo możemy mu ufać, jeśli chodzi o nasze prywatne wiadomości, które wysyłamy do znajomych? Dowiecie się z tego artykułu.
+Ze wszystkich aplikacji, jakie były do tej pory omawiane, WhatsApp najbardziej przypomina o pierwotnym zastosowaniu telefonów, czyli komunikacji z innymi.… Czytaj dalej 
+The post Podstawy Bezpieczeństwa: WhatsApp – jak zadbać o bezpieczeństwo i prywatność first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>redakcja</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.12.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
