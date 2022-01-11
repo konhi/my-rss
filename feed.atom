@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-11T00:39:33.913Z</updated>
+    <updated>2022-01-11T02:02:22.150Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -464,18 +464,6 @@ Odcinek w wersji wideo można obejrzeć poniżej:
 
 Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
 The post Odcinek 87 –  Dyrektora Programu Transformacji Bezpieczeństwa, Aneta Legenza first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Transformation Lead, Aneta Legenza, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60269</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/security-transformation-lead-aneta-legenza-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2021-12-12T13:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Co trzeba zrobić, by zmienić procesy bezpieczeństwa w międzynarodowym banku? Czy doświadczenie z największych firm konsultingowych pomaga bardziej niż studiowanie kryptologii i matematyki? Dzisiaj poszukamy odpowiedzi na te pytania. Poznajcie Anetę.
-Niektórzy z naszych gości ścieżkę zawodową mają prostą jak strzała – cyber od liceum, przez studia, pierwszą pracę, aż po dzień dzisiejszy.… Czytaj dalej 
-The post Security Transformation Lead, Aneta Legenza, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
