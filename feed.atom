@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-12T09:10:30.770Z</updated>
+    <updated>2022-01-12T10:11:29.480Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jak wykryć Pegasusa na iPhonie i inne ciekawe pytania od użytkowników telefonów Apple]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60644</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/jak-wykryc-pegasusa-na-iphonie-i-inne-ciekawe-pytania-od-uzytkownikow-telefonow-apple/"/>
+        <updated>2022-01-12T09:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Temat Pegasusa jest niezwykle obszerny. Dzisiaj zaprosiliśmy eksperta ekosystemu Apple, Wojciecha Regułę z firmy SecuRing, by odpowiedział na pytania dotyczące obecności i wykrywania Pegasusa na iPhonach. Oddajemy zatem głos fachowcowi.
+Ostatnimi czasy dużo słyszy się o infekcjach oprogramowaniem szpiegującym Pegasus, co spowodowało pojawienie się wielu nieprawdziwych informacji.… Czytaj dalej 
+The post Jak wykryć Pegasusa na iPhonie i inne ciekawe pytania od użytkowników telefonów Apple first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>redakcja</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podstawy Bezpieczeństwa: WhatsApp – jak zadbać o bezpieczeństwo i prywatność]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60177</id>
