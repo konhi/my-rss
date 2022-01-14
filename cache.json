@@ -307,6 +307,15 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/673361543985020928",
+          "author": null,
+          "description": "◢ #unknownews ◣\nTwoja copiątkowa porcja lików z branży IT jest już gotowa - zapraszam do lektury.\n\nPC Building Simulator - pełna wersja gry za niespełna 5zł\nFriday the 13th: The Game - gra za €1\n\n\n1) Hackers Laws - zbiór praw i teorii, które mogą być użyteczne dla developerów\nhttps://github.com/dwmkerr/hacker-laws\nINFO: czym jest zasada 90-9-1 znana z Wikipedii? czym jest liczba Dunbara lub prawo Goodharta? Warto rzucić okiem.\n2) Najnowsze wytyczne dotyczące haseł - prosto od polskiego CERT\nhttps://cert.pl/hasla/\nINFO: hasło ma mieć duże litery, małe litery, znak specjalny, cyfrę i symbol z alfabetu indian Ogapi, a do tego ma się zmieniać co 2 tygodnie? Niekoniecznie. Jeśli nie chce Ci się czytać całości, to kliknij ‘rekomendacje techniczne…’\n3) Jak złośliwe programy dostają się na kompute…",
+          "link": "https://news.mrugalski.pl/post/673361543985020928",
+          "publishedOn": "2022-01-14T13:40:10.000Z",
+          "wordCount": 1114,
+          "title": "14 stycznia 2022"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/672715492421697536",
           "author": null,
           "description": "◢ #unknownews ◣\nZapraszam do lektury najlepszego jak dotąd wydania zestawienia w 2002 roku ;)\nLink nr 7 pochodzi od sponsora, ale bardzo polecam rzucić okiem, bo warto.\n\nKurs konfiguracji NGINXa dla Adminów/DevOpsów\n\n1) SmartHome - zrób to sam. Ciekawe studium przypadku jednego z wdrożeń.\nhttps://mmazurek.dev/jak-samemu-zrobilem-sobie-smarthome/\nINFO: rozwiązanie bazuje na Raspberry Pi, HoemAssistant i technologii ZigBee. Nie jest bardzo tanio, ale przynajmniej nie zamyka Cię w jednym ekosystemie i nie przywiązuje do konkretnego producenta akcesoriów.\n2) Autor przez 10 lat śledził każdą czynność, jaką wykonywał podczas dnia\nhttps://chaidarun.com/ten-years-of-logging-my-life\nINFO: pomagał sobie przy śledzeniu samodzielnie napisaną aplikacją na Androida, ale ostatecznie ważne jest to, jaki p…",
