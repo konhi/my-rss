@@ -119,6 +119,16 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=60682",
+          "author": "Adam Haertle",
+          "description": "Dzisiaj Onet ujawnił „gigantyczny wyciek danych z wojska”. Brzmiało jak co najmniej preludium do największej katastrofy w historii WP. Nasi informatorzy wskazują jednak, że ujawnione dane, choć są sporą wpadką, to nie są totalną katastrofą.\nRano w serwisie Onet pojawił się artykuł ujawniający spory wyciek danych z systemów logistycznych Wojska Polskiego.… Czytaj dalej \nThe post Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/co-tak-naprawde-wycieklo-z-wojska-polskiego-analiza-ujawnionych-danych/",
+          "publishedOn": "2022-01-14T13:05:18.000Z",
+          "wordCount": null,
+          "title": "Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych",
+          "itunes": {}
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=60667",
           "author": "Adam Haertle",
           "description": "Czy można skutecznie zapobiegać infekcji (lub jej skutkom) za pomocą jednego z najbardziej wyrafinowanych narzędzi do inwigilacji? Nie jest to proste zadanie, ale wobec potencjału nadużyć Pegasusa warto zrobić przegląd możliwych rozwiązań.\nWiedza przedstawiona poniżej oparta jest o publicznie dostępne informacje na temat sposobu działania narzędzi takich jak Pegasus, głównie raporty Citizen Lab i Amnesty International.… Czytaj dalej \nThe post Jak się nie dać zhakować Pegasusowi – porady i rekomendacje first appeared on Zaufana Trzecia Strona.",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-14T12:16:55.374Z</updated>
+    <updated>2022-01-14T13:20:11.280Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60682</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/co-tak-naprawde-wycieklo-z-wojska-polskiego-analiza-ujawnionych-danych/"/>
+        <updated>2022-01-14T13:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Dzisiaj Onet ujawnił „gigantyczny wyciek danych z wojska”. Brzmiało jak co najmniej preludium do największej katastrofy w historii WP. Nasi informatorzy wskazują jednak, że ujawnione dane, choć są sporą wpadką, to nie są totalną katastrofą.
+Rano w serwisie Onet pojawił się artykuł ujawniający spory wyciek danych z systemów logistycznych Wojska Polskiego.… Czytaj dalej 
+The post Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak się nie dać zhakować Pegasusowi – porady i rekomendacje]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60667</id>
