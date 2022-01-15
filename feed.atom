@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-15T10:11:06.130Z</updated>
+    <updated>2022-01-15T11:08:32.102Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ktoś chciał nas wplątać w cyberkonflikt z Ukrainą]]></title>
+        <id>https://niebezpiecznik.pl/post/ktos-chcial-nas-wplatac-w-cyberkonflikt-z-ukraina/</id>
+        <link href="https://niebezpiecznik.pl/post/ktos-chcial-nas-wplatac-w-cyberkonflikt-z-ukraina/"/>
+        <updated>2022-01-15T10:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Wczorajszy dzień obfitował w informacje dotyczące Polski, które zostały rozpropagowane na cały świat. I nie stawiają nas w korzystnym świetle. Najpierw ktoś zhackował kilka rządowych stron...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14 stycznia 2022]]></title>
         <id>https://news.mrugalski.pl/post/673361543985020928</id>
