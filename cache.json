@@ -350,15 +350,6 @@
           "publishedOn": "2021-12-24T09:59:09.000Z",
           "wordCount": 1233,
           "title": "24 grudnia 2021"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/670806254811316224",
-          "author": null,
-          "description": "◢ #unknownews ◣\nCzas na cotygodniowe zestawienie interesujących znalezisk z branży IT :)\n\n🔥 Syberia 1 + Syberia 2 za niecałe 5zł (Windows + Mac)\n\n1) Prezentacja możliwości Unreal Engine 5 - robi wrażenie!\nhttps://www.youtube.com/watch?v=WU0gvPcc3jQ\nINFO: twórcy przygotowali coś na wzór trailera Matrixa, ale wszyscy aktorzy są wyrenderowani, podobnie jak cały otaczający ich świat.\n2) Architektura Oprogramowania - zbiór materiałów użytecznych przy projektowaniu softu\nhttps://mehdihadeli.github.io/awesome-software-architecture/\nINFO: fajnie zorganizowana porcja wiedzy, utrzymana w stylu klasycznych list ‘Awesome’ znanych z Githuba\n3) Log4shell, czyli podatność w log4j - które produkty są podatne?\nhttps://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/\nINFO: z racji tego, że…",
-          "link": "https://news.mrugalski.pl/post/670806254811316224",
-          "publishedOn": "2021-12-17T08:44:56.000Z",
-          "wordCount": 961,
-          "title": "17 grudnia 2021"
         }
       ]
     },

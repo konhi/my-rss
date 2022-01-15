@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-15T20:10:43.449Z</updated>
+    <updated>2022-01-15T21:08:49.345Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -504,29 +504,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej materiał o ty
 The post Weekendowa Lektura: odcinek 446 [2021-12-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 grudnia 2021]]></title>
-        <id>https://news.mrugalski.pl/post/670806254811316224</id>
-        <link href="https://news.mrugalski.pl/post/670806254811316224"/>
-        <updated>2021-12-17T08:44:56.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Czas na cotygodniowe zestawienie interesujących znalezisk z branży IT :)
-
-🔥 Syberia 1 + Syberia 2 za niecałe 5zł (Windows + Mac)
-
-1) Prezentacja możliwości Unreal Engine 5 - robi wrażenie!
-https://www.youtube.com/watch?v=WU0gvPcc3jQ
-INFO: twórcy przygotowali coś na wzór trailera Matrixa, ale wszyscy aktorzy są wyrenderowani, podobnie jak cały otaczający ich świat.
-2) Architektura Oprogramowania - zbiór materiałów użytecznych przy projektowaniu softu
-https://mehdihadeli.github.io/awesome-software-architecture/
-INFO: fajnie zorganizowana porcja wiedzy, utrzymana w stylu klasycznych list ‘Awesome’ znanych z Githuba
-3) Log4shell, czyli podatność w log4j - które produkty są podatne?
-https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/
-INFO: z racji tego, że…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
