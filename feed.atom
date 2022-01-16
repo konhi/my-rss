@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-16T18:11:51.965Z</updated>
+    <updated>2022-01-16T19:09:26.063Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jak poważny jest &#8220;gigantyczny wyciek z wojska&#8221;?]]></title>
+        <id>https://niebezpiecznik.pl/post/jak-powazny-jest-gigantyczny-wyciek-z-wojska/</id>
+        <link href="https://niebezpiecznik.pl/post/jak-powazny-jest-gigantyczny-wyciek-z-wojska/"/>
+        <updated>2022-01-16T18:10:53.000Z</updated>
+        <summary type="html"><![CDATA[W piątek Onet poinformował o “gigantycznym wycieku” z Wojska Polskiego. Dziennikarze skupili się na analizie bazy pod kątem zawartości, nie podając zbyt wielu informacji na temat...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 450 [2022-01-16]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60685</id>
