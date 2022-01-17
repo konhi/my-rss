@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-17T22:10:21.707Z</updated>
+    <updated>2022-01-17T23:10:39.487Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -553,18 +553,6 @@ INFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko
         <summary type="html"><![CDATA[HackerNews most popular stories from Dec 12, 2021 to Dec 19, 2021. In one blog post. [0] TikTok streaming software is an illegal fork of OBS https://twitter.com/Naaackers/status/1471494415306788870 [1] AWS appears to be down again https://news.ycombinator.com/item?id=29567170 [2] President Daniels responds to Chinese student’s harassment https://www.purdueexponent.org/campus/article_aa3e67de-5de9-11ec-9246-af6384980cbb.html [3] I started a paper website business https://daily.tinyprojects.dev/paper_website [4] Toyota owners … Continue reading HackerNews top stories #88]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMA z Adamami – zapytaj, o co chcesz, w Rozmowie Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60352</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/ama-z-adamami-zapytaj-o-co-chcesz-w-rozmowie-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2021-12-19T10:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Wiele osób zajętych jest dzisiaj pieczeniem pierniczków na Instagrama i dekorowaniem choinek – szanujemy to. Nasze pierniczki i choinki są już gotowe, więc weźmiemy na siebie dzisiejszy występ. Na was z kolei spada obowiązek zadawania pytań.
-Podobno nie ma głupich pytań – jesteśmy gotowi zarówno na decyzje o walce z końmi i kaczkami, jak i rozważania o łapaniu trakcji i stawaniu na szynach.… Czytaj dalej 
-The post AMA z Adamami – zapytaj, o co chcesz, w Rozmowie Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
