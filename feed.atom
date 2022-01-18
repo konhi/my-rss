@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-17T23:10:39.487Z</updated>
+    <updated>2022-01-18T00:40:20.994Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -543,16 +543,6 @@ INFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNews top stories #88]]></title>
-        <id>https://dmasior.com/hackernews-top-stories-88/</id>
-        <link href="https://dmasior.com/hackernews-top-stories-88/"/>
-        <updated>2021-12-19T11:21:40.000Z</updated>
-        <summary type="html"><![CDATA[HackerNews most popular stories from Dec 12, 2021 to Dec 19, 2021. In one blog post. [0] TikTok streaming software is an illegal fork of OBS https://twitter.com/Naaackers/status/1471494415306788870 [1] AWS appears to be down again https://news.ycombinator.com/item?id=29567170 [2] President Daniels responds to Chinese student’s harassment https://www.purdueexponent.org/campus/article_aa3e67de-5de9-11ec-9246-af6384980cbb.html [3] I started a paper website business https://daily.tinyprojects.dev/paper_website [4] Toyota owners … Continue reading HackerNews top stories #88]]></summary>
-        <author>
-            <name>dmasior</name>
         </author>
     </entry>
 </feed>
