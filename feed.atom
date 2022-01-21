@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-21T03:09:53.441Z</updated>
+    <updated>2022-01-21T04:14:08.270Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -517,19 +517,6 @@ https://sketch.metademolab.com
 INFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko, bez starania się) i niektóre z utworzonych animacji są po prostu rewelacyjne, a przy niektórych AI chyba nie dało rady z moimi bazgrołami. Zauważyłem, ż…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klucze U2F &#8211; pytania i odpowiedzi. Dlaczego hakerzy ich nienawidzą i dlaczego warto z nich korzystać?]]></title>
-        <id>https://niebezpiecznik.pl/post/klucze-u2f-pytania-i-odpowiedzi/</id>
-        <link href="https://niebezpiecznik.pl/post/klucze-u2f-pytania-i-odpowiedzi/"/>
-        <updated>2021-12-22T15:11:18.000Z</updated>
-        <summary type="html"><![CDATA[W ostatnich tygodniach, po tym jak zaproponowaliśmy że klucze U2F są idealnym prezentem pod choinkę, trafiło do nas dużo pytań. Odpowiedzi na najpopularniejsze znajdziecie na tym filmiku (z góry...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
