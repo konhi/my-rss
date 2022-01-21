@@ -325,6 +325,15 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/673981170906693633",
+          "author": null,
+          "description": "◢ #unknownews ◣\nOto najnowsze zestawienie ciekawych linków z branży IT - zapraszam do lektury.\n\nPromocja na gry logiczne/łamigłówki na HumbleBundle (od 5zł)\nPC Building Simulator + dodatki (podstawa od €1)\nSurviving Mars - symulator budowy miasta na Marsie (za 5zł)\n\n1) W firmie znaleziono Raspberry Pi podpięte (nielegalnie) do firmowej infrastruktury - opis małego śledztwa\nhttps://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html\nINFO: bardzo ciekawa lektura. Zaczyna się od fizycznej analizy znalezionego sprzętu, przechodzi przez wydobywanie z niego danych, a kończy na… znalezieniu adresu domowego osoby, która na lewo zainstalowała urządzenie w firmowej sieci. Garść ciekawostek z dziedziny informatyki śledczej.\n2) Anatomia manipulacji cenami Bitcoina - analiza\nhttps://…",
+          "link": "https://news.mrugalski.pl/post/673981170906693633",
+          "publishedOn": "2022-01-21T09:48:52.000Z",
+          "wordCount": 1088,
+          "title": "21 stycznia 2022"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/673361543985020928",
           "author": null,
           "description": "◢ #unknownews ◣\nTwoja copiątkowa porcja lików z branży IT jest już gotowa - zapraszam do lektury.\n\nPC Building Simulator - pełna wersja gry za niespełna 5zł\nFriday the 13th: The Game - gra za €1\n\n\n1) Hackers Laws - zbiór praw i teorii, które mogą być użyteczne dla developerów\nhttps://github.com/dwmkerr/hacker-laws\nINFO: czym jest zasada 90-9-1 znana z Wikipedii? czym jest liczba Dunbara lub prawo Goodharta? Warto rzucić okiem.\n2) Najnowsze wytyczne dotyczące haseł - prosto od polskiego CERT\nhttps://cert.pl/hasla/\nINFO: hasło ma mieć duże litery, małe litery, znak specjalny, cyfrę i symbol z alfabetu indian Ogapi, a do tego ma się zmieniać co 2 tygodnie? Niekoniecznie. Jeśli nie chce Ci się czytać całości, to kliknij ‘rekomendacje techniczne…’\n3) Jak złośliwe programy dostają się na kompute…",

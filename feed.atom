@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-21T11:08:28.144Z</updated>
+    <updated>2022-01-21T12:15:53.088Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21 stycznia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/673981170906693633</id>
+        <link href="https://news.mrugalski.pl/post/673981170906693633"/>
+        <updated>2022-01-21T09:48:52.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Oto najnowsze zestawienie ciekawych linków z branży IT - zapraszam do lektury.
+
+Promocja na gry logiczne/łamigłówki na HumbleBundle (od 5zł)
+PC Building Simulator + dodatki (podstawa od €1)
+Surviving Mars - symulator budowy miasta na Marsie (za 5zł)
+
+1) W firmie znaleziono Raspberry Pi podpięte (nielegalnie) do firmowej infrastruktury - opis małego śledztwa
+https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html
+INFO: bardzo ciekawa lektura. Zaczyna się od fizycznej analizy znalezionego sprzętu, przechodzi przez wydobywanie z niego danych, a kończy na… znalezieniu adresu domowego osoby, która na lewo zainstalowała urządzenie w firmowej sieci. Garść ciekawostek z dziedziny informatyki śledczej.
+2) Anatomia manipulacji cenami Bitcoina - analiza
+https://…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prokuratura szuka poszkodowanych w scamie na KGHM]]></title>
         <id>https://niebezpiecznik.pl/post/prokuratura-szuka-poszkodowanych-w-scamie-na-kghm/</id>
