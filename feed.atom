@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-22T21:07:54.759Z</updated>
+    <updated>2022-01-22T22:09:19.275Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -521,23 +521,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia o 
 The post Weekendowa Lektura: odcinek 447 [2021-12-24]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 grudnia 2021]]></title>
-        <id>https://news.mrugalski.pl/post/671445102785445888</id>
-        <link href="https://news.mrugalski.pl/post/671445102785445888"/>
-        <updated>2021-12-24T09:59:09.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Dziś mamy wigilię, ale ja nie robię sobie przerwy i tradycyjnie, jak co piątek, udostępniam nowe zestawienie ciekawych linków z branży IT. Zapraszam do lektury.
-1) Street Fighter II - optymalizacja grafik z użyciem… kartki papieru?
-https://fabiensanglard.net/sf2_sheets/index.html
-INFO: odrobina historii związanej ze starymi grami. Jak obchodzono ograniczenia pamięci i jak z Ryu zrobiono Kena. Piękne!
-2) Narzędzie do ‘ożywiania’ dziecięcych rysunków - wrzuć skan, a sztuczna inteligencja zmieni go w postać z kreskówki 
-https://sketch.metademolab.com
-INFO: testowo narysowałem jakąś postać w programie graficznym (tak na szybko, bez starania się) i niektóre z utworzonych animacji są po prostu rewelacyjne, a przy niektórych AI chyba nie dało rady z moimi bazgrołami. Zauważyłem, ż…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
