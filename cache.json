@@ -368,6 +368,15 @@
       "siteUrl": "https://dmasior.com",
       "articles": [
         {
+          "id": "https://dmasior.com/hackernews-top-stories-93/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Jan 16, 2022 to Jan 23, 2022. In one blog post. [0] Microsoft to Acquire Activision Blizzard https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/ [1] GPS https://ciechanow.ski/gps/ [2] FalsiScan: Make it look like a PDF has been hand signed and scanned https://gitlab.com/edouardklein/falsisign [3] 1Password Has Raised $620M https://blog.1password.com/future-of-1password/ [4] Do svidaniya, Igor, and thank you for … Continue reading HackerNews top stories #93",
+          "link": "https://dmasior.com/hackernews-top-stories-93/",
+          "publishedOn": "2022-01-23T11:20:52.000Z",
+          "wordCount": 472,
+          "title": "HackerNews top stories #93"
+        },
+        {
           "id": "https://dmasior.com/hackernews-top-stories-92/",
           "author": "dmasior",
           "description": "HackerNews most popular stories from Jan 09, 2022 to Jan 16, 2022. In one blog post. [0] Upwork asking me for a $12.5k refund as the client was using someone else’s card https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/ [1] Ask HN: Firefox connection problems after enabling DoH? https://news.ycombinator.com/item?id=29918052 [2] New Year, New CEO https://signal.org/blog/new-year-new-ceo/ [3] T-Mobile begins blocking iPhone users … Continue reading HackerNews top stories #92",

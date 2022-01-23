@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-23T11:07:47.674Z</updated>
+    <updated>2022-01-23T12:15:18.141Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #93]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-93/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-93/"/>
+        <updated>2022-01-23T11:20:52.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Jan 16, 2022 to Jan 23, 2022. In one blog post. [0] Microsoft to Acquire Activision Blizzard https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/ [1] GPS https://ciechanow.ski/gps/ [2] FalsiScan: Make it look like a PDF has been hand signed and scanned https://gitlab.com/edouardklein/falsisign [3] 1Password Has Raised $620M https://blog.1password.com/future-of-1password/ [4] Do svidaniya, Igor, and thank you for … Continue reading HackerNews top stories #93]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security Consultant Mateusz Olejarka gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60817</id>
