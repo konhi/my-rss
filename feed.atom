@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-24T23:09:32.864Z</updated>
+    <updated>2022-01-25T00:39:46.506Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -556,16 +556,6 @@ INFO: to garść dobrych rad od człowieka, który pracował w Intelu, Sunie, Go
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNews top stories #89]]></title>
-        <id>https://dmasior.com/hackernews-top-stories-89/</id>
-        <link href="https://dmasior.com/hackernews-top-stories-89/"/>
-        <updated>2021-12-26T11:21:31.000Z</updated>
-        <summary type="html"><![CDATA[HackerNews most popular stories from Dec 19, 2021 to Dec 26, 2021. In one blog post. [0] Tell HN: Microsoft forks MIT licensed repo, and changes the copyright to them https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb [1] Lithuania evacuates its embassy in China https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843 [2] Wish HN: Happy Holidays https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30. [3] Regulators Shut Down Lending Platform (YC Alum) LendUp https://www.consumerfinance.gov/about-us/newsroom/cfpb-shutters-lending-by-vc-backed-fintech-for-violating-agency-order/ … Continue reading HackerNews top stories #89]]></summary>
-        <author>
-            <name>dmasior</name>
         </author>
     </entry>
 </feed>
