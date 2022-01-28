@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-28T22:09:08.162Z</updated>
+    <updated>2022-01-28T23:09:55.284Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -580,19 +580,6 @@ INFO: to garść dobrych rad od człowieka, który pracował w Intelu, Sunie, Go
         <link href="https://niebezpiecznik.pl/post/tak-hasla-z-przegladarki-moga-byc-wykradzione-ale-mimo-to-warto-je-tam-zapamietywac/"/>
         <updated>2021-12-30T13:25:00.000Z</updated>
         <summary type="html"><![CDATA[Oprogramowanie do wykradania haseł przechowywanych w przeglądarkach jest sprzedawane w Darknecie i obserwuje się skuteczne ataki z jego użyciem. Czy to całkowicie przekreśla przechowywanie haseł w...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[32 pytania i odpowiedzi dotyczące Pegasusa]]></title>
-        <id>https://niebezpiecznik.pl/post/32-pytania-i-odpowiedzi-dotyczace-pegasusa/</id>
-        <link href="https://niebezpiecznik.pl/post/32-pytania-i-odpowiedzi-dotyczace-pegasusa/"/>
-        <updated>2021-12-30T10:47:32.000Z</updated>
-        <summary type="html"><![CDATA[W ostatnich dniach znów jest głośno na temat Pegasusa – rządowego trojana, o którym po raz pierwszy pisaliśmy w 2016 roku, cytując raport CitizenLabu. Ponieważ kierowaliście do nas w tej...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
