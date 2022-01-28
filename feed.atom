@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-28T09:10:16.601Z</updated>
+    <updated>2022-01-28T10:11:06.546Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[28 stycznia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/674604783803498496</id>
+        <link href="https://news.mrugalski.pl/post/674604783803498496"/>
+        <updated>2022-01-28T07:00:56.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Witaj w kolejny piątek - czas na nowy przegląd ciekawych linków z branży IT, wyłowionych z czeluści internetu przez ostatni tydzień.
+
+Zestaw 8 książek z branży CyberSecurity za niespełna 5zł (ebooki)
+
+1) Koszty aplikacji hostowanej na Azure i schowanej za Cloudflare nagle wzrosły do ponad 12k PLN miesięcznie? - historia Troya Hunta (Haveibeenpwnd)
+https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/
+INFO: ruch na serwisie się nie zwiększył. Serwis także nie został przebudowany. Nie było żadnego ataku, a ceny poszybowały w kosmos. Artykuł pokazuje, jak niekiedy jeden, niewielki szczegół może wpłynąć na ekonomię rozwiązań chmurowych
+2) Generator blacklist do uBlocka - ale nie taki, jak myślisz!
+https://letsblock.it
+INFO: filtry te nie usuwają reklam, a ‘oczyszczają int…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ważna uwaga dla użytkowników NordVPN]]></title>
         <id>https://niebezpiecznik.pl/post/wazna-uwaga-dla-uzytkownikow-nordvpn/</id>
