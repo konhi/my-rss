@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-29T00:33:21.147Z</updated>
+    <updated>2022-01-29T01:46:22.418Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -572,19 +572,6 @@ INFO: to garść dobrych rad od człowieka, który pracował w Intelu, Sunie, Go
 2…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tak, hasła z przeglądarki mogą być wykradzione, ale mimo to warto je tam zapamiętywać]]></title>
-        <id>https://niebezpiecznik.pl/post/tak-hasla-z-przegladarki-moga-byc-wykradzione-ale-mimo-to-warto-je-tam-zapamietywac/</id>
-        <link href="https://niebezpiecznik.pl/post/tak-hasla-z-przegladarki-moga-byc-wykradzione-ale-mimo-to-warto-je-tam-zapamietywac/"/>
-        <updated>2021-12-30T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Oprogramowanie do wykradania haseł przechowywanych w przeglądarkach jest sprzedawane w Darknecie i obserwuje się skuteczne ataki z jego użyciem. Czy to całkowicie przekreśla przechowywanie haseł w...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
