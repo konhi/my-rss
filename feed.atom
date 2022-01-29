@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-29T14:08:20.590Z</updated>
+    <updated>2022-01-29T15:09:13.977Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spoofing rozmów telefonicznych]]></title>
+        <id>https://niebezpiecznik.pl/post/spoofing-rozmow-telefonicznych/</id>
+        <link href="https://niebezpiecznik.pl/post/spoofing-rozmow-telefonicznych/"/>
+        <updated>2022-01-29T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Od kilku dni otrzymujemy zapytania od różnych redakcji w sprawie tzw. spoofingu, czyli podrabiania połączeń telefonicznych. Wszystko za sprawą dziesiątek połączeń wykonywanych przez podszywacza do...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak można było pozyskać dane na temat (nie)zaszczepionych Polaków?]]></title>
         <id>https://niebezpiecznik.pl/post/jak-mozna-bylo-pozyskac-dane-na-temat-niezaszczepionych-polakow/</id>
