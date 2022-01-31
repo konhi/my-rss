@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-01-31T10:10:52.829Z</updated>
+    <updated>2022-01-31T11:08:52.625Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -576,18 +576,6 @@ The post Threat analyst, Wojciech Ledzion, gościem Rozmowy Kontrolowanej w nied
         <summary type="html"><![CDATA[HackerNews most popular stories from Dec 26, 2021 to Jan 02, 2022. In one blog post. [0] “Play-to-Earn” and Bullshit Jobs https://paulbutler.org/2021/play-to-earn-and-bullshit-jobs/ [1] Ask HN: How did my LastPass master password get leaked? https://news.ycombinator.com/item?id=29705957 [2] LastPass users warned their master passwords are compromised https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/ [3] Boeing 777 departing Dubai nearly had a major incident after … Continue reading HackerNews top stories #90]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nie, to nie ja wydzwaniam do was i oskarżam was o pedofilię]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60563</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/nie-to-nie-ja-wydzwaniam-do-was-i-oskarzam-was-o-pedofilie/"/>
-        <updated>2022-01-01T22:54:49.000Z</updated>
-        <summary type="html"><![CDATA[Co powstanie z połączenia archaicznych protokołów telefonicznych z nudzącym się gamoniem o przeciętnych umiejętnościach technicznych? Odpowiedź jest prosta – telefony „od Adama Haertle” z Ivoną czytającą żałosne wypociny gamonia.
-Od wielu, wielu miesięcy ktoś się bardzo nudzi i jednocześnie odczuwa silną potrzebę znalezienia ujścia swoich ogromnych frustracji.… Czytaj dalej 
-The post Nie, to nie ja wydzwaniam do was i oskarżam was o pedofilię first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
