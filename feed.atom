@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-02T21:08:55.272Z</updated>
+    <updated>2022-02-02T22:09:17.524Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odcinek 93 –  Cybersec Team Leader, Julia Juraszek-Kelka]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60936</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-93-cybersec-team-leader-julia-juraszek-kelka/"/>
+        <updated>2022-02-02T21:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Gościem dziewięćdziesiątego trzeciego odcinka podcastu Rozmowa Kontrolowana jest Julia Juraszek – Kelka, kierownik działu bezpieczeństwa teleinformatycznego w Polkomtelu.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 93 –  Cybersec Team Leader, Julia Juraszek-Kelka first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Biometria i inne sposoby ochrony Androida przed niepowołanym dostępem]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60178</id>
