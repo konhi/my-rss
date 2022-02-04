@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-04T10:08:37.460Z</updated>
+    <updated>2022-02-04T11:06:53.644Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISO ING Bank Śląski, Maciej Ogórkiewicz, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60932</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/ciso-ing-bank-slaski-maciej-ogorkiewicz-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-02-04T10:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Kiedy ostatni raz chowaliście grubszą gotówkę w sejfie? Jak bardzo ufacie mechanizmom zapewniającym bezpieczeństwo waszych pieniędzy  w banku online? Jak bardzo powinniście ufać? O tym porozmawiamy w niedzielę z fachowcem. Poznajcie Macieja.
+Od administratora sieci i baz danych, przez eksperta bezpieczeństwa do dyrektora działu bezpieczeństwa jednego z największych banków w Polsce –  Maciej Ogórkiewicz pokonał bez wątpienia bardzo ciekawą drogę zawodową.… Czytaj dalej 
+The post CISO ING Bank Śląski, Maciej Ogórkiewicz, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 lutego 2022]]></title>
         <id>https://news.mrugalski.pl/post/675244220701966336</id>
