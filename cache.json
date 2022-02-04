@@ -335,6 +335,15 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/675244220701966336",
+          "author": null,
+          "description": "◢ #unknownews ◣\nCzas na kolejne wydanie zestawienia. Dzisiaj sporo treści na temat security, ale i wielbiciele WebDev i programowania znajdą coś dla siebie.\n\nZnasz inne moje newslettery?\n➤ Newsletter projektowy - opis moich działań technicznych i biznesowych\n➤ Promocje IT - porcja ciekawych promocji na aplikacje, gry, ksiązki, kursy\n\n1) A gdyby tak zmienić kraj zamieszkania? Tylko na jaki?\nhttp://www.ifitweremyhome.com\nINFO: ciekawa aplikacja pokazująca na kilku parametrach, jak potencjalnie zmieniłoby się Twoje życie w przypadku wyprowadzki z Polski i zamieszkaniu w kraju XYZ. Twoja lokalizacja jest wykrywana automatycznie (w razie błędu zmień ją). Porównania dokonasz, klikając na nazwę kraju w dolnej części strony.\n2) WebFonty są fajne, ale powodują tzw. Layout Shift w trakcie ładowania …",
+          "link": "https://news.mrugalski.pl/post/675244220701966336",
+          "publishedOn": "2022-02-04T08:24:30.000Z",
+          "wordCount": 1121,
+          "title": "4 lutego 2022"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/674604783803498496",
           "author": null,
           "description": "◢ #unknownews ◣\nWitaj w kolejny piątek - czas na nowy przegląd ciekawych linków z branży IT, wyłowionych z czeluści internetu przez ostatni tydzień.\n\nZestaw 8 książek z branży CyberSecurity za niespełna 5zł (ebooki)\n\n1) Koszty aplikacji hostowanej na Azure i schowanej za Cloudflare nagle wzrosły do ponad 12k PLN miesięcznie? - historia Troya Hunta (Haveibeenpwnd)\nhttps://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/\nINFO: ruch na serwisie się nie zwiększył. Serwis także nie został przebudowany. Nie było żadnego ataku, a ceny poszybowały w kosmos. Artykuł pokazuje, jak niekiedy jeden, niewielki szczegół może wpłynąć na ekonomię rozwiązań chmurowych\n2) Generator blacklist do uBlocka - ale nie taki, jak myślisz!\nhttps://letsblock.it\nINFO: filtry te nie usuwają reklam, a ‘oczyszczają int…",
