@@ -390,15 +390,6 @@
           "publishedOn": "2022-01-14T13:40:10.000Z",
           "wordCount": 1114,
           "title": "14 stycznia 2022"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/672715492421697536",
-          "author": null,
-          "description": "◢ #unknownews ◣\nZapraszam do lektury najlepszego jak dotąd wydania zestawienia w 2002 roku ;)\nLink nr 7 pochodzi od sponsora, ale bardzo polecam rzucić okiem, bo warto.\n\nKurs konfiguracji NGINXa dla Adminów/DevOpsów\n\n1) SmartHome - zrób to sam. Ciekawe studium przypadku jednego z wdrożeń.\nhttps://mmazurek.dev/jak-samemu-zrobilem-sobie-smarthome/\nINFO: rozwiązanie bazuje na Raspberry Pi, HoemAssistant i technologii ZigBee. Nie jest bardzo tanio, ale przynajmniej nie zamyka Cię w jednym ekosystemie i nie przywiązuje do konkretnego producenta akcesoriów.\n2) Autor przez 10 lat śledził każdą czynność, jaką wykonywał podczas dnia\nhttps://chaidarun.com/ten-years-of-logging-my-life\nINFO: pomagał sobie przy śledzeniu samodzielnie napisaną aplikacją na Androida, ale ostatecznie ważne jest to, jaki p…",
-          "link": "https://news.mrugalski.pl/post/672715492421697536",
-          "publishedOn": "2022-01-07T10:31:27.000Z",
-          "wordCount": 966,
-          "title": "7 stycznia 2022"
         }
       ]
     },
