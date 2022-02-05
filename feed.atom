@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-05T16:10:48.807Z</updated>
+    <updated>2022-02-05T17:07:26.640Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 453 [2022-02-05]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60946</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-453-2022-02-05-bierzcie-i-czytajcie/"/>
+        <updated>2022-02-05T16:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. W pocie czoła zebraliśmy dla Was kilkadziesiąt linków, zasilając nimi zarówno część bardziej techniczną, jak i fabularną, zatem każdy znajdzie coś dla siebie. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o alternatywnym do Pegasusa narzędziu firmy QuaDream (pkt 10) oraz nowe szczegóły na temat działalności operatorów Trickbota w Petersburgu (pkt 13).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 453 [2022-02-05]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tysiące ataków Pegasusem, czyli co naprawdę mogło sie stać w NIK-u]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60966</id>
