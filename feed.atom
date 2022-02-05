@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-05T20:08:28.214Z</updated>
+    <updated>2022-02-05T21:07:29.882Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -570,19 +570,6 @@ https://chaidarun.com/ten-years-of-logging-my-life
 INFO: pomagał sobie przy śledzeniu samodzielnie napisaną aplikacją na Androida, ale ostatecznie ważne jest to, jaki p…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podszywacz wygrywa. Nie tylko w sprawie Szymona Hołowni]]></title>
-        <id>https://niebezpiecznik.pl/post/podszywacz-wygrywa/</id>
-        <link href="https://niebezpiecznik.pl/post/podszywacz-wygrywa/"/>
-        <updated>2022-01-07T08:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Od ponad roku ktoś podszywa się pod mniej lub bardziej znane osoby, ludzi z branży bezpieczeństwa, aktywistów i dziennikarzy. Zakłada e-maile zwierające w loginie ich dane osobowe lub spoofuje ich...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
