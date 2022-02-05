@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-05T13:08:04.110Z</updated>
+    <updated>2022-02-05T14:07:15.142Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tysiące ataków Pegasusem, czyli co naprawdę mogło sie stać w NIK-u]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=60966</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/tysiace-atakow-pegasusem-czyli-co-naprawde-moglo-sie-stac-w-nik-u/"/>
+        <updated>2022-02-05T13:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Sześć (lub siedem) tysięcy ataków, ponad 500 urządzeń zainfekowanych, niezwykła skala inwigilacji, skandal na skalę międzynarodową. Czy jednak naprawdę? Przyjrzyjmy się temu, co wiemy o ataku na NIK i przeanalizujmy, co tam się mogło stać.
+Zaczęło się od sensacyjnej wiadomości RMF FM, potem z kolejnymi przeciekami dołączyły TVN24 i Onet.… Czytaj dalej 
+The post Tysiące ataków Pegasusem, czyli co naprawdę mogło sie stać w NIK-u first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISO ING Bank Śląski, Maciej Ogórkiewicz, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60932</id>
