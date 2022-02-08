@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-08T16:14:03.354Z</updated>
+    <updated>2022-02-08T17:12:44.382Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -513,18 +513,6 @@ Ze wszystkich aplikacji, jakie były do tej pory omawiane, WhatsApp najbardziej 
 The post Podstawy Bezpieczeństwa: WhatsApp – jak zadbać o bezpieczeństwo i prywatność first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>redakcja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"/>
-        <updated>2022-01-10T04:57:40.000Z</updated>
-        <summary type="html"><![CDATA[New: When one of the sources download fails, fall back to cache and continue rest of the build.
-Chore: Dependency updates
-Thank you: @sokomin, @molakirlee, @philippnagel]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
