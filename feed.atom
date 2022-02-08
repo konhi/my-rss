@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-08T11:08:30.175Z</updated>
+    <updated>2022-02-08T12:15:05.999Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -525,29 +525,6 @@ Chore: Dependency updates
 Thank you: @sokomin, @molakirlee, @philippnagel]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 90 –  Senior Consultant, Magdalena Wrzosek]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60630</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-90-senior-consultant-magdalena-wrzosek/"/>
-        <updated>2022-01-09T23:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Gościem dziewięćdziesiątego odcinka podcastu Rozmowa Kontrolowana jest Magdalena Wrzosek, Senior Consultant w firmie EY Polska.
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 90 –  Senior Consultant, Magdalena Wrzosek first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
