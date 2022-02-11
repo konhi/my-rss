@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-11T10:10:27.879Z</updated>
+    <updated>2022-02-11T11:08:10.689Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Co łączy boty typu Klara Sobieraj z oszustami podszywającymi się pod pracowników banków?]]></title>
+        <id>https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/</id>
+        <link href="https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/"/>
+        <updated>2022-02-11T10:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Od kilku tygodni otrzymujemy od naszych Czytelników bardzo ciekawe sygnały, które łączą telefony od “robotów” wciskających np. darmowe pulsoksymetry z telefonami od złodziejaszków...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rozgłośnia radiowa zhackowała Mazdy]]></title>
         <id>https://niebezpiecznik.pl/post/rozglosnia-radiowa-zhackowala-mazdy/</id>
