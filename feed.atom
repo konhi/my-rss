@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-11T21:08:49.173Z</updated>
+    <updated>2022-02-11T22:09:04.714Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -523,18 +523,6 @@ Wiedza przedstawiona poniżej oparta jest o publicznie dostępne informacje na t
 The post Jak się nie dać zhakować Pegasusowi – porady i rekomendacje first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber-ratownicy pomagają gminie, która padła ofiarą ataku ransomware]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60649</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/cyber-ratownicy-pomagaja-gminie-ktora-padla-ofiara-ataku-ransomware/"/>
-        <updated>2022-01-13T09:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Czy można nie płacić okupu? Można, a nawet trzeba. Władze gminy Aleksandrów, doświadczonej atakiem ransomware, dzielą się swoimi doświadczeniami i radzą innym samorządowcom, jak się chronić przed podobnymi sytuacjami.
-Wiosną zeszłego roku doszło do cyberataku na systemy informatyczne Urzędu Gminy Aleksandrów, wskutek którego zaszyfrowano bazy danych, z których korzystał również Gminny Ośrodek Pomocy Społecznej.… Czytaj dalej 
-The post Cyber-ratownicy pomagają gminie, która padła ofiarą ataku ransomware first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>redakcja</name>
         </author>
     </entry>
 </feed>
