@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-11T12:14:51.624Z</updated>
+    <updated>2022-02-11T13:12:03.640Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -17,6 +17,26 @@
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 lutego 2022]]></title>
+        <id>https://news.mrugalski.pl/post/675883722389798912</id>
+        <link href="https://news.mrugalski.pl/post/675883722389798912"/>
+        <updated>2022-02-11T09:49:06.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Przybywam z kolejnym, copiątkowym zestawieniem linków technologicznych.
+
+Ebooki na temat Data Engineering (od €1) - język R, Big Data, Apache Drill, Apache Spark itp.
+
+1) Cmentarz ProductHunt, czyli co się stało z najlepiej ocenianymi startupami z tego serwisu?
+https://www.scrapingbee.com/blog/producthunt-cemetery/
+INFO: interesująca analiza nie tylko liczby upadłych projektów, ale także branż, z których pochodziły. Jest tam także próba znalezienia korelacji między liczbą otrzymanych lajków w serwisie a szansą na porażkę.
+2) The Linux Command Line - wprowadzenie do CLI dla początkujących (książka, 550+ stron) i zaawansowanych (książka, 260+ stron)
+https://linuxcommand.org/tlcl.php
+INFO: na stronie są DWIE książki o podobnym tytule. Jedna dla zupełnie zielonych, a druga dla …]]></summary>
+        <author>
+            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
