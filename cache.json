@@ -4,7 +4,17 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "author": null,
+          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "publishedOn": "2022-02-12T17:46:42.000Z",
+          "wordCount": 271,
+          "title": "v1.12.1"
+        }
+      ]
     },
     {
       "title": "Niebezpiecznik.pl",
@@ -394,5 +404,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
