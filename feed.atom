@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-12T08:11:37.599Z</updated>
+    <updated>2022-02-12T09:10:24.714Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -509,18 +509,6 @@ INFO: hasło ma mieć duże litery, małe litery, znak specjalny, cyfrę i symbo
         <summary type="html"><![CDATA[Dzisiaj Onet ujawnił „gigantyczny wyciek danych z wojska”. Brzmiało jak co najmniej preludium do największej katastrofy w historii WP. Nasi informatorzy wskazują jednak, że ujawnione dane, choć są sporą wpadką, to nie są totalną katastrofą.
 Rano w serwisie Onet pojawił się artykuł ujawniający spory wyciek danych z systemów logistycznych Wojska Polskiego.… Czytaj dalej 
 The post Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak się nie dać zhakować Pegasusowi – porady i rekomendacje]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60667</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/jak-sie-nie-dac-zhakowac-pegasusowi-porady-i-rekomendacje/"/>
-        <updated>2022-01-13T20:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Czy można skutecznie zapobiegać infekcji (lub jej skutkom) za pomocą jednego z najbardziej wyrafinowanych narzędzi do inwigilacji? Nie jest to proste zadanie, ale wobec potencjału nadużyć Pegasusa warto zrobić przegląd możliwych rozwiązań.
-Wiedza przedstawiona poniżej oparta jest o publicznie dostępne informacje na temat sposobu działania narzędzi takich jak Pegasus, głównie raporty Citizen Lab i Amnesty International.… Czytaj dalej 
-The post Jak się nie dać zhakować Pegasusowi – porady i rekomendacje first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
