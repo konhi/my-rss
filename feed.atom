@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-13T00:41:01.707Z</updated>
+    <updated>2022-02-13T01:57:37.993Z</updated>
     <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -500,41 +500,6 @@ The post CISO Chmury Krajowej, Adam Marczyński, gościem Rozmowy Kontrolowanej 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 stycznia 2022]]></title>
-        <id>https://news.mrugalski.pl/post/673361543985020928</id>
-        <link href="https://news.mrugalski.pl/post/673361543985020928"/>
-        <updated>2022-01-14T13:40:10.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Twoja copiątkowa porcja lików z branży IT jest już gotowa - zapraszam do lektury.
-
-PC Building Simulator - pełna wersja gry za niespełna 5zł
-Friday the 13th: The Game - gra za €1
-
-
-1) Hackers Laws - zbiór praw i teorii, które mogą być użyteczne dla developerów
-https://github.com/dwmkerr/hacker-laws
-INFO: czym jest zasada 90-9-1 znana z Wikipedii? czym jest liczba Dunbara lub prawo Goodharta? Warto rzucić okiem.
-2) Najnowsze wytyczne dotyczące haseł - prosto od polskiego CERT
-https://cert.pl/hasla/
-INFO: hasło ma mieć duże litery, małe litery, znak specjalny, cyfrę i symbol z alfabetu indian Ogapi, a do tego ma się zmieniać co 2 tygodnie? Niekoniecznie. Jeśli nie chce Ci się czytać całości, to kliknij ‘rekomendacje techniczne…’
-3) Jak złośliwe programy dostają się na kompute…]]></summary>
-        <author>
-            <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60682</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/co-tak-naprawde-wycieklo-z-wojska-polskiego-analiza-ujawnionych-danych/"/>
-        <updated>2022-01-14T13:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Dzisiaj Onet ujawnił „gigantyczny wyciek danych z wojska”. Brzmiało jak co najmniej preludium do największej katastrofy w historii WP. Nasi informatorzy wskazują jednak, że ujawnione dane, choć są sporą wpadką, to nie są totalną katastrofą.
-Rano w serwisie Onet pojawił się artykuł ujawniający spory wyciek danych z systemów logistycznych Wojska Polskiego.… Czytaj dalej 
-The post Co tak naprawdę wyciekło z Wojska Polskiego – analiza ujawnionych danych first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
