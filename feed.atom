@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-14T20:10:18.959Z</updated>
+    <updated>2022-02-14T21:08:10.607Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -576,19 +576,6 @@ Co prawda jest z wykształcenia socjologiem i politologiem, ale od 30 lat jest z
 The post CISO Chmury Krajowej, Adam Marczyński, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ostrzeżenie dla polskich firm utrzymujących kontakty/połączenia internetowe z Ukrainą]]></title>
-        <id>https://niebezpiecznik.pl/post/ostrzezenie-polskie-firmy-ukraina/</id>
-        <link href="https://niebezpiecznik.pl/post/ostrzezenie-polskie-firmy-ukraina/"/>
-        <updated>2022-01-16T08:58:22.000Z</updated>
-        <summary type="html"><![CDATA[Na komputerach wielu organizacji non-profitowych i rządowych w Ukrainie, ale także w sieciach firm prywatnych, właśnie odkryto nowe złośliwe i destrukcyjne oprogramowanie. Udaje atak ransomeware,...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
