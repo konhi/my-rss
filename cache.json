@@ -6,6 +6,26 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
+          "author": null,
+          "description": "Fixed: Several style issues",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
+          "publishedOn": "2022-02-14T06:58:28.000Z",
+          "wordCount": 258,
+          "title": "v1.14.4",
+          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
+          "author": null,
+          "description": "style tweak",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
+          "publishedOn": "2022-02-14T06:29:16.000Z",
+          "wordCount": 255,
+          "title": "v1.14.3",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
           "author": null,
           "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
@@ -447,5 +467,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.2"
+  "cliVersion": "1.14.4"
 }
