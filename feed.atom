@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-15T05:09:53.993Z</updated>
+    <updated>2022-02-15T06:12:11.273Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -529,31 +529,6 @@ https://…]]></summary>
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak poważny jest &#8220;gigantyczny wyciek z wojska&#8221;?]]></title>
-        <id>https://niebezpiecznik.pl/post/jak-powazny-jest-gigantyczny-wyciek-z-wojska/</id>
-        <link href="https://niebezpiecznik.pl/post/jak-powazny-jest-gigantyczny-wyciek-z-wojska/"/>
-        <updated>2022-01-16T18:10:53.000Z</updated>
-        <summary type="html"><![CDATA[W piątek Onet poinformował o “gigantycznym wycieku” z Wojska Polskiego. Dziennikarze skupili się na analizie bazy pod kątem zawartości, nie podając zbyt wielu informacji na temat...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 450 [2022-01-16]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60685</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-450-2021-01-16-bierzcie-i-czytajcie/"/>
-        <updated>2022-01-16T17:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Czeka na was świeży zbiór linków, który pozwoli zorientować się w ostatnich wydarzeniach związanych z bezpieczeństwem. Życzymy zatem udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej najnowszy odcinek podcastu Panoptykon 4.0, w którym Adam Haertle wyjaśnia, skąd wiemy, że politycy byli inwigilowani (pkt 2) oraz opowieść o niedawno zatrzymanym wyłudzaczu treści nieopublikowanych jeszcze książek (pkt 16).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 450 [2022-01-16]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
