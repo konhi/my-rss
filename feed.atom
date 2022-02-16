@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-15T23:10:29.711Z</updated>
+    <updated>2022-02-16T00:39:27.725Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -552,19 +552,6 @@ INFO: bardzo ciekawa lektura. Zaczyna się od fizycznej analizy znalezionego spr
 https://…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prokuratura szuka poszkodowanych w scamie na KGHM]]></title>
-        <id>https://niebezpiecznik.pl/post/prokuratura-szuka-poszkodowanych-w-scamie-na-kghm/</id>
-        <link href="https://niebezpiecznik.pl/post/prokuratura-szuka-poszkodowanych-w-scamie-na-kghm/"/>
-        <updated>2022-01-17T12:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Pół roku temu opisaliśmy przekręt “na Orlen”. Obecnie po internecie krąży podobny scam, ale do łapania naiwnych wykorzystuje wizerunek KGHM. W tej sprawie zgłosił się do nas prokurator,...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
