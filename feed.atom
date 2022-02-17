@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-17T10:10:32.104Z</updated>
+    <updated>2022-02-17T11:08:07.680Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zobacz SMSy, za pomocą których próbowano zainfekować Pegasusem telefony polskich polityków]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61131</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/zobacz-smsy-za-pomoca-ktorych-probowano-zainfekowac-pegasusem-telefony-polskich-politykow/"/>
+        <updated>2022-02-17T10:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Z dzisiejszych publikacji prasowych dowiadujemy się, że Pegasusem próbowano infekować także telefony z Androidem. Metodą infekcji były złośliwe linki, przesyłane za pomocą personalizowanych SMSów. Przedstawiamy te wiadomości.
+Śledztwo Wyborczej i Die Zeit we współpracy z Amnesty International pozwoliło zlokalizować próby infekcji telefonów Magdaleny Łośko i Ryszarda Brejzy.… Czytaj dalej 
+The post Zobacz SMSy, za pomocą których próbowano zainfekować Pegasusem telefony polskich polityków first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Jak zadbać o swoje bezpieczeństwo, używając Androida]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=60452</id>
