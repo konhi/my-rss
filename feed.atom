@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-17T11:08:07.680Z</updated>
+    <updated>2022-02-17T12:15:43.545Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ujawniono SMS-y, którymi Pegasus chciał infekować smartfony 2 osób powiązanych z Krzysztofem Brejzą]]></title>
+        <id>https://niebezpiecznik.pl/post/sms-pegazus-brejza-losko-android/</id>
+        <link href="https://niebezpiecznik.pl/post/sms-pegazus-brejza-losko-android/"/>
+        <updated>2022-02-17T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Jak informują Die Zeit i Wyborcza (bazując na analizie ekspertów z Amnesty International) na smartfonach dwóch osób związanych z Krzysztofem Brejzą znaleziono SMS-y z linkami, które wedle ekspertów...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zobacz SMSy, za pomocą których próbowano zainfekować Pegasusem telefony polskich polityków]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61131</id>
