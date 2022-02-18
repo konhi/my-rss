@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-18T10:11:24.148Z</updated>
+    <updated>2022-02-18T11:08:40.910Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tam gdzie są pieniądze, są też oszuści&#8230;]]></title>
+        <id>https://niebezpiecznik.pl/post/tam-gdzie-sa-pieniadze-sa-tez-oszusci/</id>
+        <link href="https://niebezpiecznik.pl/post/tam-gdzie-sa-pieniadze-sa-tez-oszusci/"/>
+        <updated>2022-02-18T10:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Odkąd w internecie pojawiły się pieniądze, mamy problem z atakami komputerowych złodziejaszków. W sieci możemy łatwo kupować, sprzedawać, płacić i zarabiać, ale podczas każdej z tych czynności trzeba...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z historii wojen wywiadów, czyli jak działały martwe skrzynki]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61080</id>
