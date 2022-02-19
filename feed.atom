@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-19T13:11:53.941Z</updated>
+    <updated>2022-02-19T14:09:27.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Awaria numeru 112 w całej Polsce]]></title>
+        <id>https://niebezpiecznik.pl/post/awaria-numeru-112-w-calej-polsce/</id>
+        <link href="https://niebezpiecznik.pl/post/awaria-numeru-112-w-calej-polsce/"/>
+        <updated>2022-02-19T13:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Z wielu źródeł docierają do nas informacje o awarii numeru ratunkowego (112) w Polsce. Czas dodzwonienia się na 112 wynosi kilka minut, a w niektórych ośrodkach operatorzy 112 w ogóle nie mogą...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tam gdzie są pieniądze, są też oszuści&#8230;]]></title>
         <id>https://niebezpiecznik.pl/post/tam-gdzie-sa-pieniadze-sa-tez-oszusci/</id>
