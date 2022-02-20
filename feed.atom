@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-20T11:09:39.858Z</updated>
+    <updated>2022-02-20T12:15:37.831Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #97]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-97/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-97/"/>
+        <updated>2022-02-20T11:21:42.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Feb 13, 2022 to Feb 20, 2022. In one blog post. [0] Google Search Is Dying https://dkb.io/post/google-search-is-dying [1] Akamai to Acquire Linode https://www.akamai.com/newsroom/press-release/akamai-to-acquire-linode [2] City Generator https://watabou.github.io/city-generator/ [3] A new wave of Linux applications https://tuxphones.com/convergent-linux-phone-apps/ [4] Dell deletes Latitude CPU Throttling issue after link is posted here https://news.ycombinator.com/item?id=30333956 [5] The … Continue reading HackerNews top stories #97]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 455 [2022-02-19]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61143</id>
