@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-21T14:10:40.046Z</updated>
+    <updated>2022-02-21T15:12:14.733Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nie, nikt Was nie podgladał i nie wykradł Waszych danych]]></title>
+        <id>https://niebezpiecznik.pl/post/nie-nikt-was-nie-podgladal-i-nie-wykradl-waszych-danych/</id>
+        <link href="https://niebezpiecznik.pl/post/nie-nikt-was-nie-podgladal-i-nie-wykradl-waszych-danych/"/>
+        <updated>2022-02-21T14:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Dziś setki firm i osób prywatnych otrzymało taką wiadomość: Cześć. Jak się masz? Wiem, że to nieprzyjemne zaczynać rozmowę od złych wieści, ale nie mam wyboru. Kilka miesięcy temu, uzyskałem dostęp...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odcinek 96 –  Detection Engineer, Mariusz Litwin]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61179</id>
