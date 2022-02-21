@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-21T21:08:59.416Z</updated>
+    <updated>2022-02-21T22:10:16.632Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -697,18 +697,6 @@ The post Weekendowa Lektura: odcinek 451 [2022-01-23]. Bierzcie i czytajcie firs
         <summary type="html"><![CDATA[HackerNews most popular stories from Jan 16, 2022 to Jan 23, 2022. In one blog post. [0] Microsoft to Acquire Activision Blizzard https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/ [1] GPS https://ciechanow.ski/gps/ [2] FalsiScan: Make it look like a PDF has been hand signed and scanned https://gitlab.com/edouardklein/falsisign [3] 1Password Has Raised $620M https://blog.1password.com/future-of-1password/ [4] Do svidaniya, Igor, and thank you for … Continue reading HackerNews top stories #93]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Consultant Mateusz Olejarka gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60817</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/security-consultant-mateusz-olejarka-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-01-23T09:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Chyba najczęściej dotykaną przez użytkowników warstwą technologiczną są aplikacje WWW. Czy da się je pisać tak, by były bezpieczne? To trudny temat, ale nasz dzisiejszy gość ma wszelkie predyspozycje, by odpowiedzieć na to pytanie. Poznajcie Mateusza.
-Co najlepiej przygotowuje do prowadzenia szkoleń dla programistów i testowania bezpieczeństwa aplikacji?… Czytaj dalej 
-The post Security Consultant Mateusz Olejarka gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
