@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-22T09:10:49.036Z</updated>
+    <updated>2022-02-22T10:11:43.612Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -627,52 +627,6 @@ INFO: filtry te nie usuwają reklam, a ‘oczyszczają int…]]></summary>
         <summary type="html"><![CDATA[To, że dostawcy konsumenckich usług VPN, to w większości przypadków zakała branży bezpieczeństwa, pewnie już wiecie. To, że kłamią w swoich reklamach, pewnie też. Ale zawsze warto to przypomnieć, szczególnie, gdy ktoś ich złapie za rękę.
 NordVPN to jeden z największych i najpopularniejszych dostawców usług VPN, znany z tego, że lubi ukrywać swoje wpadki bezpieczeństwa lub ze swojej odwiecznej promocji wygasającej zawsze za 9 godzin.… Czytaj dalej 
 The post NordVPN po cichu zmienia treść oświadczenia o braku współpracy z organami ścigania first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 92 –  Security Consultant, Mateusz Olejarka]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60842</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-92-security-consultant-mateusz-olejarka/"/>
-        <updated>2022-01-23T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Gościem dziewięćdziesiątego drugiego odcinka podcastu Rozmowa Kontrolowana jest Mateusz Olejarka, Principal Security Consultant w firmie SecuRing.
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 92 –  Security Consultant, Mateusz Olejarka first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 91 –  CISO Chmury Krajowej, Adam Marczyński]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60837</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-91-ciso-chmury-krajowej-adam-marczynski/"/>
-        <updated>2022-01-23T21:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Gościem dziewięćdziesiątego pierwszego odcinka podcastu Rozmowa Kontrolowana jest Adam Marczyński, CISO Chmury Krajowej
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 91 –  CISO Chmury Krajowej, Adam Marczyński first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
