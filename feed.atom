@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-23T11:08:43.663Z</updated>
+    <updated>2022-02-23T12:18:03.689Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uwaga na &#8220;Pilne wezwanie od Komendanta Głównego Policji&#8221;]]></title>
+        <id>https://niebezpiecznik.pl/post/uwaga-na-pilne-wezwanie-od-komendanta-glownego-policji/</id>
+        <link href="https://niebezpiecznik.pl/post/uwaga-na-pilne-wezwanie-od-komendanta-glownego-policji/"/>
+        <updated>2022-02-23T11:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Ktoś, chyba niezbyt biegle posługujący się językiem polskim, rozsyła takie e-maile, podszywając się pod “Jarosława Szymczyka”, Komendanta Głównego Policji: Nadawca: Dyrekcja Generalna...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wprowadzono stopień alarmowy CHARLIE-CRP po raz pierwszy w Polsce]]></title>
         <id>https://niebezpiecznik.pl/post/wprowadzono-stopien-alarmowy-charlie-crp-po-raz-pierwszy-w-polsce/</id>
