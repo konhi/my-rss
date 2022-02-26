@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-26T05:09:35.141Z</updated>
+    <updated>2022-02-26T06:12:59.448Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -716,18 +716,6 @@ INFO: filtry te nie usuwają reklam, a ‘oczyszczają int…]]></summary>
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NordVPN po cichu zmienia treść oświadczenia o braku współpracy z organami ścigania]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60872</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/nordvpn-po-cichu-zmienia-tresc-oswiadczenia-o-braku-wspolpracy-z-organami-scigania/"/>
-        <updated>2022-01-27T17:50:56.000Z</updated>
-        <summary type="html"><![CDATA[To, że dostawcy konsumenckich usług VPN, to w większości przypadków zakała branży bezpieczeństwa, pewnie już wiecie. To, że kłamią w swoich reklamach, pewnie też. Ale zawsze warto to przypomnieć, szczególnie, gdy ktoś ich złapie za rękę.
-NordVPN to jeden z największych i najpopularniejszych dostawców usług VPN, znany z tego, że lubi ukrywać swoje wpadki bezpieczeństwa lub ze swojej odwiecznej promocji wygasającej zawsze za 9 godzin.… Czytaj dalej 
-The post NordVPN po cichu zmienia treść oświadczenia o braku współpracy z organami ścigania first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
