@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-26T08:12:05.554Z</updated>
+    <updated>2022-02-26T09:09:37.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -703,19 +703,6 @@ https://letsblock.it
 INFO: filtry te nie usuwają reklam, a ‘oczyszczają int…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ważna uwaga dla użytkowników NordVPN]]></title>
-        <id>https://niebezpiecznik.pl/post/wazna-uwaga-dla-uzytkownikow-nordvpn/</id>
-        <link href="https://niebezpiecznik.pl/post/wazna-uwaga-dla-uzytkownikow-nordvpn/"/>
-        <updated>2022-01-27T20:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Informujecie nas o artykule PCMag, którego dziennikarze zauważyli, że NordVPN zmienił swój stary wpis na blogu dotyczący prywatności w niepokojący sposób. Co się zmieniło? Dziennikarze PCMag...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
