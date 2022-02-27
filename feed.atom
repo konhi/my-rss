@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-27T21:10:58.397Z</updated>
+    <updated>2022-02-27T22:09:50.984Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dlaczego nie powinniście hakować ani DDoSować rosyjskiej infrastruktury IT]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61292</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/dlaczego-nie-powinniscie-hakowac-ani-ddosowac-rosyjskiej-infrastruktury-it/"/>
+        <updated>2022-02-27T21:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Wiem, że to niepopularna opinia, ale działając na własną rękę (lub ze znajomymi), możecie narobić więcej szkód, niż pożytku – i to nie tylko sobie. Emocje i potrzebę robienia czegoś sensownego dobrze rozumiem – ale niech to będzie faktycznie sensowne.
+Od momentu napadu przez Rosję na niepodległą Ukrainę w sieci pojawia się coraz więcej pomysłów na to, jak zwykli internauci, często nawet bez umiejętności technicznych, mogą przyłączyć się do konfliktu w sferze cyber.… Czytaj dalej 
+The post Dlaczego nie powinniście hakować ani DDoSować rosyjskiej infrastruktury IT first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackerNews top stories #98]]></title>
         <id>https://dmasior.com/hackernews-top-stories-98/</id>
