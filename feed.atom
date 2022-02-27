@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-27T02:02:00.759Z</updated>
+    <updated>2022-02-27T03:10:52.968Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -683,16 +683,6 @@ The post Cybersec Team Leader Julia Juraszek-Kelka gościem Rozmowy Kontrolowane
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak można było pozyskać dane na temat (nie)zaszczepionych Polaków?]]></title>
-        <id>https://niebezpiecznik.pl/post/jak-mozna-bylo-pozyskac-dane-na-temat-niezaszczepionych-polakow/</id>
-        <link href="https://niebezpiecznik.pl/post/jak-mozna-bylo-pozyskac-dane-na-temat-niezaszczepionych-polakow/"/>
-        <updated>2022-01-28T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/jak-mozna-bylo-pozyskac-dane-na-temat-niezaszczepionych-polakow/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/01/erejestracja-fail-150x150.png" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>W środę miało miejsce ciekawe zjawisko. Dwie duże redakcje, Wirtualnej Polski i Onetu, niezależnie od siebie i za pomocą innych technik dały dowód na to samo. To, czego spodziewaliśmy się od dawna. Że dane Polaków dotyczące szczepień znajdujące się w rządowych bazach nie są wystarczająco chronione. To nie dziura, to wyciek! Zacznijmy od publikacji Onetu. [&#8230;]]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
         </author>
