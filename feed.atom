@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-02-28T02:02:01.415Z</updated>
+    <updated>2022-02-28T03:11:40.879Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -694,19 +694,6 @@ The post Cybersec Team Leader Julia Juraszek-Kelka gościem Rozmowy Kontrolowane
         <summary type="html"><![CDATA[HackerNews most popular stories from Jan 23, 2022 to Jan 30, 2022. In one blog post. [0] Charm – tools to make the command line glamorous https://charm.sh/ [1] Gmail account security is insane https://news.ycombinator.com/item?id=30051054 [2] AirPods don’t “just work” https://philip.design/blog/airpods-dont-just-work/ [3] I got pwned by my cloud costs https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/ [4] Apple removes Python 2.7 in … Continue reading HackerNews top stories #94]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spoofing rozmów telefonicznych]]></title>
-        <id>https://niebezpiecznik.pl/post/spoofing-rozmow-telefonicznych/</id>
-        <link href="https://niebezpiecznik.pl/post/spoofing-rozmow-telefonicznych/"/>
-        <updated>2022-01-29T15:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Od kilku dni otrzymujemy zapytania od różnych redakcji w sprawie tzw. spoofingu, czyli podrabiania połączeń telefonicznych. Wszystko za sprawą dziesiątek połączeń wykonywanych przez podszywacza do...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
