@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-01T07:10:06.132Z</updated>
+    <updated>2022-03-01T08:13:22.478Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Jak sprawdzać wiarygodność zbiórek na rzecz Ukrainy]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61228</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-jak-sprawdzac-wiarygodnosc-zbiorek-na-rzecz-ukrainy/"/>
+        <updated>2022-03-01T07:35:35.000Z</updated>
+        <summary type="html"><![CDATA[W sytuacji trwającej tuż obok wojny wiele osób nie chce poprzestać na okazaniu symbolicznego wsparcia i szuka sposobu na realną pomoc Ukrainie. Podpowiadamy, jak nie pogubić się w gąszczu informacji i odróżnić wiarygodne zbiórki od tych założonych przez oszustów.
+To, że wyłudzacze nie przepuszczą żadnej okazji, by zarobić na kluczowych w danym momencie wydarzeniach, obserwujemy od lat.… Czytaj dalej 
+The post Podstawy Bezpieczeństwa: Jak sprawdzać wiarygodność zbiórek na rzecz Ukrainy first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 nieoczywistych scenariuszy, w których SIEM ratuje skórę IT SEC]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61188</id>
