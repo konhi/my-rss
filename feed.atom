@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-01T00:49:11.233Z</updated>
+    <updated>2022-03-01T02:13:36.611Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -684,18 +684,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej opowieść o S
 The post Weekendowa Lektura: odcinek 452 [2022-01-30]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersec Team Leader Julia Juraszek-Kelka gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60907</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/cybersec-team-leader-julia-juraszek-kelka-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-01-30T14:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Używaliście kiedyś komórki? Głupie pytanie, prawda? Technologii komórkowej powierzamy sporą część każdego aspektu naszego życia. Kto zatem pilnuje bezpieczeństwa naszych danych w firmach telekomunikacyjnych? Poznajcie Julię.
-Nasz dzisiejszy gość, Julia Juraszek-Kelka, coś wie o sektorze telekomunikacyjnym w Polsce. Jednym z powodów, dla których tę wiedzę zgromadziła, jest kilkanaście lat doświadczenia w działach bezpieczeństwa Polkomtela oraz T-Mobile.… Czytaj dalej 
-The post Cybersec Team Leader Julia Juraszek-Kelka gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
