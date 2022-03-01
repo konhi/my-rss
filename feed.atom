@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-01T02:13:36.611Z</updated>
+    <updated>2022-03-01T03:14:29.819Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -672,18 +672,6 @@ The post Podstawy Bezpieczeństwa: Biometria i inne sposoby ochrony Androida prz
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 452 [2022-01-30]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60862</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-452-2022-01-30-bierzcie-i-czytajcie/"/>
-        <updated>2022-01-30T14:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Zgromadziliśmy dla Was kolejną porcję ciekawych informacji o nowo odkrytych lukach, niedawno przeprowadzonych atakach i krążących w sieci szkodnikach. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej opowieść o Susy Thunder, jednej z najlepszych phreakerek lat 80.… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 452 [2022-01-30]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
