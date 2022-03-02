@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-02T00:46:00.327Z</updated>
+    <updated>2022-03-02T02:08:20.095Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -659,18 +659,6 @@ Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej
 The post Odcinek 93 –  Cybersec Team Leader, Julia Juraszek-Kelka first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Biometria i inne sposoby ochrony Androida przed niepowołanym dostępem]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60178</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-biometria-i-inne-sposoby-ochrony-androida-przed-niepowolanym-dostepem/"/>
-        <updated>2022-01-31T13:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Czy powinniśmy się bać mechanizmów bezpieczeństwa opartych na biometrii? W jaki sposób działa Smart Lock? Co możemy zrobić w przypadku kradzieży lub zgubienia telefonu z Androidem? Zapraszamy do lektury.
-O bezpieczeństwie Androida pisaliśmy już trochę w artykule pt. Czy współczesne smartfony potrzebują antywirusa.… Czytaj dalej 
-The post Podstawy Bezpieczeństwa: Biometria i inne sposoby ochrony Androida przed niepowołanym dostępem first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
