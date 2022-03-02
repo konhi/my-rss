@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-01T23:10:51.064Z</updated>
+    <updated>2022-03-02T00:46:00.327Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -671,19 +671,6 @@ O bezpieczeństwie Androida pisaliśmy już trochę w artykule pt. Czy współcz
 The post Podstawy Bezpieczeństwa: Biometria i inne sposoby ochrony Androida przed niepowołanym dostępem first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga! Ktoś podszywa się pod BLIK]]></title>
-        <id>https://niebezpiecznik.pl/post/uwaga-ktos-podszywa-sie-pod-blik/</id>
-        <link href="https://niebezpiecznik.pl/post/uwaga-ktos-podszywa-sie-pod-blik/"/>
-        <updated>2022-01-31T11:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Kiedy w Polsce trwają gorące dyskusje o dzwonieniu z cudzych numerów, czyli o podszywaniu się, spoofingu rozmów telefonicznych, przestępcy odpalili kampanię SMS-ową w której podszywają się pod BLIK....
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
