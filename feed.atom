@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-03T09:10:42.382Z</updated>
+    <updated>2022-03-03T10:11:35.507Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Portal Money.pl zhackowany przez siły prorosyjskie]]></title>
+        <id>https://niebezpiecznik.pl/post/portal-money-pl-zhackowany-przez-sily-prorosyjskie/</id>
+        <link href="https://niebezpiecznik.pl/post/portal-money-pl-zhackowany-przez-sily-prorosyjskie/"/>
+        <updated>2022-03-03T09:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Dziś rano serwis Money[.]pl zaczął przekierowywać na komunikat “Ukraina musi przegrać” podpisany jako Anonymous (ta, jasne): Powodem przekierowania jest dodanie tego skryptu w kod strony...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ministerstwo Cyfryzacji ostrzega użytkowników Signala. Wyjaśniamy o co chodzi]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61368</id>
