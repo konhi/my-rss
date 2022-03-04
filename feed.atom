@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-04T11:08:36.531Z</updated>
+    <updated>2022-03-04T12:17:51.991Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 marca 2022]]></title>
+        <id>https://news.mrugalski.pl/post/677788229431443456</id>
+        <link href="https://news.mrugalski.pl/post/677788229431443456"/>
+        <updated>2022-03-04T10:20:26.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Przybywam z przeglądem ciekawych znalezisk z branży IT z ostatnich 7 dni. Zapraszam do lektury.
+
+Wyprzedaż gier od Sid Meier’s
+Ebooki programistyczne za grosze
+
+1) Nawiązywanie kontaktów (networking) dla skrajnie nieśmiałych ludzi z IT, celem znalezienia pracy
+https://www.samjulien.com/shy-dev-networking
+INFO: siedzisz właśnie w piwnicy, w kapturze, z zaciągniętymi zasłonami w oknach, a znajomi mówią Ci, że aby znaleźć lepszą pracę trzeba wyjść do ludzi? Ten artykuł może być dla Ciebie ;)
+2) Wypalenie w branży IT? - raport (PDF)
+https://f.hubspotusercontent30.net/hubfs/7677235/The%20State%20of%20Burnout%20in%20Tech%20-%202022%20Edition.pdf
+INFO: okazuje się, że źródłem wypalenia nie jest jedynie przepracowanie, ale także szereg innych czynników zewnętrznych, na które możemy…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tysiące terminali internetu satelitarnego poważnie uszkodzonych w dniu ataku na Ukrainę]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61383</id>
