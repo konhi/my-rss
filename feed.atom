@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-05T20:10:30.431Z</updated>
+    <updated>2022-03-05T21:09:04.149Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -699,26 +699,6 @@ Od administratora sieci i baz danych, przez eksperta bezpieczeństwa do dyrektor
 The post CISO ING Bank Śląski, Maciej Ogórkiewicz, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 lutego 2022]]></title>
-        <id>https://news.mrugalski.pl/post/675244220701966336</id>
-        <link href="https://news.mrugalski.pl/post/675244220701966336"/>
-        <updated>2022-02-04T08:24:30.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Czas na kolejne wydanie zestawienia. Dzisiaj sporo treści na temat security, ale i wielbiciele WebDev i programowania znajdą coś dla siebie.
-
-Znasz inne moje newslettery?
-➤ Newsletter projektowy - opis moich działań technicznych i biznesowych
-➤ Promocje IT - porcja ciekawych promocji na aplikacje, gry, ksiązki, kursy
-
-1) A gdyby tak zmienić kraj zamieszkania? Tylko na jaki?
-http://www.ifitweremyhome.com
-INFO: ciekawa aplikacja pokazująca na kilku parametrach, jak potencjalnie zmieniłoby się Twoje życie w przypadku wyprowadzki z Polski i zamieszkaniu w kraju XYZ. Twoja lokalizacja jest wykrywana automatycznie (w razie błędu zmień ją). Porównania dokonasz, klikając na nazwę kraju w dolnej części strony.
-2) WebFonty są fajne, ale powodują tzw. Layout Shift w trakcie ładowania …]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
