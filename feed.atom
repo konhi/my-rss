@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-06T11:08:30.115Z</updated>
+    <updated>2022-03-06T12:16:17.845Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #99]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-99/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-99/"/>
+        <updated>2022-03-06T11:20:36.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Feb 27, 2022 to Mar 06, 2022. In one blog post. [0] Namecheap: Russia Service Termination https://news.ycombinator.com/item?id=30504812 [1] Google mandates workers back to Silicon Valley, other offices from April 4 https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/ [2] ICANN’s rejection of Ukraine’s request to sever Russia from the internet [pdf] https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf [3] BP quits Russia in … Continue reading HackerNews top stories #99]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelligence Addict, Kamil Bojarski, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61456</id>

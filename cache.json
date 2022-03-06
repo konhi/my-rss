@@ -537,6 +537,16 @@
       "siteUrl": "https://dmasior.com",
       "articles": [
         {
+          "id": "https://dmasior.com/hackernews-top-stories-99/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Feb 27, 2022 to Mar 06, 2022. In one blog post. [0] Namecheap: Russia Service Termination https://news.ycombinator.com/item?id=30504812 [1] Google mandates workers back to Silicon Valley, other offices from April 4 https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/ [2] ICANN’s rejection of Ukraine’s request to sever Russia from the internet [pdf] https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf [3] BP quits Russia in … Continue reading HackerNews top stories #99",
+          "link": "https://dmasior.com/hackernews-top-stories-99/",
+          "publishedOn": "2022-03-06T11:20:36.000Z",
+          "wordCount": 516,
+          "title": "HackerNews top stories #99",
+          "imageUrl": "https://dmasior.com/wp-content/uploads/2020/04/hnws.jpg"
+        },
+        {
           "id": "https://dmasior.com/hackernews-top-stories-98/",
           "author": "dmasior",
           "description": "HackerNews most popular stories from Feb 20, 2022 to Feb 27, 2022. In one blog post. [0] Tell HN: YouTube is banning accounts that support Ukraine https://news.ycombinator.com/item?id=30467384 [1] Russian forces invade Ukraine after Putin orders attack https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/ [2] Google Tag Manager, the new anti-adblock weapon https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html [3] I tested four NVMe SSDs from four vendors … Continue reading HackerNews top stories #98",
