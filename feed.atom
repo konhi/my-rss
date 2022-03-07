@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-07T12:17:55.921Z</updated>
+    <updated>2022-03-07T13:16:39.626Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zapisz się na darmowy LIVE z lcamtufem i pomóż ofiarom wojny na Ukrainie]]></title>
+        <id>https://niebezpiecznik.pl/post/darmowy-live-pomoc-ukrainie/</id>
+        <link href="https://niebezpiecznik.pl/post/darmowy-live-pomoc-ukrainie/"/>
+        <updated>2022-03-07T12:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy na bezpłatny LIVE webinar z legendarnym polskim hackerem, Michałem “lcamtufem” Zalewskim pt. “Jak przygotować się na kryzys?“. Michał przez lata przewodził zespołom...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackerNews top stories #99]]></title>
         <id>https://dmasior.com/hackernews-top-stories-99/</id>
