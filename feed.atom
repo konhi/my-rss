@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-07T04:13:17.009Z</updated>
+    <updated>2022-03-07T05:10:47.923Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -685,18 +685,6 @@ The post Odcinek 94 –  CISO ING Bank Śląski, Maciej Ogórkiewicz first appea
         <summary type="html"><![CDATA[HackerNews most popular stories from Jan 30, 2022 to Feb 06, 2022. In one blog post. [0] Poll: Where do you live? https://news.ycombinator.com/item?id=30210378 [1] Adobe tricks users into a 12 month contract https://twitter.com/darkpatterns/status/1489901640777973768 [2] The New York Times buys Wordle https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html [3] A UX designer walks into a Tesla Bar https://jenson.org/tesla/ [4] My dishwasher won’t … Continue reading HackerNews top stories #95]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 453 [2022-02-05]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60946</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-453-2022-02-05-bierzcie-i-czytajcie/"/>
-        <updated>2022-02-05T16:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. W pocie czoła zebraliśmy dla Was kilkadziesiąt linków, zasilając nimi zarówno część bardziej techniczną, jak i fabularną, zatem każdy znajdzie coś dla siebie. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o alternatywnym do Pegasusa narzędziu firmy QuaDream (pkt 10) oraz nowe szczegóły na temat działalności operatorów Trickbota w Petersburgu (pkt 13).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 453 [2022-02-05]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
