@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-07T23:10:40.180Z</updated>
+    <updated>2022-03-08T00:42:22.550Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -701,16 +701,6 @@ Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej
 The post Odcinek 94 –  CISO ING Bank Śląski, Maciej Ogórkiewicz first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNews top stories #95]]></title>
-        <id>https://dmasior.com/hackernews-top-stories-95/</id>
-        <link href="https://dmasior.com/hackernews-top-stories-95/"/>
-        <updated>2022-02-06T11:19:52.000Z</updated>
-        <summary type="html"><![CDATA[HackerNews most popular stories from Jan 30, 2022 to Feb 06, 2022. In one blog post. [0] Poll: Where do you live? https://news.ycombinator.com/item?id=30210378 [1] Adobe tricks users into a 12 month contract https://twitter.com/darkpatterns/status/1489901640777973768 [2] The New York Times buys Wordle https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html [3] A UX designer walks into a Tesla Bar https://jenson.org/tesla/ [4] My dishwasher won’t … Continue reading HackerNews top stories #95]]></summary>
-        <author>
-            <name>dmasior</name>
         </author>
     </entry>
 </feed>
