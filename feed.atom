@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-11T19:08:28.923Z</updated>
+    <updated>2022-03-11T20:11:22.224Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -699,19 +699,6 @@ https://linuxcommand.org/tlcl.php
 INFO: na stronie są DWIE książki o podobnym tytule. Jedna dla zupełnie zielonych, a druga dla …]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozgłośnia radiowa zhackowała Mazdy]]></title>
-        <id>https://niebezpiecznik.pl/post/rozglosnia-radiowa-zhackowala-mazdy/</id>
-        <link href="https://niebezpiecznik.pl/post/rozglosnia-radiowa-zhackowala-mazdy/"/>
-        <updated>2022-02-10T07:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Do ciekawego incydentu, którego ofiarą padły auta marki Mazda (rok produkcji od 2014 do 2017) doszło w Seattle. Tamtejsza rozgłośnia radiowa, KUOW 94.9FM nadała 30 stycznia sygnał, który wprowadził...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
