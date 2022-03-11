@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-11T13:16:39.556Z</updated>
+    <updated>2022-03-11T14:09:54.502Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11 marca 2022]]></title>
+        <id>https://news.mrugalski.pl/post/678423063185031168</id>
+        <link href="https://news.mrugalski.pl/post/678423063185031168"/>
+        <updated>2022-03-11T10:30:50.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Najnowszy przegląd tygodnia z branży IT już na Ciebie czeka. Zapraszam do lektury.
+
+Paczka ebooków dla programistów Pythona dostępna za grosze
+Ebooki dla programistów w paczkach już od 5zł
+
+1) Wizualne wprowadzenie do Machine Learningu - jak to działa?
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+INFO: bardzo ciekawie przedstawione rozwiązanie pewnego problemu (tutaj: klasyfikacja danych) z użyciem machine learningu, z tym że koncepcja ML wprowadzana jest znacznie później. Autor doprowadza czytelnika do niej. Warto oglądać na komputerze. Trzeba tylko czytać i scrollować (aby uruchomić animacje)
+2) Przeglądanie historii przeglądarki użytkownika za pomocą captchy
+https://varun.ch/history
+INFO: prosty test sprawdzający, ‘czy jesteś człowiekiem?’ może bez problem…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#x26a0;&#xfe0f; Weź udział w naszych szkoleniach za darmo!]]></title>
         <id>https://niebezpiecznik.pl/post/wez-udzial-w-szkoleniach-niebezpiecznika-za-darmo/</id>
