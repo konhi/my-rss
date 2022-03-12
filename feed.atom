@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-12T20:11:09.743Z</updated>
+    <updated>2022-03-12T21:09:42.856Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSO PKO BP, Piotr Kalbarczyk, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61503</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/cso-pko-bp-piotr-kalbarczyk-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-03-12T20:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Jaki jest najbardziej narażony na ataki (i najlepiej na nie przygotowany) sektor w Polsce? Zapewne sektor bankowości. Jaki jest największy bank w Polsce? PKO BP. A kto od wielu lat kieruje zespołem bezpieczeństwa w tym właśnie banku? Poznajcie Piotra.
+Piotr Kalbarczyk od ponad 20 lat związany jest z obszarem technologii w branży finansowej, a ostatnie 10 spędził jako szef działu bezpieczeństwa PKO BP.… Czytaj dalej 
+The post CSO PKO BP, Piotr Kalbarczyk, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 marca 2022]]></title>
         <id>https://news.mrugalski.pl/post/678423063185031168</id>
