@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-12T22:10:24.688Z</updated>
+    <updated>2022-03-12T23:10:13.203Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 458 [2022-03-12]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61481</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-458-2022-03-12-bierzcie-i-czytajcie/"/>
+        <updated>2022-03-12T22:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Wyścig między nienasyconymi przestępcami a niestrudzonymi badaczami ciągle trwa, zatem i materiałów do tego wydania nie brakowało. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film wyjaśniający, dlaczego nie powinniśmy publikować w internecie zdjęć pokazujących ruch wojska (pkt 6) oraz OSINT-owe śledztwo dotyczące nielegalnych ofert, które okazały się oszustwem (pkt 18).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 458 [2022-03-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Przygotuj się do naprawdę poważnych ataków – Liga Cyber Twierdzy zaprasza]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61485</id>
@@ -690,19 +702,6 @@ Fxied: Security vulnerability from axios
 Thank you: @naari3]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Co łączy boty typu Klara Sobieraj z oszustami podszywającymi się pod pracowników banków?]]></title>
-        <id>https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/</id>
-        <link href="https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/"/>
-        <updated>2022-02-11T10:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Od kilku tygodni otrzymujemy od naszych Czytelników bardzo ciekawe sygnały, które łączą telefony od “robotów” wciskających np. darmowe pulsoksymetry z telefonami od złodziejaszków...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>

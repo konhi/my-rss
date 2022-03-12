@@ -250,15 +250,6 @@
           "wordCount": 883,
           "title": "Ukraina informuje o atakach DDoS na MON i banki",
           "imageUrl": "https://niebezpiecznik.pl/wp-content/uploads/2022/02/ukraina-mon-600x327.png"
-        },
-        {
-          "id": "https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/",
-          "author": null,
-          "description": "Od kilku tygodni otrzymujemy od naszych Czytelników bardzo ciekawe sygnały, które łączą telefony od “robotów” wciskających np. darmowe pulsoksymetry z telefonami od złodziejaszków...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "https://niebezpiecznik.pl/post/co-laczy-boty-telefoniczne-z-oszustami-podszywajacymi-sie-pod-pracownikow-bankow/",
-          "publishedOn": "2022-02-11T10:51:28.000Z",
-          "wordCount": 1677,
-          "title": "Co łączy boty typu Klara Sobieraj z oszustami podszywającymi się pod pracowników banków?"
         }
       ]
     },
@@ -267,6 +258,17 @@
       "feedUrl": "https://zaufanatrzeciastrona.pl/feed",
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=61481",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Wyścig między nienasyconymi przestępcami a niestrudzonymi badaczami ciągle trwa, zatem i materiałów do tego wydania nie brakowało. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej film wyjaśniający, dlaczego nie powinniśmy publikować w internecie zdjęć pokazujących ruch wojska (pkt 6) oraz OSINT-owe śledztwo dotyczące nielegalnych ofert, które okazały się oszustwem (pkt 18).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 458 [2022-03-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-458-2022-03-12-bierzcie-i-czytajcie/",
+          "publishedOn": "2022-03-12T22:47:43.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 458 [2022-03-12]. Bierzcie i czytajcie",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://zaufanatrzeciastrona.pl/?p=61485",
           "author": "Wpis Gościnny",
