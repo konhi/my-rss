@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-12T21:09:42.856Z</updated>
+    <updated>2022-03-12T22:10:24.688Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Przygotuj się do naprawdę poważnych ataków – Liga Cyber Twierdzy zaprasza]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61485</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/przygotuj-sie-do-naprawde-powaznych-atakow-liga-cyber-twierdzy-zaprasza/"/>
+        <updated>2022-03-12T21:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Wiecie, przed jakimi dylematami stoją osoby zarządzające działami bezpieczeństwa? Jak wygląda alokacja budżetu, gdy na nic nie starcza w 100%? Jak budować prewencję, gdy nie wiadomo, co nas czeka? Czas się dowiedzieć.
+Zanim w wasze ręce trafi budżet całego pionu bezpieczeństwa, możecie przećwiczyć te zadania bez stresu związanego z wpływem waszych decyzji np.… Czytaj dalej 
+The post Przygotuj się do naprawdę poważnych ataków – Liga Cyber Twierdzy zaprasza first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Wpis Gościnny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSO PKO BP, Piotr Kalbarczyk, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61503</id>
@@ -691,26 +703,6 @@ Thank you: @naari3]]></summary>
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 lutego 2022]]></title>
-        <id>https://news.mrugalski.pl/post/675883722389798912</id>
-        <link href="https://news.mrugalski.pl/post/675883722389798912"/>
-        <updated>2022-02-11T09:49:06.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Przybywam z kolejnym, copiątkowym zestawieniem linków technologicznych.
-
-Ebooki na temat Data Engineering (od €1) - język R, Big Data, Apache Drill, Apache Spark itp.
-
-1) Cmentarz ProductHunt, czyli co się stało z najlepiej ocenianymi startupami z tego serwisu?
-https://www.scrapingbee.com/blog/producthunt-cemetery/
-INFO: interesująca analiza nie tylko liczby upadłych projektów, ale także branż, z których pochodziły. Jest tam także próba znalezienia korelacji między liczbą otrzymanych lajków w serwisie a szansą na porażkę.
-2) The Linux Command Line - wprowadzenie do CLI dla początkujących (książka, 550+ stron) i zaawansowanych (książka, 260+ stron)
-https://linuxcommand.org/tlcl.php
-INFO: na stronie są DWIE książki o podobnym tytule. Jedna dla zupełnie zielonych, a druga dla …]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>

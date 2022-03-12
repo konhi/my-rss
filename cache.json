@@ -268,6 +268,17 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=61485",
+          "author": "Wpis Gościnny",
+          "description": "Wiecie, przed jakimi dylematami stoją osoby zarządzające działami bezpieczeństwa? Jak wygląda alokacja budżetu, gdy na nic nie starcza w 100%? Jak budować prewencję, gdy nie wiadomo, co nas czeka? Czas się dowiedzieć.\nZanim w wasze ręce trafi budżet całego pionu bezpieczeństwa, możecie przećwiczyć te zadania bez stresu związanego z wpływem waszych decyzji np.… Czytaj dalej \nThe post Przygotuj się do naprawdę poważnych ataków – Liga Cyber Twierdzy zaprasza first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/przygotuj-sie-do-naprawde-powaznych-atakow-liga-cyber-twierdzy-zaprasza/",
+          "publishedOn": "2022-03-12T21:11:18.000Z",
+          "wordCount": null,
+          "title": "Przygotuj się do naprawdę poważnych ataków – Liga Cyber Twierdzy zaprasza",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=61503",
           "author": "Adam Haertle",
           "description": "Jaki jest najbardziej narażony na ataki (i najlepiej na nie przygotowany) sektor w Polsce? Zapewne sektor bankowości. Jaki jest największy bank w Polsce? PKO BP. A kto od wielu lat kieruje zespołem bezpieczeństwa w tym właśnie banku? Poznajcie Piotra.\nPiotr Kalbarczyk od ponad 20 lat związany jest z obszarem technologii w branży finansowej, a ostatnie 10 spędził jako szef działu bezpieczeństwa PKO BP.… Czytaj dalej \nThe post CSO PKO BP, Piotr Kalbarczyk, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
@@ -524,15 +535,6 @@
           "wordCount": 980,
           "title": "18 lutego 2022",
           "imageUrl": "https://64.media.tumblr.com/3da25d19d04b434fb9ab395daffcc64c/2ca9e2a74b1a6e2e-5b/s1280x1920/11959b73e57297075f7004caa95ae2a1c9dfbed1.png"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/675883722389798912",
-          "author": null,
-          "description": "◢ #unknownews ◣\nPrzybywam z kolejnym, copiątkowym zestawieniem linków technologicznych.\n\nEbooki na temat Data Engineering (od €1) - język R, Big Data, Apache Drill, Apache Spark itp.\n\n1) Cmentarz ProductHunt, czyli co się stało z najlepiej ocenianymi startupami z tego serwisu?\nhttps://www.scrapingbee.com/blog/producthunt-cemetery/\nINFO: interesująca analiza nie tylko liczby upadłych projektów, ale także branż, z których pochodziły. Jest tam także próba znalezienia korelacji między liczbą otrzymanych lajków w serwisie a szansą na porażkę.\n2) The Linux Command Line - wprowadzenie do CLI dla początkujących (książka, 550+ stron) i zaawansowanych (książka, 260+ stron)\nhttps://linuxcommand.org/tlcl.php\nINFO: na stronie są DWIE książki o podobnym tytule. Jedna dla zupełnie zielonych, a druga dla …",
-          "link": "https://news.mrugalski.pl/post/675883722389798912",
-          "publishedOn": "2022-02-11T09:49:06.000Z",
-          "wordCount": 925,
-          "title": "11 lutego 2022"
         }
       ]
     },
