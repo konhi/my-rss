@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-13T11:08:41.554Z</updated>
+    <updated>2022-03-13T12:16:42.967Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerNews top stories #100]]></title>
+        <id>https://dmasior.com/hackernews-top-stories-100/</id>
+        <link href="https://dmasior.com/hackernews-top-stories-100/"/>
+        <updated>2022-03-13T11:22:10.000Z</updated>
+        <summary type="html"><![CDATA[HackerNews most popular stories from Mar 06, 2022 to Mar 13, 2022. In one blog post. [0] Apple M1 Ultra https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/ [1] Finland starts much-delayed nuclear plant, brings respite to power market https://www.reuters.com/world/europe/finland-starts-much-delayed-nuclear-plant-brings-respite-power-market-2022-03-12/ [2] uBlock Origin becomes top addon on Firefox https://addons.mozilla.org/en-US/firefox/search/?sort=users&type=extension [3] Apple Mac Studio https://www.apple.com/mac-studio/ [4] The new silent majority: People who don’t … Continue reading HackerNews top stories #100]]></summary>
+        <author>
+            <name>dmasior</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 458 [2022-03-12]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61481</id>

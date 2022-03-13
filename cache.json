@@ -546,6 +546,16 @@
       "siteUrl": "https://dmasior.com",
       "articles": [
         {
+          "id": "https://dmasior.com/hackernews-top-stories-100/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Mar 06, 2022 to Mar 13, 2022. In one blog post. [0] Apple M1 Ultra https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/ [1] Finland starts much-delayed nuclear plant, brings respite to power market https://www.reuters.com/world/europe/finland-starts-much-delayed-nuclear-plant-brings-respite-power-market-2022-03-12/ [2] uBlock Origin becomes top addon on Firefox https://addons.mozilla.org/en-US/firefox/search/?sort=users&type=extension [3] Apple Mac Studio https://www.apple.com/mac-studio/ [4] The new silent majority: People who don’t … Continue reading HackerNews top stories #100",
+          "link": "https://dmasior.com/hackernews-top-stories-100/",
+          "publishedOn": "2022-03-13T11:22:10.000Z",
+          "wordCount": 457,
+          "title": "HackerNews top stories #100",
+          "imageUrl": "https://dmasior.com/wp-content/uploads/2020/04/hnws.jpg"
+        },
+        {
           "id": "https://dmasior.com/hackernews-top-stories-99/",
           "author": "dmasior",
           "description": "HackerNews most popular stories from Feb 27, 2022 to Mar 06, 2022. In one blog post. [0] Namecheap: Russia Service Termination https://news.ycombinator.com/item?id=30504812 [1] Google mandates workers back to Silicon Valley, other offices from April 4 https://www.reuters.com/technology/google-mandates-workers-back-silicon-valley-other-offices-april-4-2022-03-02/ [2] ICANN’s rejection of Ukraine’s request to sever Russia from the internet [pdf] https://www.icann.org/en/system/files/correspondence/marby-to-fedorov-02mar22-en.pdf [3] BP quits Russia in … Continue reading HackerNews top stories #99",
