@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-14T05:31:53.585Z</updated>
+    <updated>2022-03-14T06:13:55.587Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -700,18 +700,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej nowy film Kacp
 The post Weekendowa Lektura: odcinek 454 [2022-02-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
