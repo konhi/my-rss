@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-14T16:15:15.039Z</updated>
+    <updated>2022-03-14T17:11:35.263Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -744,22 +744,6 @@ The post Dyrektor ds. Bezpieczeństwa Egnyte, Dawid Bałut, gościem Rozmowy Kon
         <summary type="html"><![CDATA[HackerNews most popular stories from Feb 06, 2022 to Feb 13, 2022. In one blog post. [0] Use of Google Analytics declared illegal by French data protection authority https://www.cnil.fr/en/use-google-analytics-and-data-transfers-united-states-cnil-orders-website-manageroperator-comply [1] Thank You, Valve https://kinduff.com/2022/02/06/thank-you-valve/ [2] Show HN: SHA-256 explained step-by-step visually https://sha256algorithm.com/ [3] Heuristics that almost always work https://astralcodexten.substack.com/p/heuristics-that-almost-always-work [4] Show HN: EdgeDB 1.0 https://www.edgedb.com/blog/edgedb-1-0 … Continue reading HackerNews top stories #96]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
