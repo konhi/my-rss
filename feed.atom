@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-15T00:47:55.062Z</updated>
+    <updated>2022-03-15T02:12:18.401Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -722,18 +722,6 @@ Fixed: Horizontal overflow on Safari
 Fixed: HTML syntax error in default template]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyrektor ds. Bezpieczeństwa Egnyte, Dawid Bałut, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61057</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/dyrektor-ds-bezpieczenstwa-egnyte-dawid-balut-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-02-13T13:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Czym jest ten słynny DevSecOps? Kogo zatrudniają działy bezpieczeństwa? Jak rozwijać swoje umiejętności na początku ścieżki zawodowej w IT Security? Dzisiaj spotykamy się z człowiekiem, który zna odpowiedzi na różne pytania. Poznajcie Dawida.
-Dawid Bałut przeszedł długą i ciekawą ścieżkę zawodową.… Czytaj dalej 
-The post Dyrektor ds. Bezpieczeństwa Egnyte, Dawid Bałut, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
