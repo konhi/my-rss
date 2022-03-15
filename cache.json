@@ -4,28 +4,7 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "author": null,
-          "description": "Fixed: Several style issues",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
-          "publishedOn": "2022-02-14T06:58:28.000Z",
-          "wordCount": 258,
-          "title": "v1.14.4",
-          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "author": null,
-          "description": "style tweak",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
-          "publishedOn": "2022-02-14T06:29:16.000Z",
-          "wordCount": 255,
-          "title": "v1.14.3",
-          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Niebezpiecznik.pl",
