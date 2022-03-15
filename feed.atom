@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-15T13:18:26.680Z</updated>
+    <updated>2022-03-15T14:10:52.549Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Można było pobrać dane osobowe tysięcy sympatyków Konfederacji]]></title>
+        <id>https://niebezpiecznik.pl/post/mozna-bylo-pobrac-dane-osobowe-tysiecy-sympatykow-konfederacji/</id>
+        <link href="https://niebezpiecznik.pl/post/mozna-bylo-pobrac-dane-osobowe-tysiecy-sympatykow-konfederacji/"/>
+        <updated>2022-03-15T13:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Strona internetowa Konfederacji pozwalała na pobranie danych osobowych użytkowników aplikacji Konfederacji, wraz z ich numerami PESEL. Wystarczyło zmieniać kolejne wartości identyfikatora w URL. Po...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Na Podsłuchu: Ukraina, &#8220;cyberwojna&#8221;, Anonymous i dezinformacja]]></title>
         <id>https://niebezpiecznik.pl/post/na-podsluchu-ukraina-cyberwojna-anonymous-i-dezinformacja/</id>
