@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-15T17:12:42.377Z</updated>
+    <updated>2022-03-15T18:13:17.753Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -689,50 +689,6 @@ The post Odcinek 95 –  Dyrektor ds Bezpieczeństwa Egnyte, Dawid Bałut first 
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
         <updated>2022-02-14T06:29:16.000Z</updated>
         <summary type="html"><![CDATA[style tweak]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
-        <updated>2022-02-14T05:53:33.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
-        <updated>2022-02-14T05:26:23.000Z</updated>
-        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
-        <updated>2022-02-14T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
