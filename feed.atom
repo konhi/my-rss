@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-17T13:18:58.667Z</updated>
+    <updated>2022-03-17T16:14:43.477Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -11,7 +11,7 @@
         <id>https://niebezpiecznik.pl/post/cyberatak-na-pkp-ktorego-nie-bylo/</id>
         <link href="https://niebezpiecznik.pl/post/cyberatak-na-pkp-ktorego-nie-bylo/"/>
         <updated>2022-03-17T12:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Dziś, ok. godziny 4 rano, niektóre systemy sterowania ruchem pociągów PKP “doznały awarii”. Problem był ogólnopolski (19 lokalizacji). Wiele pociągów zostało mocno opóźnionych, a część w...
+        <summary type="html"><![CDATA[Dziś, przed godziną 4 w nocy, niektóre systemy sterowania ruchem pociągów PKP “doznały awarii“. Problem był ogólnopolski (19 lokalizacji). Wiele pociągów zostało mocno opóźnionych, a...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
