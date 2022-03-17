@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-17T21:09:31.606Z</updated>
+    <updated>2022-03-17T22:11:05.832Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -649,18 +649,6 @@ INFO: artykuł wyjaśnia, …]]></summary>
 The post Zobacz SMSy, za pomocą których próbowano zainfekować Pegasusem telefony polskich polityków first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podstawy Bezpieczeństwa: Jak zadbać o swoje bezpieczeństwo, używając Androida]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=60452</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/podstawy-bezpieczenstwa-jak-zadbac-o-swoje-bezpieczenstwo-uzywajac-androida/"/>
-        <updated>2022-02-16T09:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Jak zarządzać uprawnieniami aplikacji na naszym telefonie ? Czy da się zabezpieczyć Androida przed złośliwym oprogramowaniem? W jaki sposób zaszyfrować smartfona i utworzyć kopie zapasowe danych? Przeczytacie w tym artykule.
-Systematyczni czytelnicy Weekendowej Lektury mogli zauważyć, że niemal w każdym odcinku pojawia się kilka linków do informacji o nowych zagrożeniach czyhających na użytkowników Androida.… Czytaj dalej 
-The post Podstawy Bezpieczeństwa: Jak zadbać o swoje bezpieczeństwo, używając Androida first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
 </feed>
