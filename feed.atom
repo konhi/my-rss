@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-19T19:08:25.737Z</updated>
+    <updated>2022-03-19T20:10:40.784Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -613,38 +613,6 @@ The post Weekendowa Lektura: odcinek 455 [2022-02-19]. Bierzcie i czytajcie firs
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z historii wojen wywiadów, czyli jak działały martwe skrzynki]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61080</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/z-historii-wojen-wywiadow-czyli-jak-dzialaly-martwe-skrzynki/"/>
-        <updated>2022-02-18T07:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Dziupla w drzewie, dziura pod kamieniem czy wysuwająca się cegła w starym murze. Celem szpiegów jest nie tylko wykradzenie informacji, ale także uniknięcie wykrycia i złapania. Jednym z narzędzi w tym pomagającym są tzw. martwe skrzynki.
-Czytacie artykuł gościnny serwisu „zawsze czujni„.… Czytaj dalej 
-The post Z historii wojen wywiadów, czyli jak działały martwe skrzynki first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Wpis Gościnny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 lutego 2022]]></title>
-        <id>https://news.mrugalski.pl/post/676507910911787008</id>
-        <link href="https://news.mrugalski.pl/post/676507910911787008"/>
-        <updated>2022-02-18T07:10:19.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Zapraszam do copiątkowego przeglądu ciekawych znalezisk z branży IT.
-1) Zagraj w WORLDLE (World + Wordle) i zgadnij, o jaki kraj chodzi
-https://worldle.teuteuf.fr
-INFO: wpisując nazwę państwa, dostajesz podpowiedź, jak daleko Twój strzał jest od docelowej lokalizacji, a strzałka wskazuje, w którą stronę na mapie musisz się kierować, aby trafić do celu. Do gry przyda się grafika z mapą świata. Tak jak w oryginalnym Wordle, codziennie publikowana jest jedna zagadka.
-2) Jak działa GPS? Wyjaśnienie krok po kroku
-https://ciechanow.ski/gps/
-INFO: bardzo ciekawa metoda wizualizacji algorytmu, okraszona kilkoma interaktywnymi przykładami.
-3) Nigdy nie używaj efektu ‘pixelozy’ do anonimizacji tekstu
-https://bishopfox.com/blog/unredacter-tool-never-pixelation
-INFO: artykuł wyjaśnia, …]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
