@@ -209,6 +209,17 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=61619",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Co prawda, weekend już powoli się kończy, ale zostało jeszcze kilka godzin (o nocy nie wspominając) na przejrzenie zgromadzonych przez nas linków. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej nieco krytyczny artykuł o ostatnich działaniach Anonymous (pkt 3) oraz doniesienia o tym, że niemieckie BSI zaleca rezygnację z rozwiązań antywirusowych firmy Kaspersky (pkt 8).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 459 [2022-03-20]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-459-2022-03-20-bierzcie-i-czytajcie/",
+          "publishedOn": "2022-03-20T11:14:15.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 459 [2022-03-20]. Bierzcie i czytajcie",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=61537",
           "author": "Adam Haertle",
           "description": "Gościem dziewięćdziesiątego ósmego odcinka podcastu Rozmowa Kontrolowana jest dyrektor biura bezpieczeństwa informacji w banku PKO Bank Polski, Piotr Kalbarczyk.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 98 –  CSO PKO BP, Piotr Kalbarczyk first appeared on Zaufana Trzecia Strona.",
@@ -459,6 +470,16 @@
       "feedUrl": "https://dmasior.com/rss",
       "siteUrl": "https://dmasior.com",
       "articles": [
+        {
+          "id": "https://dmasior.com/hackernews-top-stories-101/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Mar 13, 2022 to Mar 20, 2022. In one blog post. [0] US Senate votes unanimously to make daylight savings time permanent https://twitter.com/senatecloakroom/status/1503797632745025542 [1] EU to make it mandatory to use customer-replaceable batteries in household items https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/ [2] DigitalOcean acquires CSS-tricks https://css-tricks.com/css-tricks-is-joining-digitalocean/ [3] H.264 is Magic (2016) https://sidbala.com/h-264-is-magic/ [4] 5 … Continue reading HackerNews top stories #101",
+          "link": "https://dmasior.com/hackernews-top-stories-101/",
+          "publishedOn": "2022-03-20T11:22:13.000Z",
+          "wordCount": 509,
+          "title": "HackerNews top stories #101",
+          "imageUrl": "https://dmasior.com/wp-content/uploads/2020/04/hnws.jpg"
+        },
         {
           "id": "https://dmasior.com/hackernews-top-stories-100/",
           "author": "dmasior",
