@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-22T06:13:36.723Z</updated>
+    <updated>2022-03-22T07:10:37.713Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -562,19 +562,6 @@ Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej
 The post Odcinek 96 –  Detection Engineer, Mariusz Litwin first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atak na Lotnicze Pogotwie Ratunkowe. Padły praktycznie wszystkie systemy]]></title>
-        <id>https://niebezpiecznik.pl/post/atak-na-lotnicze-pogotwie-ratunkowe/</id>
-        <link href="https://niebezpiecznik.pl/post/atak-na-lotnicze-pogotwie-ratunkowe/"/>
-        <updated>2022-02-20T19:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Od tygodnia (!) Lotnicze Pogotowie Ratunkowe ma sparaliżowaną łączność. Śmigłowce wciąż latają, a ratownicy niosą pomoc potrzebującym, ale robią to bez ułatwień i wsparcia systemów komputerowych. Jak...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
