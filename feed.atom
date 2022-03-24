@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-24T00:48:27.773Z</updated>
+    <updated>2022-03-24T02:21:18.086Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -520,19 +520,6 @@ INFO: nawet nie wiedziałem, że na terenie naszego kraju jest tyle stacji radio
         <link href="https://niebezpiecznik.pl/post/uwaga-na-pilne-wezwanie-od-komendanta-glownego-policji/"/>
         <updated>2022-02-23T11:50:24.000Z</updated>
         <summary type="html"><![CDATA[Ktoś, chyba niezbyt biegle posługujący się językiem polskim, rozsyła takie e-maile, podszywając się pod “Jarosława Szymczyka”, Komendanta Głównego Policji: Nadawca: Dyrekcja Generalna...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wprowadzono stopień alarmowy CHARLIE-CRP po raz pierwszy w Polsce]]></title>
-        <id>https://niebezpiecznik.pl/post/wprowadzono-stopien-alarmowy-charlie-crp-po-raz-pierwszy-w-polsce/</id>
-        <link href="https://niebezpiecznik.pl/post/wprowadzono-stopien-alarmowy-charlie-crp-po-raz-pierwszy-w-polsce/"/>
-        <updated>2022-02-22T13:36:15.000Z</updated>
-        <summary type="html"><![CDATA[21 lutego o godznie 21:00, po raz pierwszy w historii Polsi wprowadzono stopień alarmowy CHARLIE-CRP. W tym artykule wyjaśniamy co to w ogóle znaczy dla zwykłego obywatela i co było powodem...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
