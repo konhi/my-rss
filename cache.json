@@ -335,6 +335,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/679678229600174080",
+          "author": null,
+          "description": "◢ #unknownews ◣\nCzas na piątkowe zestawienie subiektywnie najciekawszych znalezisk ze swiata IT z ubiegłego tygodnia. Zapraszam do lektury.\n\nEuropa Universalis IV za niespełna 5zł\n\n1) Zbuduj własną, kieszonkową chmurę opartą na Raspberry Pi oraz OpenFaaS\nhttps://blog.alexellis.io/your-pocket-sized-cloud/\nINFO: autor buduję prostą ‘chmurę’ z użyciem narzędzi open source. Ostatecznie powstaje z tego mini serwer obsługiwany przez API, zdatny do uruchamiania skryptów do automatyzacji, zadań crona, czy hostowania stron WWW.\n2) Smart urządzenia - czyli z czego zbudować inteligentny dom? (IKEA Tradfi, Shellby, Philips Hue, HomeMatic, Sonoff itp.)\nhttps://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/\nINFO: autor przez lata korzystał z wielu smart produktów do obsługi inteligentnego…",
+          "link": "https://news.mrugalski.pl/post/679678229600174080",
+          "publishedOn": "2022-03-25T07:01:10.000Z",
+          "wordCount": 1040,
+          "title": "25 marca 2022",
+          "imageUrl": "https://64.media.tumblr.com/44e5ec9eb13a14fc252899eaff262bdb/72ad6cd9c587467d-bc/s1280x1920/1c5c8f12ea82ced0419f349d97b6c62cdf059956.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/679050984174043136",
           "author": null,
           "description": "◢ #unknownews ◣\nJak co piątek, zapraszam do przeglądu subiektywnie najciekawszych znalezisk  z branży IT, na jakie natknąłem się w ostatnim tygodniu.\n\nPromocja na gry strzelanki od HumbleBundle\nZgarnij dwa ebooki w cenie jednego na Ebookpoint (sporo z IT)\n\n1) Czy rozpoznasz Deepfake w wersji audio, wideo i tekstowej?\nhttps://detectfakes.media.mit.edu/\nINFO: przeglądnij zestaw starannie przygotowanych deepfake i oceń, jak bardzo jesteś przekonany (0-100%), że to podróbka. Pierwsze nagranie jest referencyjne, więc tam dajesz po prostu 100%. Nie wszystkie filmy mają dźwięk (i to nie jest bug), chodzi w nich o ocenę obrazu.\n2) Grażdanka.pl - naucz się cyrylicy i jej odmian!\nhttps://grazdanka.pl/\nINFO: wybierasz rodzaj alfabetu (obecnie rosyjski i ukraiński), a następnie starasz się odgadnąć ja…",
