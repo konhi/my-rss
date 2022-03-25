@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-25T10:13:19.038Z</updated>
+    <updated>2022-03-25T11:09:49.098Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Co ujawnili Anonymous (i inne grupy), czyli historia prawdziwych wycieków ostatnich tygodni]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61664</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/co-ujawnili-anonymous-i-inne-grupy-czyli-historia-prawdziwych-wyciekow-ostatnich-tygodni/"/>
+        <updated>2022-03-25T10:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Dane 120 tysięcy rosyjskich żołnierzy biorących udział w inwazji na Ukrainę, dane urzędu cenzorskiego i agencji kosmicznej, atak na systemy kolejowe – to wszystko prawdziwe incydenty, choć nie zawsze rzetelnie opisane w mediach. Uzupełniamy te braki.
+Kilka dni temu opisaliśmy, czego nie ujawnili Anonymous, czyli historię listy rosyjskich agentów i innych sensacyjnych wycieków, których nie było.… Czytaj dalej 
+The post Co ujawnili Anonymous (i inne grupy), czyli historia prawdziwych wycieków ostatnich tygodni first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 marca 2022]]></title>
         <id>https://news.mrugalski.pl/post/679678229600174080</id>
