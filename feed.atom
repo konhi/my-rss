@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-26T21:10:37.306Z</updated>
+    <updated>2022-03-26T22:10:10.747Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -496,27 +496,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej krótki wideo-
 The post Weekendowa Lektura: odcinek 456 [2022-02-26]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 lutego 2022]]></title>
-        <id>https://news.mrugalski.pl/post/677152906589470720</id>
-        <link href="https://news.mrugalski.pl/post/677152906589470720"/>
-        <updated>2022-02-25T10:02:15.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Kolejna porcja przeglądu ciekawych znalezisk wyłowionych z czeluści netu w ciągu ostatniego tygodnia.
-
-Wielka wyprzedaż gier od Sid Meier’s - za 60zł złowisz 12 gier z dodatkami.
-
-1) Jak dobra jest Twoja wyobraźnia przestrzenna? (szybka gra)
-https://0xf00ff00f.github.io/rotator/
-INFO: zabawa z tą aplikacją w teorii powinna zająć maksymalnie 2 minuty (bo na tyle pozwala timer), ale nie oszukujmy się… nikt nie podchodzi do zadania, tylko jeden raz ;)
-2) Radio Garden - słuchaj na żywo stacji radiowych z całego świata
-https://radio.garden
-INFO: nawet nie wiedziałem, że na terenie naszego kraju jest tyle stacji radiowych. Gdy klikniesz konkretne miasto, warto rozwinąć panel po lewej, bo w jednym mieście może być nawet kilkanaście stacji.
-3) KiKŚ - Katastrofy i Konflikty Światowe…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
 </feed>
