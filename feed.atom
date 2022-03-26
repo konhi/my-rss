@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-25T23:10:39.353Z</updated>
+    <updated>2022-03-26T00:46:22.978Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -513,19 +513,6 @@ INFO: nawet nie wiedziałem, że na terenie naszego kraju jest tyle stacji radio
         <link href="https://niebezpiecznik.pl/post/komunikatory-offline-radio/"/>
         <updated>2022-02-24T17:27:40.000Z</updated>
         <summary type="html"><![CDATA[W związku z tym co dzieje się na Ukrainie pytacie nas o alternatywne metody komunikacji. Do dyspozycji w zasadzie mamy: 1: Komunikatory offline Tu aplikacji jest sporo (Briar, Bridgefy, Fire chat,...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wojna Rosji z Ukrainą a cyberbezpieczeństwo w Polsce. Kilka rad]]></title>
-        <id>https://niebezpiecznik.pl/post/wojna-rosji-z-ukraina-a-cyberbezpieczenstwo-w-polsce-kilka-rad/</id>
-        <link href="https://niebezpiecznik.pl/post/wojna-rosji-z-ukraina-a-cyberbezpieczenstwo-w-polsce-kilka-rad/"/>
-        <updated>2022-02-24T12:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Pytacie jak inwazja Rosji na Ukrainę wpływa na bezpieczeństwo polskiego internetu i jak się zabezpieczyć przed ewentualnymi negatywnymi skutkami cyberataków skierowanych zarówno przeciwko Ukrainie...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
