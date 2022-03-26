@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-26T05:09:49.030Z</updated>
+    <updated>2022-03-26T06:13:01.260Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -505,19 +505,6 @@ INFO: nawet nie wiedziałem, że na terenie naszego kraju jest tyle stacji radio
 3) KiKŚ - Katastrofy i Konflikty Światowe…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Komunikatory offline i radio. Na te chwile, kiedy padnie operator telefonii komórkowej lub zabraknie zasięgu]]></title>
-        <id>https://niebezpiecznik.pl/post/komunikatory-offline-radio/</id>
-        <link href="https://niebezpiecznik.pl/post/komunikatory-offline-radio/"/>
-        <updated>2022-02-24T17:27:40.000Z</updated>
-        <summary type="html"><![CDATA[W związku z tym co dzieje się na Ukrainie pytacie nas o alternatywne metody komunikacji. Do dyspozycji w zasadzie mamy: 1: Komunikatory offline Tu aplikacji jest sporo (Briar, Bridgefy, Fire chat,...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
