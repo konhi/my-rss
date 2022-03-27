@@ -129,6 +129,24 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=61751",
+          "author": "Adam Haertle",
+          "description": "Gościem dziewięćdziesiątego dziewiątego odcinka podcastu Rozmowa Kontrolowana jest analityk malware w Bank of America, Łukasz Lamparski.\nOdwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.\nPodcast jest dostępny:\nw serwisie Spotify\nw serwisie Apple Podcasts\nw serwisie Google Podcasts\nw formie RSS\njako playlista Youtube\nOdcinek w wersji wideo można obejrzeć poniżej:\n\n\n\nWersja audio do odsłuchania jeszcze niżej.… Czytaj dalej \nThe post Odcinek 99 –  Malware Analyst, Łukasz Lamparski first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/odcinek-99-malware-analyst-lukasz-lamparski/",
+          "publishedOn": "2022-03-27T20:58:58.000Z",
+          "wordCount": null,
+          "title": "Odcinek 99 –  Malware Analyst, Łukasz Lamparski",
+          "itunes": {
+            "duration": "1:17:12"
+          },
+          "enclosure": {
+            "url": "https://zaufanatrzeciastrona.pl/wp-content/uploads/2022/03/99.mp3",
+            "length": "65047333",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=61752",
           "author": "Adam Haertle",
           "description": "Przestępcy tworzą ogromne ilości złośliwego oprogramowania. Złośliwe oprogramowanie atakuje użytkowników. By bronić użytkowników, trzeba zrozumieć, jak złośliwe oprogramowanie działa. Kto to wszystko analizuje? Analitycy! Poznajcie Łukasza.\nŁukasz swoją karierę zaczynał od administrowania różnymi środowiskami Linux / UNIX, a od kilku lat walczy po niebieskiej stronie w branży bezpieczeństwa.… Czytaj dalej \nThe post Malware analyst, Łukasz Lamparski, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
