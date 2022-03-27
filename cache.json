@@ -129,6 +129,17 @@
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
         {
+          "id": "https://zaufanatrzeciastrona.pl/?p=61752",
+          "author": "Adam Haertle",
+          "description": "Przestępcy tworzą ogromne ilości złośliwego oprogramowania. Złośliwe oprogramowanie atakuje użytkowników. By bronić użytkowników, trzeba zrozumieć, jak złośliwe oprogramowanie działa. Kto to wszystko analizuje? Analitycy! Poznajcie Łukasza.\nŁukasz swoją karierę zaczynał od administrowania różnymi środowiskami Linux / UNIX, a od kilku lat walczy po niebieskiej stronie w branży bezpieczeństwa.… Czytaj dalej \nThe post Malware analyst, Łukasz Lamparski, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/malware-analyst-lukasz-lamparski-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/",
+          "publishedOn": "2022-03-27T12:03:17.000Z",
+          "wordCount": null,
+          "title": "Malware analyst, Łukasz Lamparski, gościem Rozmowy Kontrolowanej w niedzielę o 21",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://zaufanatrzeciastrona.pl/?p=61666",
           "author": "Anna Wasilewska-Śpioch",
           "description": "Zapraszamy do nowego wydania Weekendowej Lektury, zawierającego najciekawsze informacje na temat ataków, wycieków, podatności i szkodników, które zaobserwowali ostatnio eksperci. Życzymy udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł pokazujący, jak działa dezinformacja na TikToku (pkt 2), informację o aresztowaniu kilku członków grupy Lapsus$, która zhakowała ostatnio Nvidię i Microsoft (pkt 14) oraz doniesienia o tym, że serwerownia OVH nie była właściwie zabezpieczona przed pożarem (pkt 17).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 460 [2022-03-26]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
@@ -383,6 +394,16 @@
       "feedUrl": "https://dmasior.com/rss",
       "siteUrl": "https://dmasior.com",
       "articles": [
+        {
+          "id": "https://dmasior.com/hackernews-top-stories-102/",
+          "author": "dmasior",
+          "description": "HackerNews most popular stories from Mar 20, 2022 to Mar 27, 2022. In one blog post. [0] Applebee’s exec urges using high gas prices to push lower wages, sparks walkout https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/ [1] Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent https://news.ycombinator.com/item?id=30763464 [2] Hackers claim to have breached … Continue reading HackerNews top stories #102",
+          "link": "https://dmasior.com/hackernews-top-stories-102/",
+          "publishedOn": "2022-03-27T11:21:59.000Z",
+          "wordCount": 529,
+          "title": "HackerNews top stories #102",
+          "imageUrl": "https://dmasior.com/wp-content/uploads/2020/04/hnws.jpg"
+        },
         {
           "id": "https://dmasior.com/hackernews-top-stories-101/",
           "author": "dmasior",
