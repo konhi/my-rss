@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-31T08:13:55.964Z</updated>
+    <updated>2022-03-31T09:12:19.829Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Co robią pracownicy, kiedy admini nie patrzą?]]></title>
+        <id>https://niebezpiecznik.pl/post/co-robia-pracownicy-kiedy-admini-nie-patrza/</id>
+        <link href="https://niebezpiecznik.pl/post/co-robia-pracownicy-kiedy-admini-nie-patrza/"/>
+        <updated>2022-03-31T08:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Gdy administratorzy IT są pytani o to, z ilu aplikacji w chmurze korzystają pracownicy w ich organizacji, odpowiadają zazwyczaj, że z około 30, może 40. W rzeczywistości, te liczby są nawet kilka...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rosjanie wkręcili się jej do SMS-ów]]></title>
         <id>https://niebezpiecznik.pl/post/rosjanie-wstrzyneli-sie-do-smsow/</id>
