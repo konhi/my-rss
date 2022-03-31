@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-31T11:09:32.243Z</updated>
+    <updated>2022-03-31T12:20:10.466Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Programiści i Programistki! Tej konferencji IT nie możecie przegapić!  Mamy dla Was zniżkę na bilety.]]></title>
+        <id>https://niebezpiecznik.pl/post/programisci-i-programistki-tej-konferencji-it-nie-mozecie-przegapic-mamy-dla-was-znizke-na-bilety/</id>
+        <link href="https://niebezpiecznik.pl/post/programisci-i-programistki-tej-konferencji-it-nie-mozecie-przegapic-mamy-dla-was-znizke-na-bilety/"/>
+        <updated>2022-03-31T12:06:38.000Z</updated>
+        <summary type="html"><![CDATA[4Developers to największy interdyscyplinarny festiwal technologiczny w Polsce, który zrzesza społeczność IT w jednym miejscu. Doświadczeni eksperci od wielu lat spotykają się co roku, by dzielić się...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Co robią pracownicy, kiedy admini nie patrzą?]]></title>
         <id>https://niebezpiecznik.pl/post/co-robia-pracownicy-kiedy-admini-nie-patrza/</id>
