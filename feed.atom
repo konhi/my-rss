@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-03-31T23:12:10.302Z</updated>
+    <updated>2022-04-01T00:56:21.292Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -523,18 +523,6 @@ The post Tysiące terminali internetu satelitarnego poważnie uszkodzonych w dni
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ministerstwo Cyfryzacji ostrzega użytkowników Signala. Wyjaśniamy o co chodzi]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61368</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/ministerstwo-cyfryzacji-ostrzega-uzytkownikow-signala-wyjasniamy-o-co-chodzi/"/>
-        <updated>2022-03-02T12:04:56.000Z</updated>
-        <summary type="html"><![CDATA[W sieci pojawiło się kilka plotek o atakach na użytkowników Signala, prowadzonych przez Rosję. Znalazły one nawet swoje odzwierciedlenie w komunikacie rozesłanym do polskich VIP-ów. Na czym miał polegać atak i co warto w związku z tym zrobić?
-Wczoraj Radio ZET opublikowało artykuł pod tytułem „Resort ostrzega najważniejsze osoby w państwie przed korzystaniem ze znanego komunikatora„.… Czytaj dalej 
-The post Ministerstwo Cyfryzacji ostrzega użytkowników Signala. Wyjaśniamy o co chodzi first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
