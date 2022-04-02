@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-02T05:09:55.459Z</updated>
+    <updated>2022-04-02T06:13:23.779Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wyniki webinaru o dezinformacji – statystyki, moje zarobki i wasze oceny]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61799</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/wyniki-webinaru-o-dezinformacji-statystyki-moje-zarobki-i-wasze-oceny/"/>
+        <updated>2022-04-02T05:41:01.000Z</updated>
+        <summary type="html"><![CDATA[To nie jest artykuł o bezpieczeństwie, ale jest to artykuł o zarabianiu na bezpieczeństwie. Ile osób zapisało się na webinar? Ile zdecydowało się zapłacić? Czy uczestnicy byli zadowoleni? Czy ja byłem zadowolony? Wszystkie odpowiedzi znajdziesz poniżej.
+Pierwszy samodzielny webinar – jak to pierwszy?… Czytaj dalej 
+The post Wyniki webinaru o dezinformacji – statystyki, moje zarobki i wasze oceny first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1 kwietnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/680320260706058240</id>
