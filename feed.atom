@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-01T23:11:43.670Z</updated>
+    <updated>2022-04-02T00:47:52.377Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -518,18 +518,6 @@ https://f.hubspotusercontent30.net/hubfs/7677235/The%20State%20of%20Burnout%20in
 INFO: okazuje się, że źródłem wypalenia nie jest jedynie przepracowanie, ale także szereg innych czynników zewnętrznych, na które możemy…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tysiące terminali internetu satelitarnego poważnie uszkodzonych w dniu ataku na Ukrainę]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61383</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/tysiace-terminali-internetu-satelitarnego-powaznie-uszkodzonych-w-dniu-ataku-na-ukraine/"/>
-        <updated>2022-03-03T12:45:04.000Z</updated>
-        <summary type="html"><![CDATA[24 lutego kilkadziesiąt tysięcy modemów internetu satelitarnego w wielu krajach Europy przestało działać. Do sieci dostępu nie mają zarówno niemieckie turbiny wiatrowe, jak i klienci z Polski czy Ukrainy. Nie zanosi się na szybkie przywrócenie usług.
-W dniu napaści Rosji na Ukrainę, w godzinach porannych, awarii uległy terminale, umożliwiające zdalne zarządzanie 5800 turbinami wiatrowymi w Niemczech (turbiny działają, ale nie działa raportowanie i monitoring).… Czytaj dalej 
-The post Tysiące terminali internetu satelitarnego poważnie uszkodzonych w dniu ataku na Ukrainę first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
 </feed>
