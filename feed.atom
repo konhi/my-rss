@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-02T21:09:54.704Z</updated>
+    <updated>2022-04-02T22:12:45.756Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 461 [2022-04-02]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61786</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-461-2022-04-02-bierzcie-i-czytajcie/"/>
+        <updated>2022-04-02T21:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. W pocie czoła zgromadziliśmy sporo ciekawych linków zarówno w części fabularnej, jak i technicznej, jest więc szansa, że każdy znajdzie coś dla siebie. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej uwagi do ustawy o obronie ojczyzny, która daje wojsku nieskrępowany dostęp do danych wszystkich obywateli (pkt 1) oraz artykuł o tym, jak OSINT pomaga w ustalaniu strat rosyjskiej armii w Ukrainie (pkt 10).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 461 [2022-04-02]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CEO Redge Technologies, Przemysław Frasunek, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61823</id>
