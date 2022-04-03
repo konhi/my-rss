@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-03T20:12:04.825Z</updated>
+    <updated>2022-04-03T21:10:04.310Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odcinek 100 –  CEO Redge Technologies, Przemysław Frasunek]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61880</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-100-ceo-redge-technologies-przemyslaw-frasunek/"/>
+        <updated>2022-04-03T21:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Gościem setnego, jubileuszowego odcinka podcastu Rozmowa Kontrolowana jest CEO Redge Technologies, Przemysław Frasunek, znany także jako venglin vel Babcia Padlina.
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 100 –  CEO Redge Technologies, Przemysław Frasunek first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Też dostałeś wiadomość o rekrutacji pracowników z rosyjskiego adresu?]]></title>
         <id>https://niebezpiecznik.pl/post/tez-dostales-wiadomosc-o-rekrutacji-pracownikow-z-rosyjskiego-adresu/</id>
