@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-03T12:17:38.555Z</updated>
+    <updated>2022-04-03T13:17:12.585Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Też dostałeś wiadomość o rekrutacji pracowników z rosyjskiego adresu?]]></title>
+        <id>https://niebezpiecznik.pl/post/tez-dostales-wiadomosc-o-rekrutacji-pracownikow-z-rosyjskiego-adresu/</id>
+        <link href="https://niebezpiecznik.pl/post/tez-dostales-wiadomosc-o-rekrutacji-pracownikow-z-rosyjskiego-adresu/"/>
+        <updated>2022-04-03T12:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Otrzymujemy setki zgłoszeń, że wielu Polaków dostaje właśnie wiadomości iMessage, które są wysyłane z rosyjskich domen list.ru oraz inbox.ru lub mail.ru. Treść wiadomości przez niektórych odbiorców...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 461 [2022-04-02]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61786</id>
