@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-03T04:13:45.620Z</updated>
+    <updated>2022-04-03T05:10:13.379Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -520,19 +520,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej kilkuodcinkow�
 The post Weekendowa Lektura: odcinek 457 [2022-03-05]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na SMS podszywający się pod PGE]]></title>
-        <id>https://niebezpiecznik.pl/post/oszustwo-smd-pge/</id>
-        <link href="https://niebezpiecznik.pl/post/oszustwo-smd-pge/"/>
-        <updated>2022-03-04T16:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Ruszyła kolejna fala ataków wyłudzających pieniądze pod pretekstem niedopłaty do rachunku za prąd. Przestępcy podszywają się pod PGE: PGE: Prosimy uregulowac naleznosc: LINK Pod linkiem kryje się...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
 </feed>
