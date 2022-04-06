@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-05T23:11:51.037Z</updated>
+    <updated>2022-04-06T00:53:14.636Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -529,19 +529,6 @@ INFO: prosty test sprawdzający, ‘czy jesteś człowiekiem?’ może bez probl
         <link href="https://niebezpiecznik.pl/post/100-kluczy-u2f-dla-aktywistow-wspierajacych-ukraine-online/"/>
         <updated>2022-03-07T18:28:34.000Z</updated>
         <summary type="html"><![CDATA[Wiecie co najbardziej drażni włamywaczy (w tym prorosyjskich rządowych hakerów)? Kiedy po udanym ataku phishingowym (czyli wyłudzeniu hasła) próbują się zalogować na konto ofiary i widzą to: Ten...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zapisz się na darmowy LIVE z lcamtufem i pomóż ofiarom wojny na Ukrainie]]></title>
-        <id>https://niebezpiecznik.pl/post/darmowy-live-pomoc-ukrainie/</id>
-        <link href="https://niebezpiecznik.pl/post/darmowy-live-pomoc-ukrainie/"/>
-        <updated>2022-03-07T12:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy na bezpłatny LIVE webinar z legendarnym polskim hackerem, Michałem “lcamtufem” Zalewskim pt. “Jak przygotować się na kryzys?“. Michał przez lata przewodził zespołom...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
