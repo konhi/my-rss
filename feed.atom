@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-06T06:13:02.144Z</updated>
+    <updated>2022-04-06T07:11:16.234Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -528,19 +528,6 @@ INFO: prosty test sprawdzający, ‘czy jesteś człowiekiem?’ może bez probl
         <link href="https://niebezpiecznik.pl/post/wez-udzial-w-szkoleniach-niebezpiecznika-za-darmo/"/>
         <updated>2022-03-08T10:43:14.000Z</updated>
         <summary type="html"><![CDATA[Pewnie nie wiesz, ale najprawdopodobniej kwalifikujesz się do darmowego udziału we wszystkich naszych, silnie praktycznych, bestsellerowych szkoleniach, czyli: topowych warsztatach z Atakowania i...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100 kluczy U2F dla aktywistów wspierających Ukrainę online]]></title>
-        <id>https://niebezpiecznik.pl/post/100-kluczy-u2f-dla-aktywistow-wspierajacych-ukraine-online/</id>
-        <link href="https://niebezpiecznik.pl/post/100-kluczy-u2f-dla-aktywistow-wspierajacych-ukraine-online/"/>
-        <updated>2022-03-07T18:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Wiecie co najbardziej drażni włamywaczy (w tym prorosyjskich rządowych hakerów)? Kiedy po udanym ataku phishingowym (czyli wyłudzeniu hasła) próbują się zalogować na konto ofiary i widzą to: Ten...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
