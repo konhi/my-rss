@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-08T10:12:29.199Z</updated>
+    <updated>2022-04-08T11:10:11.214Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8 kwietnia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/680952057721716736</id>
+        <link href="https://news.mrugalski.pl/post/680952057721716736"/>
+        <updated>2022-04-08T08:28:08.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Jak co piątek, przybywam z nowym zestawieniem ciekawych znalezisk z branży IT. Zapraszam do lektury.
+
+Rzuć okiem na kursy z branży IT dostępne w ramach mojej platformy edukacyjnej
+
+1) Napisanie aplikacji wyświetlającej informacje o albumach i utworach jest proste? Niezupełnie…
+https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html
+INFO: Ciekawy przegląd skrajnych przypadków, z którymi musisz się zmierzyć, projektując taką aplikację. Okazuje się, że nie wszyscy wykonawcy używają alfabetu łacińskiego, a Laughing Mantis już totalnie odleciał :D
+2) Jak wygląda obecnie TikTok oczami rosyjskiego użytkownika? Zobacz sam
+https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522
+INFO: Mówiąc krótko, niemal wszystk…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nawet najlepszy administrator nie poradzi sobie bez odpowiednich narzędzi]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61907</id>
