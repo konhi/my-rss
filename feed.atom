@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-09T10:11:21.701Z</updated>
+    <updated>2022-04-09T11:09:17.435Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 462 [2022-04-09]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61918</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-462-2022-04-09-bierzcie-i-czytajcie/"/>
+        <updated>2022-04-09T10:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Znów się ochłodziło, dajemy więc dobrą okazję do spędzenia kilku godzin w domowym zaciszu i zapoznania się z zebranymi przez nas linkami. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej wyniki dziennikarskiego śledztwa, które dotyczyło ukrytych adresów URL YouTube’a (pkt 10) oraz materiał poświęcony zamknięciu Hydry, czyli największego rosyjskojęzycznego marketu w darknecie (pkt 16).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 462 [2022-04-09]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 kwietnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/680952057721716736</id>
