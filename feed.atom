@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-12T14:10:48.514Z</updated>
+    <updated>2022-04-12T15:12:25.390Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[W raporcie Podkomisji Smoleńskiej dane m.in. niektórych ofiar ukryto w odwracalny sposób]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=61959</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/w-raporcie-komisji-smolenskiej-dane-m-in-niektorych-ofiar-ukryto-w-odwracalny-sposob/"/>
+        <updated>2022-04-12T14:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Można mówić na konferencjach, można pisać artykuły, można robić szkolenia, a potem zawsze okazuje się, że ktoś wie lepiej i zrobi po swojemu. Niestety nie inaczej było i tym razem, gdy nieudolnie ukryto wrażliwe informacje w raporcie.
+To będzie krótki artykuł, bo nie ma się za bardzo o czym rozpisywać.… Czytaj dalej 
+The post W raporcie Podkomisji Smoleńskiej dane m.in. niektórych ofiar ukryto w odwracalny sposób first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odcinek 101 –  CISO KGHM, Ireneusz Jazownik]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61948</id>
