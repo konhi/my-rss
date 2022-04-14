@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-14T00:58:48.268Z</updated>
+    <updated>2022-04-14T02:45:55.282Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -442,19 +442,6 @@ INFO: wybierasz rodzaj alfabetu (obecnie rosyjski i ukraiński), a następnie st
         <link href="https://niebezpiecznik.pl/post/cyberatak-na-pkp-ktorego-nie-bylo/"/>
         <updated>2022-03-17T12:50:19.000Z</updated>
         <summary type="html"><![CDATA[Dziś, przed godziną 4 w nocy, niektóre systemy sterowania ruchem pociągów PKP “doznały awarii“. Problem był ogólnopolski (19 lokalizacji). Wiele pociągów zostało mocno opóźnionych, a...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Można było pobrać dane osobowe tysięcy sympatyków Konfederacji]]></title>
-        <id>https://niebezpiecznik.pl/post/mozna-bylo-pobrac-dane-osobowe-tysiecy-sympatykow-konfederacji/</id>
-        <link href="https://niebezpiecznik.pl/post/mozna-bylo-pobrac-dane-osobowe-tysiecy-sympatykow-konfederacji/"/>
-        <updated>2022-03-15T13:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Strona internetowa Konfederacji pozwalała na pobranie danych osobowych użytkowników aplikacji Konfederacji, wraz z ich numerami PESEL. Wystarczyło zmieniać kolejne wartości identyfikatora w URL. Po...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
