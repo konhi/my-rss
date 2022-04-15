@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-15T21:10:00.903Z</updated>
+    <updated>2022-04-15T22:11:01.951Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 463 [2022-04-15]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62065</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-463-2022-04-15-bierzcie-i-czytajcie/"/>
+        <updated>2022-04-15T21:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Przestępcy nie próżnują, więc mimo zbliżających się Świąt zebraliśmy całkiem sporą dawkę newsów o atakach, podatnościach i szkodnikach. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o tym, jak śledzenie transakcji w BTC doprowadziło do likwidacji przestępczego marketu (pkt 6).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 463 [2022-04-15]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 kwietnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/681587491821731840</id>
