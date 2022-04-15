@@ -324,6 +324,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/681587491821731840",
+          "author": null,
+          "description": "◢ #unknownews ◣\nCzas na przegląd ciekawych treści z branży IT, na które natrafiłem w ubiegłym tygodniu. Zapraszam do lektury.\n\nAktualnie trwa promocja świąteczna na Helionie (ogromne zniżki na kilka tysięcy książek)\nPromocja na wirtualne wersje papierowych gier planszowych (już od €1)\n\n1) Powstanie, rozwój i upadek Pebble - czyli historia pewnego smart zegarka\nhttps://medium.com/@ericmigi/why-pebble-failed-d7be937c6232\nINFO: Dokładnie 10 lat temu, na Kickstarterze pojawił się rewolucyjny, smart-zegarek Pebble. Jak zdobył popularność? jak wyglądał rozrost firmy i co doprowadziło do upadku i w konsekwencji sprzedaży całej firmy? O tym w artykule\n2) Spis zniżek studenckich na usługi online typu SaaS/PaaS/IaaS\nhttps://github.com/AchoArnold/discount-for-student-dev\nINFO: Jeśli jesteś studentem,…",
+          "link": "https://news.mrugalski.pl/post/681587491821731840",
+          "publishedOn": "2022-04-15T08:48:05.000Z",
+          "wordCount": 1293,
+          "title": "15 kwietnia 2022",
+          "imageUrl": "https://64.media.tumblr.com/4860fc6ca5074c466f9b12c005ae9d81/c6785a3f3213b6a9-72/s1280x1920/afc2a55877fb64ccb1dd6f5bddde286ec4bed839.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/680952057721716736",
           "author": null,
           "description": "◢ #unknownews ◣\nJak co piątek, przybywam z nowym zestawieniem ciekawych znalezisk z branży IT. Zapraszam do lektury.\n\nRzuć okiem na kursy z branży IT dostępne w ramach mojej platformy edukacyjnej\n\n1) Napisanie aplikacji wyświetlającej informacje o albumach i utworach jest proste? Niezupełnie…\nhttps://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html\nINFO: Ciekawy przegląd skrajnych przypadków, z którymi musisz się zmierzyć, projektując taką aplikację. Okazuje się, że nie wszyscy wykonawcy używają alfabetu łacińskiego, a Laughing Mantis już totalnie odleciał :D\n2) Jak wygląda obecnie TikTok oczami rosyjskiego użytkownika? Zobacz sam\nhttps://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522\nINFO: Mówiąc krótko, niemal wszystk…",
