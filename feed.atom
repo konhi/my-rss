@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-15T07:11:27.303Z</updated>
+    <updated>2022-04-15T08:14:39.114Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jakie dane rosyjski Killnet wykradł z serwera polskiej agencji]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62044</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/jakie-dane-rosyjski-killnet-wykradl-z-serwera-polskiej-agencji/"/>
+        <updated>2022-04-15T07:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Poświęciliśmy już sporo uwagi haktywistom, którzy po rozpoczęciu działań wojennych przez Rosję opowiedzieli się po stronie Ukrainy. Pora zerknąć na drugą stronę barykady, zwłaszcza że jedna z prorosyjskich grup chwali się zhakowaniem polskiej agencji.
+Pod koniec marca na celowniku komputerowych włamywaczy znalazła się Polska Agencja Inwestycji i Handlu (PAIH), czyli spółka akcyjna należąca do Skarbu Państwa, korzystająca z domeny paih.gov.pl… Czytaj dalej 
+The post Jakie dane rosyjski Killnet wykradł z serwera polskiej agencji first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W raporcie Podkomisji Smoleńskiej dane m.in. niektórych ofiar ukryto w odwracalny sposób]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=61959</id>
