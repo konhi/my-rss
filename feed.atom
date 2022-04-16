@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-16T06:13:21.511Z</updated>
+    <updated>2022-04-16T07:10:53.361Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -466,19 +466,6 @@ https://grazdanka.pl/
 INFO: wybierasz rodzaj alfabetu (obecnie rosyjski i ukraiński), a następnie starasz się odgadnąć ja…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dostaliście SMS z kodem i treścią pisaną cyrylicą?]]></title>
-        <id>https://niebezpiecznik.pl/post/dostaliscie-sms-z-kodem-i-trescia-pisana-cyrylica/</id>
-        <link href="https://niebezpiecznik.pl/post/dostaliscie-sms-z-kodem-i-trescia-pisana-cyrylica/"/>
-        <updated>2022-03-17T18:21:33.000Z</updated>
-        <summary type="html"><![CDATA[To nie jesteście sami. Wiele osób zgłasza nam w ostatnich dniach, że choć nigdzie się nie logują, to otrzymują od Google lub Facebooka SMS-y z kodami służącymi do logowania. I to w dodatku z opisem w...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
