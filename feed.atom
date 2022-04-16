@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-16T20:11:11.294Z</updated>
+    <updated>2022-04-16T21:09:40.840Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -445,27 +445,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej nieco krytyczn
 The post Weekendowa Lektura: odcinek 459 [2022-03-20]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 marca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/679050984174043136</id>
-        <link href="https://news.mrugalski.pl/post/679050984174043136"/>
-        <updated>2022-03-18T08:51:23.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Jak co piątek, zapraszam do przeglądu subiektywnie najciekawszych znalezisk  z branży IT, na jakie natknąłem się w ostatnim tygodniu.
-
-Promocja na gry strzelanki od HumbleBundle
-Zgarnij dwa ebooki w cenie jednego na Ebookpoint (sporo z IT)
-
-1) Czy rozpoznasz Deepfake w wersji audio, wideo i tekstowej?
-https://detectfakes.media.mit.edu/
-INFO: przeglądnij zestaw starannie przygotowanych deepfake i oceń, jak bardzo jesteś przekonany (0-100%), że to podróbka. Pierwsze nagranie jest referencyjne, więc tam dajesz po prostu 100%. Nie wszystkie filmy mają dźwięk (i to nie jest bug), chodzi w nich o ocenę obrazu.
-2) Grażdanka.pl - naucz się cyrylicy i jej odmian!
-https://grazdanka.pl/
-INFO: wybierasz rodzaj alfabetu (obecnie rosyjski i ukraiński), a następnie starasz się odgadnąć ja…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
