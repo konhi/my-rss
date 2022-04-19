@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-18T23:09:03.645Z</updated>
+    <updated>2022-04-19T01:02:17.287Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -468,18 +468,6 @@ The post Czego nie ujawnili Anonymous, czyli historia listy rosyjskich agentów 
         <summary type="html"><![CDATA[HackerNews most popular stories from Mar 13, 2022 to Mar 20, 2022. In one blog post. [0] US Senate votes unanimously to make daylight savings time permanent https://twitter.com/senatecloakroom/status/1503797632745025542 [1] EU to make it mandatory to use customer-replaceable batteries in household items https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/ [2] DigitalOcean acquires CSS-tricks https://css-tricks.com/css-tricks-is-joining-digitalocean/ [3] H.264 is Magic (2016) https://sidbala.com/h-264-is-magic/ [4] 5 … Continue reading HackerNews top stories #101]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 459 [2022-03-20]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61619</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-459-2022-03-20-bierzcie-i-czytajcie/"/>
-        <updated>2022-03-20T11:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Co prawda, weekend już powoli się kończy, ale zostało jeszcze kilka godzin (o nocy nie wspominając) na przejrzenie zgromadzonych przez nas linków. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej nieco krytyczny artykuł o ostatnich działaniach Anonymous (pkt 3) oraz doniesienia o tym, że niemieckie BSI zaleca rezygnację z rozwiązań antywirusowych firmy Kaspersky (pkt 8).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 459 [2022-03-20]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
