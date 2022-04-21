@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-21T00:57:49.912Z</updated>
+    <updated>2022-04-21T03:01:46.969Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -458,18 +458,6 @@ INFO: autor przez lata korzystał z wielu smart produktów do obsługi inteligen
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czego nie ujawnili Anonymous, czyli historia listy rosyjskich agentów i innych sensacyjnych wycieków]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61381</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/czego-nie-ujawnili-anonymous-czyli-historia-listy-rosyjskich-agentow-i-inne/"/>
-        <updated>2022-03-22T14:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Wśród ogłoszonych sukcesów Anonymous znajdziemy wycieki listy rosyjskich agentów, kont pracowników rosyjskiego MON czy kodu źródłowego produktów firmy Kaspersky. Przyglądamy się tym incydentom – i sprawdzamy, jak było naprawdę.
-Wojna to czas, w którym prawda umiera najszybciej. Siedząc przed komputerem niestety nie wygonimy najeźdźców z Ukrainy, ale na pewno możemy zrobić dwie rzeczy.… Czytaj dalej 
-The post Czego nie ujawnili Anonymous, czyli historia listy rosyjskich agentów i innych sensacyjnych wycieków first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
