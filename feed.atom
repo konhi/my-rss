@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-22T21:10:25.194Z</updated>
+    <updated>2022-04-22T22:12:10.118Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -466,19 +466,6 @@ https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/
 INFO: autor przez lata korzystał z wielu smart produktów do obsługi inteligentnego…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Szkolenie i wykład z wykrywania dezinformacji dla firm i LIVE osób prywatnych]]></title>
-        <id>https://niebezpiecznik.pl/post/szkolenie-wyklad-z-wykrywania-dezinformacji/</id>
-        <link href="https://niebezpiecznik.pl/post/szkolenie-wyklad-z-wykrywania-dezinformacji/"/>
-        <updated>2022-03-24T09:22:11.000Z</updated>
-        <summary type="html"><![CDATA[W ostatnich tygodniach zrealizowaliśmy dla naszych klientów, w tym również znajomych dziennikarzy, kilka mini-szkoleń i wykładów poświęconych tematowi wykrywania dezinformacji, namierzania troli,...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
