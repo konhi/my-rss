@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-23T18:12:50.615Z</updated>
+    <updated>2022-04-23T19:09:10.157Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -458,26 +458,6 @@ Kilka dni temu opisaliśmy, czego nie ujawnili Anonymous, czyli historię listy 
 The post Co ujawnili Anonymous (i inne grupy), czyli historia prawdziwych wycieków ostatnich tygodni first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 marca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/679678229600174080</id>
-        <link href="https://news.mrugalski.pl/post/679678229600174080"/>
-        <updated>2022-03-25T07:01:10.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Czas na piątkowe zestawienie subiektywnie najciekawszych znalezisk ze swiata IT z ubiegłego tygodnia. Zapraszam do lektury.
-
-Europa Universalis IV za niespełna 5zł
-
-1) Zbuduj własną, kieszonkową chmurę opartą na Raspberry Pi oraz OpenFaaS
-https://blog.alexellis.io/your-pocket-sized-cloud/
-INFO: autor buduję prostą ‘chmurę’ z użyciem narzędzi open source. Ostatecznie powstaje z tego mini serwer obsługiwany przez API, zdatny do uruchamiania skryptów do automatyzacji, zadań crona, czy hostowania stron WWW.
-2) Smart urządzenia - czyli z czego zbudować inteligentny dom? (IKEA Tradfi, Shellby, Philips Hue, HomeMatic, Sonoff itp.)
-https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/
-INFO: autor przez lata korzystał z wielu smart produktów do obsługi inteligentnego…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
