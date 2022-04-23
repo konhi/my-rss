@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-23T22:11:00.614Z</updated>
+    <updated>2022-04-23T23:11:29.916Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -444,18 +444,6 @@ The post Malware analyst, Łukasz Lamparski, gościem Rozmowy Kontrolowanej w ni
         <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury, zawierającego najciekawsze informacje na temat ataków, wycieków, podatności i szkodników, które zaobserwowali ostatnio eksperci. Życzymy udanej lektury.
 W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł pokazujący, jak działa dezinformacja na TikToku (pkt 2), informację o aresztowaniu kilku członków grupy Lapsus$, która zhakowała ostatnio Nvidię i Microsoft (pkt 14) oraz doniesienia o tym, że serwerownia OVH nie była właściwie zabezpieczona przed pożarem (pkt 17).… Czytaj dalej 
 The post Weekendowa Lektura: odcinek 460 [2022-03-26]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Co ujawnili Anonymous (i inne grupy), czyli historia prawdziwych wycieków ostatnich tygodni]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61664</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/co-ujawnili-anonymous-i-inne-grupy-czyli-historia-prawdziwych-wyciekow-ostatnich-tygodni/"/>
-        <updated>2022-03-25T10:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Dane 120 tysięcy rosyjskich żołnierzy biorących udział w inwazji na Ukrainę, dane urzędu cenzorskiego i agencji kosmicznej, atak na systemy kolejowe – to wszystko prawdziwe incydenty, choć nie zawsze rzetelnie opisane w mediach. Uzupełniamy te braki.
-Kilka dni temu opisaliśmy, czego nie ujawnili Anonymous, czyli historię listy rosyjskich agentów i innych sensacyjnych wycieków, których nie było.… Czytaj dalej 
-The post Co ujawnili Anonymous (i inne grupy), czyli historia prawdziwych wycieków ostatnich tygodni first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
         </author>
