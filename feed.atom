@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-24T20:12:18.080Z</updated>
+    <updated>2022-04-24T21:10:00.630Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odcinek 103 –  Threat Hunter, Konrad Kałużny]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62221</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-103-threat-hunter-konrad-kaluzny/"/>
+        <updated>2022-04-24T20:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Gościem sto trzeciegoodcinka podcastu Rozmowa Kontrolowana jest Threat Hunter, Konrad Kałużny. 
+Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
+Podcast jest dostępny:
+w serwisie Spotify
+w serwisie Apple Podcasts
+w serwisie Google Podcasts
+w formie RSS
+jako playlista Youtube
+Odcinek w wersji wideo można obejrzeć poniżej:
+
+
+
+Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
+The post Odcinek 103 –  Threat Hunter, Konrad Kałużny first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Threat Hunter, Konrad Kałużny, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62203</id>
