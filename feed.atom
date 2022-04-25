@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-25T08:15:09.450Z</updated>
+    <updated>2022-04-25T09:12:02.908Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -469,18 +469,6 @@ The post Malware analyst, Łukasz Lamparski, gościem Rozmowy Kontrolowanej w ni
         <summary type="html"><![CDATA[HackerNews most popular stories from Mar 20, 2022 to Mar 27, 2022. In one blog post. [0] Applebee’s exec urges using high gas prices to push lower wages, sparks walkout https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/ [1] Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent https://news.ycombinator.com/item?id=30763464 [2] Hackers claim to have breached … Continue reading HackerNews top stories #102]]></summary>
         <author>
             <name>dmasior</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 460 [2022-03-26]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61666</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-460-2022-03-26-bierzcie-i-czytajcie/"/>
-        <updated>2022-03-26T20:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury, zawierającego najciekawsze informacje na temat ataków, wycieków, podatności i szkodników, które zaobserwowali ostatnio eksperci. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł pokazujący, jak działa dezinformacja na TikToku (pkt 2), informację o aresztowaniu kilku członków grupy Lapsus$, która zhakowała ostatnio Nvidię i Microsoft (pkt 14) oraz doniesienia o tym, że serwerownia OVH nie była właściwie zabezpieczona przed pożarem (pkt 17).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 460 [2022-03-26]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
