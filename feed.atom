@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-28T09:12:57.405Z</updated>
+    <updated>2022-04-28T10:12:57.078Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 rzeczy, które warto ustawić na swoim koncie w banku aby było bezpieczniejsze]]></title>
+        <id>https://niebezpiecznik.pl/post/5-rzeczy-ktore-warto-ustawic-na-swoim-koncie-w-banku-aby-bylo-bezpieczniejsze/</id>
+        <link href="https://niebezpiecznik.pl/post/5-rzeczy-ktore-warto-ustawic-na-swoim-koncie-w-banku-aby-bylo-bezpieczniejsze/"/>
+        <updated>2022-04-28T09:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Kiedy pytamy uczestników naszych szkoleń dla firm i widzów naszych lajwów o bezpieczeństwie, czego obawiają się bardziej — utraty danych czy pieniędzy, większość z nich ma nie lada problem. Ale...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zobacz jak nie dać się zhackować]]></title>
         <id>https://niebezpiecznik.pl/post/jak-nie-dac-sie-zhackowac-2022/</id>
