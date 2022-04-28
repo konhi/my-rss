@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-28T17:16:58.375Z</updated>
+    <updated>2022-04-28T18:14:55.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Czy &#8220;haker nawrócony&#8221; to dobry start do kariery w bezpieczeństwie?]]></title>
+        <id>https://niebezpiecznik.pl/post/czy-haker-nawrocony-to-dobry-start-do-kariery-w-bezpieczenstwie/</id>
+        <link href="https://niebezpiecznik.pl/post/czy-haker-nawrocony-to-dobry-start-do-kariery-w-bezpieczenstwie/"/>
+        <updated>2022-04-28T17:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Czy to prawda, że w branży bezpieczeństwa pracują też ex-hakerzy, czyli tzw. czarne kapelusze, które w przeszłości włamywały się na cudze serwery? Prawda. Czy to oznacza, że warto być takim Black...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 rzeczy, które warto ustawić na swoim koncie w banku aby było bezpieczniejsze]]></title>
         <id>https://niebezpiecznik.pl/post/5-rzeczy-ktore-warto-ustawic-na-swoim-koncie-w-banku-aby-bylo-bezpieczniejsze/</id>
