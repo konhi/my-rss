@@ -353,6 +353,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/682861532554674176",
+          "author": null,
+          "description": "◢ #unknownews ◣\nZapraszam do kolejnego przeglądu subiektywnie najciekawszych znalezisk z branży IT z ostatniego tygodnia.\n\nJurassic World Evolution za niecałe 5zł zamiast 175zł\n\n1) DeepFake audio - wybierz jeden z 1691 głosów z bazy\nhttps://fakeyou.com/\nINFO: Automat do generowania krótkich nagrań z użyciem głosów znanych aktorów, polityków itp. Na wygenerowanie wyników trzeba (w zależności od obciążenia serwisu) poczekać czasami nawet kilkadziesiąt sekund\n2) JavaScript jest dziwny, ale czy Ty rozumiesz jego dziwactwa?\nhttps://jsisweird.com/\nINFO: Odpowiedz na 25 podchwytliwych pytań i sprawdź, czy wiesz jak zachowa się JS w tych sytuacjach. Nie jest to takie proste zadanie, na jakie może wyglądać.\n3) Nauka Dockera z wykorzystaniem Dockera… w Dockerze (DinD)\nhttps://iximiuz.com/en/posts/co…",
+          "link": "https://news.mrugalski.pl/post/682861532554674176",
+          "publishedOn": "2022-04-29T10:18:25.000Z",
+          "wordCount": 1255,
+          "title": "29 kwietnia 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/51f56d0d812e4fca-69/s1280x1920/48604b01c784fed8b96ac6955e1cec1b51132ee4.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/682229260968214528",
           "author": null,
           "description": "◢ #unknownews ◣\nZapraszam do Twojej piątkowej lektury :)\n\nJak od strony technicznej powstaje moje zestawienie?\n\n1) Czystszy kod bez instrukcji ELSE?\nhttps://youtube.com/watch?v=EumXak7TyQ0&feature=share\nINFO: To może brzmieć dość przewrotnie, ale opanowanie sztuki tworzenia warunków logicznych bez instrukcji ELSE może drastycznie wpłynąć na czytelność Twojego kodu. Warto rzucić okiem. Osoby wychowane na zasadzie ‘single return’ mogą mieć problem z tym podejściem.\n2) Elon rozmyśla nad upublicznieniem algorytmu Twittera - jak mogłoby to wyglądać?\nhttps://transitivebullsh.it/oss-twitter-algorithm-part-1\nINFO: Ciekawe rozmyślania na temat pomysłu Elona, jak i na temat działania samego algorytmu. Długa lektura, ale jeśli poważnie traktujesz swoją obecność na Twitterze, to może to być użyteczne\n…",
