@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-29T15:12:22.075Z</updated>
+    <updated>2022-04-29T16:16:26.831Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[„Dlaczego nie działa mi strona”, czyli jak ABW walczy z kremlowską propagandą]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62303</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/"/>
+        <updated>2022-04-29T16:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Niektóre strony nie działają od końca lutego, inne przestały w ostatnich dniach. Rośnie lista witryn, blokowanych przez polskich operatorów internetowych na zlecenie ABW w ramach walki z propagandą szerzoną na rzecz Rosji.
+Każda cenzura internetu budzi duże i zrozumiałe emocje. W Polsce istnieje co najmniej kilka „czarnych list” stron internetowych (a konkretnie domen), które mogą lub muszą być blokowane przez dostawców internetu.… Czytaj dalej 
+The post „Dlaczego nie działa mi strona”, czyli jak ABW walczy z kremlowską propagandą first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na maile od &#8220;FINANSE GOV&#8221; w sprawie zwrotu podatku]]></title>
         <id>https://niebezpiecznik.pl/post/uwaga-na-maile-od-finanse-gov-w-sprawie-zwrotu-podatku/</id>
