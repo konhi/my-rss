@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-29T20:12:49.967Z</updated>
+    <updated>2022-04-29T21:11:04.797Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -491,19 +491,6 @@ INFO: To nie są typowe uczelniane wykłady, to prezentacje z TEDa. Każdy z tyc
         <link href="https://niebezpiecznik.pl/post/programisci-i-programistki-tej-konferencji-it-nie-mozecie-przegapic-mamy-dla-was-znizke-na-bilety/"/>
         <updated>2022-03-31T12:06:38.000Z</updated>
         <summary type="html"><![CDATA[4Developers to największy interdyscyplinarny festiwal technologiczny w Polsce, który zrzesza społeczność IT w jednym miejscu. Doświadczeni eksperci od wielu lat spotykają się co roku, by dzielić się...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Co robią pracownicy, kiedy admini nie patrzą?]]></title>
-        <id>https://niebezpiecznik.pl/post/co-robia-pracownicy-kiedy-admini-nie-patrza/</id>
-        <link href="https://niebezpiecznik.pl/post/co-robia-pracownicy-kiedy-admini-nie-patrza/"/>
-        <updated>2022-03-31T08:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Gdy administratorzy IT są pytani o to, z ilu aplikacji w chmurze korzystają pracownicy w ich organizacji, odpowiadają zazwyczaj, że z około 30, może 40. W rzeczywistości, te liczby są nawet kilka...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
