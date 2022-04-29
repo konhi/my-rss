@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-29T10:11:44.817Z</updated>
+    <updated>2022-04-29T11:10:03.974Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na maile od &#8220;FINANSE GOV&#8221; w sprawie zwrotu podatku]]></title>
+        <id>https://niebezpiecznik.pl/post/uwaga-na-maile-od-finanse-gov-w-sprawie-zwrotu-podatku/</id>
+        <link href="https://niebezpiecznik.pl/post/uwaga-na-maile-od-finanse-gov-w-sprawie-zwrotu-podatku/"/>
+        <updated>2022-04-29T10:34:20.000Z</updated>
+        <summary type="html"><![CDATA[Przestępcy korzystają z tego, że właśnie dobiega ostateczny termin rozliczeń podatkowych. Dziś na skrzynki Polaków trafia taka wiadomość e-mail podszywająca się pod Ministerstwo Finansów:...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Czy &#8220;haker nawrócony&#8221; to dobry start do kariery w bezpieczeństwie?]]></title>
         <id>https://niebezpiecznik.pl/post/czy-haker-nawrocony-to-dobry-start-do-kariery-w-bezpieczenstwie/</id>
