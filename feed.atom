@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-30T20:11:56.726Z</updated>
+    <updated>2022-04-30T21:10:47.238Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -462,26 +462,6 @@ Pierwszy samodzielny webinar – jak to pierwszy?… Czytaj dalej
 The post Wyniki webinaru o dezinformacji – statystyki, moje zarobki i wasze oceny first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 kwietnia 2022]]></title>
-        <id>https://news.mrugalski.pl/post/680320260706058240</id>
-        <link href="https://news.mrugalski.pl/post/680320260706058240"/>
-        <updated>2022-04-01T09:05:59.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Dziś jest pierwszy kwietnia, ale w tym wydaniu zestawienie nie będę próbował Cię trollować. Zapraszam do czytania.
-
-Tylko dziś do północy można kupić kurs “Docker w godzinę” z jedyne 67zł
-
-1) Wszystkie telefony Zełenskiego - prezydenta Ukrainy
-https://www.electrospaces.net/2022/03/the-phones-of-ukrainian-president.html
-INFO: Ciekawy przegląd wszystkich aparatów telefonicznych, jakie udało się uchwycić na zdjęciach prezydenta Ukrainy w jego biurze. Dla mnie najciekawsze jest ten 20+ letni z dziesiątkami przycisków i… ten bez przycisków.
-2) Zbiór 59 wykładów związanych ze światem matematyki - naprawdę ciekawe!
-https://abakcus.com/59-mind-blowing-math-talks-that-can-change-your-perspective-on-life/
-INFO: To nie są typowe uczelniane wykłady, to prezentacje z TEDa. Każdy z tych …]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
