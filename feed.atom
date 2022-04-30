@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-29T23:11:37.926Z</updated>
+    <updated>2022-04-30T01:01:41.236Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -478,19 +478,6 @@ INFO: To nie są typowe uczelniane wykłady, to prezentacje z TEDa. Każdy z tyc
         <link href="https://niebezpiecznik.pl/post/notatki-z-wczorajszego-live-o-dezinformacji-z-uzyciem-osint-u/"/>
         <updated>2022-03-31T16:58:40.000Z</updated>
         <summary type="html"><![CDATA[Krótka informacja. Wczoraj odbył się nasz LIVE webinar poświęcony tematowi dezinformacji. Marcin przez 90 minut pokazywał kilkanaście narzędzi i technik OSINT-owych, które są pomocne w ustalaniu czy...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* Programiści i Programistki! Tej konferencji IT nie możecie przegapić!  Mamy dla Was zniżkę na bilety.]]></title>
-        <id>https://niebezpiecznik.pl/post/programisci-i-programistki-tej-konferencji-it-nie-mozecie-przegapic-mamy-dla-was-znizke-na-bilety/</id>
-        <link href="https://niebezpiecznik.pl/post/programisci-i-programistki-tej-konferencji-it-nie-mozecie-przegapic-mamy-dla-was-znizke-na-bilety/"/>
-        <updated>2022-03-31T12:06:38.000Z</updated>
-        <summary type="html"><![CDATA[4Developers to największy interdyscyplinarny festiwal technologiczny w Polsce, który zrzesza społeczność IT w jednym miejscu. Doświadczeni eksperci od wielu lat spotykają się co roku, by dzielić się...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
