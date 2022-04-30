@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-30T19:09:18.089Z</updated>
+    <updated>2022-04-30T20:11:56.726Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 465 [2022-04-30]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62313</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-465-2022-04-30-bierzcie-i-czytajcie/"/>
+        <updated>2022-04-30T19:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Jeśli nie macie planów na majówkę, to nie martwcie się – nie próżnowaliśmy i zgromadziliśmy dla was sporo ciekawych linków, które możecie teraz przejrzeć. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej nowo powstały kodeks dobrych praktyk w zakresie walki z dezinformacją (pkt 1) oraz informacje dotyczące możliwości zrezygnowania ze śledzących ciasteczek w usługach Google (pkt 9).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 465 [2022-04-30]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[„Dlaczego nie działa mi strona”, czyli jak ABW walczy z kremlowską propagandą]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62303</id>
