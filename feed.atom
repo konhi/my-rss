@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-04-30T04:17:24.299Z</updated>
+    <updated>2022-04-30T05:11:04.990Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -470,19 +470,6 @@ https://abakcus.com/59-mind-blowing-math-talks-that-can-change-your-perspective-
 INFO: To nie są typowe uczelniane wykłady, to prezentacje z TEDa. Każdy z tych …]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notatki z wczorajszego LIVE o dezinformacji z użyciem OSINT-u]]></title>
-        <id>https://niebezpiecznik.pl/post/notatki-z-wczorajszego-live-o-dezinformacji-z-uzyciem-osint-u/</id>
-        <link href="https://niebezpiecznik.pl/post/notatki-z-wczorajszego-live-o-dezinformacji-z-uzyciem-osint-u/"/>
-        <updated>2022-03-31T16:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Krótka informacja. Wczoraj odbył się nasz LIVE webinar poświęcony tematowi dezinformacji. Marcin przez 90 minut pokazywał kilkanaście narzędzi i technik OSINT-owych, które są pomocne w ustalaniu czy...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
