@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-01T07:11:19.958Z</updated>
+    <updated>2022-05-01T08:14:01.898Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pułkownik dr inż. Mariusz Chmielewski gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62318</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/pulkownik-dr-inz-mariusz-chmielewski-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-05-01T08:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Tuż za naszą granicą toczy się dzisiaj wojna, której niemały kawałek odbywa się w sferze cyber. Po dłuższych perturbacjach do naszego programu udało się zaprosić osobę, która o cyber w Wojsku Polskim (ale nie tylko) wie niemało. Poznajcie Mariusza.
+Mariusz Chmielewski jest zastępcą Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni.… Czytaj dalej 
+The post Pułkownik dr inż. Mariusz Chmielewski gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 465 [2022-04-30]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62313</id>
