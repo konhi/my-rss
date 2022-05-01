@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-01T17:14:45.083Z</updated>
+    <updated>2022-05-01T18:13:09.921Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -460,18 +460,6 @@ The post Weekendowa Lektura: odcinek 461 [2022-04-02]. Bierzcie i czytajcie firs
         <summary type="html"><![CDATA[Czy to już setne wydanie naszego programu? Z tej okazji dzisiaj spotkamy się z doświadczonym polskim hakerem, który, choć bezpieczeństwa nigdy nie porzucił, dzisiaj działa w wielu obszarach biznesowych związanych z technologiami IT. Poznajcie Przemka.
 Około roku 2000 jedną z lepiej rozpoznawanych na międzynarodowej scenie IT security osób z Polski był Przemysław Frasunek, znany jako venglin.… Czytaj dalej 
 The post CEO Redge Technologies, Przemysław Frasunek, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyniki webinaru o dezinformacji – statystyki, moje zarobki i wasze oceny]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61799</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/wyniki-webinaru-o-dezinformacji-statystyki-moje-zarobki-i-wasze-oceny/"/>
-        <updated>2022-04-02T05:41:01.000Z</updated>
-        <summary type="html"><![CDATA[To nie jest artykuł o bezpieczeństwie, ale jest to artykuł o zarabianiu na bezpieczeństwie. Ile osób zapisało się na webinar? Ile zdecydowało się zapłacić? Czy uczestnicy byli zadowoleni? Czy ja byłem zadowolony? Wszystkie odpowiedzi znajdziesz poniżej.
-Pierwszy samodzielny webinar – jak to pierwszy?… Czytaj dalej 
-The post Wyniki webinaru o dezinformacji – statystyki, moje zarobki i wasze oceny first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
