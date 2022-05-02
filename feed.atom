@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-02T10:13:38.919Z</updated>
+    <updated>2022-05-02T11:10:26.744Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Czy jesteś w stanie odczytać ten kod wejściowy?]]></title>
+        <id>https://niebezpiecznik.pl/post/czy-jestes-w-stanie-odczytac-ten-kod-wejsciowy/</id>
+        <link href="https://niebezpiecznik.pl/post/czy-jestes-w-stanie-odczytac-ten-kod-wejsciowy/"/>
+        <updated>2022-05-02T10:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Ciekawym zdjęciem podzielił się jeden z użytkowników Twittera. Przypatrzcie się temu zdjęciu dokładnie, a następnie spróbujcie odgadnąć jaki kod odblokowuje drzwi. Odpowiedź znamy, bo osoba która...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podszyli się pod policjantów i wyciągnęli dane użytkowników od Google, Apple, Facebooka, Discorda i Twittera]]></title>
+        <id>https://niebezpiecznik.pl/post/podszyli-sie-pod-policjantow-wyciagneli-dane/</id>
+        <link href="https://niebezpiecznik.pl/post/podszyli-sie-pod-policjantow-wyciagneli-dane/"/>
+        <updated>2022-05-02T10:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Okazuje się, że choć nasze dane na serwerach Apple, Facebooka, Twittera i Google są całkiem nieźle zabezpieczone przed typowymi włamywaczami, to mogą je wyciągnąć przestępcy, którzy...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odcinek 104 –  pułkownik dr inż. Mariusz Chmielewski]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62353</id>
