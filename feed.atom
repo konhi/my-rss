@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-02T16:17:33.858Z</updated>
+    <updated>2022-05-02T17:18:51.711Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* 10 milionów dolarów nagrody za ruskich hakerów]]></title>
+        <id>https://niebezpiecznik.pl/post/10-milionow-dolarow-nagrody-za-ruskich-hakerow/</id>
+        <link href="https://niebezpiecznik.pl/post/10-milionow-dolarow-nagrody-za-ruskich-hakerow/"/>
+        <updated>2022-05-02T17:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Rząd USA właśnie ogłosił sporą nagrodę za informacje na temat 6 Rosjan, którzy wchodzą w skład grupy określanej kryptonimem Sandworm. To kolesie odpowiedzialni za atak m.in. NotPetya (wymierzony w...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Ktoś wyciął Francuzom światłowody]]></title>
         <id>https://niebezpiecznik.pl/post/ktos-wycial-francuzom-swiatlowody/</id>
