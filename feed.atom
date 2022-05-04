@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-04T03:03:22.801Z</updated>
+    <updated>2022-05-04T04:24:51.223Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -452,19 +452,6 @@ Utrata urządzenia pracownika to nie tylko ryzyko dostępu do lokalnych dysków,
 The post Nawet najlepszy administrator nie poradzi sobie bez odpowiednich narzędzi first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>redakcja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numery ksiąg wieczystych znów były widoczne w Geoportalu, ale to był błąd]]></title>
-        <id>https://niebezpiecznik.pl/post/numery-ksiag-wieczystych-znow-byly-widoczne-w-geoportalu-ale-to-byl-blad/</id>
-        <link href="https://niebezpiecznik.pl/post/numery-ksiag-wieczystych-znow-byly-widoczne-w-geoportalu-ale-to-byl-blad/"/>
-        <updated>2022-04-04T15:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Przez co najmniej kilkadziesiąt godzin na Geoportalu można było podejrzeć numery ksiąg wieczystych nieruchomości. A teraz znów zniknęły… Co było tego przyczyną? Czym zakończył się spór urzędów...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
