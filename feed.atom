@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-05T17:19:28.481Z</updated>
+    <updated>2022-05-05T18:13:47.500Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -453,18 +453,6 @@ https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russ
 INFO: Mówiąc krótko, niemal wszystk…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nawet najlepszy administrator nie poradzi sobie bez odpowiednich narzędzi]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61907</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/nawet-najlepszy-administrator-nie-poradzi-sobie-bez-odpowiednich-narzedzi/"/>
-        <updated>2022-04-06T05:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Jeszcze nie tak dawno temu, aby zadbać o bezpieczeństwo informatyczne firmy, wystarczyło odpowiednio zabezpieczyć komputery oraz sieć w siedzibie przedsiębiorstwa. Dziś, gdy dane są w chmurze, wyzwania są inne – i większe.
-Utrata urządzenia pracownika to nie tylko ryzyko dostępu do lokalnych dysków, ale także do danych, których na urządzeniu nie ma – ale są w chmurze, do której użytkownik też ma dostęp.… Czytaj dalej 
-The post Nawet najlepszy administrator nie poradzi sobie bez odpowiednich narzędzi first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>redakcja</name>
         </author>
     </entry>
     <entry>
