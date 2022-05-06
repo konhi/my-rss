@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-06T11:10:13.344Z</updated>
+    <updated>2022-05-06T12:21:12.691Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 maja 2022]]></title>
+        <id>https://news.mrugalski.pl/post/683499066634682368</id>
+        <link href="https://news.mrugalski.pl/post/683499066634682368"/>
+        <updated>2022-05-06T11:11:45.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Tak, to już piątek, a ja spieszę z nowym zestawieniem - zapraszam do lektury.
+
+Zestawy ebooków dla programistów Pythona - od €1 za paczkę
+
+1) Redactle - codzienna gra z ocenzurowanym artykułem (odrobinę w stylu Wordle)
+https://www.redactle.com/
+INFO: Codziennie losowany jest jeden (anglojęzyczny) artykuł z Wikipedii, a automat cenzuruje w nim większość słów. Twoim zadaniem jest odgadnąć, o jaki artykuł chodzi. Wpisuj słowa, jakie Twoim zdaniem zostały wycięte i ‘odbuduj’ ocenzurowany tekst, a przynajmniej domyśl się, o czym on jest. Uwaga: wciąga!
+2) Trzydniowy atak DDoS - 34 miliony requestów. Jak sobie poradzić?
+https://fasterthanli.me/articles/i-won-free-load-testing
+INFO: Ciekawa analiza przebiegu ataku. Wiele osób ukrywa swoje strony za usługą CloudFlare. Tak też robił…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uwaga na SMS-y dotyczące przesyłek]]></title>
         <id>https://niebezpiecznik.pl/post/uwaga-na-sms-y-dotyczace-przesylek/</id>

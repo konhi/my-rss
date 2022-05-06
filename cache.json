@@ -352,6 +352,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/683499066634682368",
+          "author": null,
+          "description": "◢ #unknownews ◣\nTak, to już piątek, a ja spieszę z nowym zestawieniem - zapraszam do lektury.\n\nZestawy ebooków dla programistów Pythona - od €1 za paczkę\n\n1) Redactle - codzienna gra z ocenzurowanym artykułem (odrobinę w stylu Wordle)\nhttps://www.redactle.com/\nINFO: Codziennie losowany jest jeden (anglojęzyczny) artykuł z Wikipedii, a automat cenzuruje w nim większość słów. Twoim zadaniem jest odgadnąć, o jaki artykuł chodzi. Wpisuj słowa, jakie Twoim zdaniem zostały wycięte i ‘odbuduj’ ocenzurowany tekst, a przynajmniej domyśl się, o czym on jest. Uwaga: wciąga!\n2) Trzydniowy atak DDoS - 34 miliony requestów. Jak sobie poradzić?\nhttps://fasterthanli.me/articles/i-won-free-load-testing\nINFO: Ciekawa analiza przebiegu ataku. Wiele osób ukrywa swoje strony za usługą CloudFlare. Tak też robił…",
+          "link": "https://news.mrugalski.pl/post/683499066634682368",
+          "publishedOn": "2022-05-06T11:11:45.000Z",
+          "wordCount": 1188,
+          "title": "6 maja 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/f054150d049218b2-96/s1280x1920/39b8d7400e76b1548c171b0ec373c03c2e485f25.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/682861532554674176",
           "author": null,
           "description": "◢ #unknownews ◣\nZapraszam do kolejnego przeglądu subiektywnie najciekawszych znalezisk z branży IT z ostatniego tygodnia.\n\nJurassic World Evolution za niecałe 5zł zamiast 175zł\n\n1) DeepFake audio - wybierz jeden z 1691 głosów z bazy\nhttps://fakeyou.com/\nINFO: Automat do generowania krótkich nagrań z użyciem głosów znanych aktorów, polityków itp. Na wygenerowanie wyników trzeba (w zależności od obciążenia serwisu) poczekać czasami nawet kilkadziesiąt sekund\n2) JavaScript jest dziwny, ale czy Ty rozumiesz jego dziwactwa?\nhttps://jsisweird.com/\nINFO: Odpowiedz na 25 podchwytliwych pytań i sprawdź, czy wiesz jak zachowa się JS w tych sytuacjach. Nie jest to takie proste zadanie, na jakie może wyglądać.\n3) Nauka Dockera z wykorzystaniem Dockera… w Dockerze (DinD)\nhttps://iximiuz.com/en/posts/co…",
