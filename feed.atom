@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-07T20:12:17.949Z</updated>
+    <updated>2022-05-07T21:10:45.986Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -503,26 +503,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej wyniki dzienni
 The post Weekendowa Lektura: odcinek 462 [2022-04-09]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 kwietnia 2022]]></title>
-        <id>https://news.mrugalski.pl/post/680952057721716736</id>
-        <link href="https://news.mrugalski.pl/post/680952057721716736"/>
-        <updated>2022-04-08T08:28:08.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Jak co piątek, przybywam z nowym zestawieniem ciekawych znalezisk z branży IT. Zapraszam do lektury.
-
-Rzuć okiem na kursy z branży IT dostępne w ramach mojej platformy edukacyjnej
-
-1) Napisanie aplikacji wyświetlającej informacje o albumach i utworach jest proste? Niezupełnie…
-https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html
-INFO: Ciekawy przegląd skrajnych przypadków, z którymi musisz się zmierzyć, projektując taką aplikację. Okazuje się, że nie wszyscy wykonawcy używają alfabetu łacińskiego, a Laughing Mantis już totalnie odleciał :D
-2) Jak wygląda obecnie TikTok oczami rosyjskiego użytkownika? Zobacz sam
-https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522
-INFO: Mówiąc krótko, niemal wszystk…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
