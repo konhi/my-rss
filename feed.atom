@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-07T07:11:09.399Z</updated>
+    <updated>2022-05-07T08:14:29.414Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dziura w rządowym serwisie. Można było pobrać &#8220;dane niejawne&#8221; przedsiębiorców jednoosobowych]]></title>
+        <id>https://niebezpiecznik.pl/post/dziura-w-rzadowym-serwisie-mozna-bylo-pobrac-dane-niejawne-przedsiebiorcow-jednoosobowych/</id>
+        <link href="https://niebezpiecznik.pl/post/dziura-w-rzadowym-serwisie-mozna-bylo-pobrac-dane-niejawne-przedsiebiorcow-jednoosobowych/"/>
+        <updated>2022-05-07T07:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Biznes.gov.pl to rządowy serwis z usługami dla przedsiębiorców. Niestety miał dziurę, która każdemu pozwalała pobrać “dane niejawne” (w tym PESEL) nie tylko związane ze swoją...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 466 [2022-05-06]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62409</id>
