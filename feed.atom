@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-08T08:14:29.207Z</updated>
+    <updated>2022-05-08T09:11:27.405Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Szef zespołu ds. testów penetracyjnych w SC, Krystian Szybis, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62423</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/szef-zespolu-ds-testow-penetracyjnych-w-sc-krystian-szybis-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-05-08T08:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Dzisiaj trudno już sobie wyobrazić dużą instytucję, która nie zleca regularnych testów penetracyjnych albo nie prowadzi ich wewnętrznie. Jak organizuje się takie procesy na dużą skalę? Do tego przydaje się wieloletnie doświadczenie. Poznajcie Krystiana.
+Krystian Szybis od kilkunastu lat pracuje w międzynarodowych bankach w działach bezpieczeństwa.… Czytaj dalej 
+The post Szef zespołu ds. testów penetracyjnych w SC, Krystian Szybis, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dziura w rządowym serwisie. Można było pobrać &#8220;dane niejawne&#8221; przedsiębiorców jednoosobowych]]></title>
         <id>https://niebezpiecznik.pl/post/dziura-w-rzadowym-serwisie-mozna-bylo-pobrac-dane-niejawne-przedsiebiorcow-jednoosobowych/</id>
