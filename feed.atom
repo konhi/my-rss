@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-10T09:12:42.741Z</updated>
+    <updated>2022-05-10T10:13:26.398Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -501,29 +501,6 @@ The post Jakie dane rosyjski Killnet wykradł z serwera polskiej agencji first a
         <summary type="html"><![CDATA[Można mówić na konferencjach, można pisać artykuły, można robić szkolenia, a potem zawsze okazuje się, że ktoś wie lepiej i zrobi po swojemu. Niestety nie inaczej było i tym razem, gdy nieudolnie ukryto wrażliwe informacje w raporcie.
 To będzie krótki artykuł, bo nie ma się za bardzo o czym rozpisywać.… Czytaj dalej 
 The post W raporcie Podkomisji Smoleńskiej dane m.in. niektórych ofiar ukryto w odwracalny sposób first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 101 –  CISO KGHM, Ireneusz Jazownik]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61948</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-101-ciso-kghm-ireneusz-jazownik/"/>
-        <updated>2022-04-10T21:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Gościem sto pierwszego odcinka podcastu Rozmowa Kontrolowana jest CISO KGHM, Ireneusz Jazownik. 
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 101 –  CISO KGHM, Ireneusz Jazownik first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
