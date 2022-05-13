@@ -372,6 +372,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/684113693563289600",
+          "author": null,
+          "description": "Czas na nowe zestawienie ciekawych znalezisk z branży IT - zapraszam do lektury.\n\nTodoist PRO za darmo na 2 miesiące. Przetestuj bez zobowiązań płatną wersję jednej z najlepszych aplikacji do zarządzania listą zadań.\n\n1) Jak zacząć przygodę z self-hostingiem?\nhttps://jaszczur.eu/czym-jest-self-hosting/\nINFO: Hostować się na Raspberry Pi, VPSie, starym komputerze, czy może w chmurze? Jeśli wybierzemy sprzęt uruchomiony w domu, to jak dostać się do niego z internetu? Sporo przemyśleń na temat samodzielnego hostowania aplikacji\n2) Oldest Search - wyszukiwarka zwracająca najstarsze wyniki wyszukiwania dla zadanego hasła\nhttps://www.oldestsearch.com/\nINFO: Można jej używać w celach rozrywkowych, ale może przydać się także do zbadania, kiedy dana nazwa/marka/produkt po raz pierwszy zostały zapre…",
+          "link": "https://news.mrugalski.pl/post/684113693563289600",
+          "publishedOn": "2022-05-13T06:00:59.000Z",
+          "wordCount": 921,
+          "title": "13 maja 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/d86999170e342e2c-b7/s1280x1920/a626a0fa6b4013eac56f9e373619b01413346aef.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/683499066634682368",
           "author": null,
           "description": "◢ #unknownews ◣\nTak, to już piątek, a ja spieszę z nowym zestawieniem - zapraszam do lektury.\n\nZestawy ebooków dla programistów Pythona - od €1 za paczkę\n\n1) Redactle - codzienna gra z ocenzurowanym artykułem (odrobinę w stylu Wordle)\nhttps://www.redactle.com/\nINFO: Codziennie losowany jest jeden (anglojęzyczny) artykuł z Wikipedii, a automat cenzuruje w nim większość słów. Twoim zadaniem jest odgadnąć, o jaki artykuł chodzi. Wpisuj słowa, jakie Twoim zdaniem zostały wycięte i ‘odbuduj’ ocenzurowany tekst, a przynajmniej domyśl się, o czym on jest. Uwaga: wciąga!\n2) Trzydniowy atak DDoS - 34 miliony requestów. Jak sobie poradzić?\nhttps://fasterthanli.me/articles/i-won-free-load-testing\nINFO: Ciekawa analiza przebiegu ataku. Wiele osób ukrywa swoje strony za usługą CloudFlare. Tak też robił…",
