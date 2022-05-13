@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-13T21:10:44.945Z</updated>
+    <updated>2022-05-13T22:11:26.294Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 467 [2022-05-13]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62449</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-467-2022-05-13-bierzcie-i-czytajcie/"/>
+        <updated>2022-05-13T21:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury, w którym nie brakuje zarówno ciekawych wątków technicznych, jak i takich, gdzie znajomość asemblera nie jest wymagana, by zrozumieć intencje autorów. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o wycieku danych 21 mln użytkowników usług GeckoVPN, SuperVPN i ChatVPN (pkt 9) oraz informacje o grzywnie w wysokości 1 mln dolarów, która grozi operatorowi rurociągu Colonial Pipeline, który rok temu padł ofiarą ransomware’u (pkt 14).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 467 [2022-05-13]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprzedawca kursów językowych &#8220;z dotacjami&#8221; zobowiązany do zwrotu pieniędzy i zmiany praktyk]]></title>
         <id>https://niebezpiecznik.pl/post/sprzedawca-kursow-jezykowych-z-dotacjami-zobowiazany-do-zwrotu-pieniedzy-i-zmiany-praktyk/</id>
