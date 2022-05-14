@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-14T20:11:55.735Z</updated>
+    <updated>2022-05-14T21:10:27.299Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -502,27 +502,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej artykuł o tym
 The post Weekendowa Lektura: odcinek 463 [2022-04-15]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 kwietnia 2022]]></title>
-        <id>https://news.mrugalski.pl/post/681587491821731840</id>
-        <link href="https://news.mrugalski.pl/post/681587491821731840"/>
-        <updated>2022-04-15T08:48:05.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Czas na przegląd ciekawych treści z branży IT, na które natrafiłem w ubiegłym tygodniu. Zapraszam do lektury.
-
-Aktualnie trwa promocja świąteczna na Helionie (ogromne zniżki na kilka tysięcy książek)
-Promocja na wirtualne wersje papierowych gier planszowych (już od €1)
-
-1) Powstanie, rozwój i upadek Pebble - czyli historia pewnego smart zegarka
-https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232
-INFO: Dokładnie 10 lat temu, na Kickstarterze pojawił się rewolucyjny, smart-zegarek Pebble. Jak zdobył popularność? jak wyglądał rozrost firmy i co doprowadziło do upadku i w konsekwencji sprzedaży całej firmy? O tym w artykule
-2) Spis zniżek studenckich na usługi online typu SaaS/PaaS/IaaS
-https://github.com/AchoArnold/discount-for-student-dev
-INFO: Jeśli jesteś studentem,…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
