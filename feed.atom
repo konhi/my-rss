@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-16T20:12:58.357Z</updated>
+    <updated>2022-05-16T21:10:59.726Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -488,18 +488,6 @@ Odcinek w wersji wideo można obejrzeć poniżej:
 
 Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
 The post Odcinek 102 –  Enterprise Security Architect, Kamil Bączyk first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprise Security Architect, Kamil Bączyk, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62086</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/enterprise-security-architect-kamil-baczyk-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-04-17T08:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Dla większości z was zaplanowanie bezpieczeństwa swoich urządzeń, a może także małej firmy, nie jest dużym wyzwaniem. Problemy zaczynają się, gdy trzeba to zrobić na skalę dużej firmy. Do takich zadań przyda się już zawodowy architekt. Poznajcie Kamila.
-Wiele osób utożsamia bezpieczeństwo z konkretnymi produktami czy urządzeniami.… Czytaj dalej 
-The post Enterprise Security Architect, Kamil Bączyk, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
