@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-17T14:18:36.060Z</updated>
+    <updated>2022-05-17T15:22:26.986Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* CONFidence 2022 nadchodzi! Czekaliśmy na to dwa lata :) Plus zniżka na bilety]]></title>
+        <id>https://niebezpiecznik.pl/post/confidence-2022-nadchodzi-czekalismy-na-to-dwa-lata-plus-znizka-na-bilety/</id>
+        <link href="https://niebezpiecznik.pl/post/confidence-2022-nadchodzi-czekalismy-na-to-dwa-lata-plus-znizka-na-bilety/"/>
+        <updated>2022-05-17T14:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Już 6 czerwca startuje CONFidence 2022. Nareszcie na żywo! Jeśli tak jak my tęskniliście za dużymi wydarzeniami face2face, to zapraszamy do rejestracji. Organizatorzy, których my lubimy i którzy...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polacy dostają tajemnicze SMS-y o treści &#8220;puk puk&#8221;. Po chińsku]]></title>
         <id>https://niebezpiecznik.pl/post/polacy-dostaja-tajemnicze-sms-y-o-tresci-puk-puk-po-chinsku/</id>
