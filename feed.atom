@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-19T21:10:57.613Z</updated>
+    <updated>2022-05-19T22:11:13.269Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -481,18 +481,6 @@ INFO: Ciekawe rozmyślania na temat pomysłu Elona, jak i na temat działania sa
 …]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak wszystkie polskie media podały dalej fake newsa o włamaniu hakerów do banku]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=61760</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/jak-wszystkie-polskie-media-podaly-dalej-fake-newsa-o-wlamaniu-hakerow-do-banku/"/>
-        <updated>2022-04-20T09:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Kilka tygodni temu polskie media jednym głosem podały sensacyjnego newsa o włamaniu do Centralnego Banku Rosji. Zweryfikowaliśmy wykradzione pliki i trudno o inny wniosek niż taki, że media podały fake newsa bez żadnej weryfikacji.
-Wyciek wrażliwych informacji z Centralnego Banku Rosji ma być jednym z największych sukcesów Anonymous w potyczce z podmiotami, które wspierają reżim Putina.… Czytaj dalej 
-The post Jak wszystkie polskie media podały dalej fake newsa o włamaniu hakerów do banku first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
