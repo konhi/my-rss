@@ -352,6 +352,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/684747873257242624",
+          "author": null,
+          "description": "◢ #unknownews ◣\nTwoja copiątkowa porcja ciekawych treści z branży IT jest już gotowa :)\n\nMateriały do nauki pracy z AWS - od 5zł za paczkę\nEbooki dla Pythonowców\nEbooki dla programistów\n\n\n1) Wszystko, co chciałbyś wiedzieć o Dockerze - od A do Z (prezentacja)\nhttps://container.training/intro-selfpaced.yml.html#1\nINFO: Naprawdę dobrze (i jak prosto!) wytłumaczone wszystkie główne zagadnienia związane z konteneryzacją na przykładzie Dockera. Lektura obowiązkowa dla każdego chcącego możliwie szybko wejść w świat kontenerów. Prezentacja ma tylko jedną wadę… 829 slajdów\n2) Jak czuć się (i być) bardziej zaangażowanym w pracy? - poradnik dla software engineerów\nhttps://jasont.co/ennui/\nINFO: Kilka porad na temat zmiany sposobu myślenia o swojej pracy, karierze i rozwoju zawodowym. Według autora p…",
+          "link": "https://news.mrugalski.pl/post/684747873257242624",
+          "publishedOn": "2022-05-20T06:00:59.000Z",
+          "wordCount": 1070,
+          "title": "20 maja 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/f2439c36c95520c3-dd/s1280x1920/c682c478ced9077f719716513dec412f71c484f5.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/684113693563289600",
           "author": null,
           "description": "Czas na nowe zestawienie ciekawych znalezisk z branży IT - zapraszam do lektury.\n\nTodoist PRO za darmo na 2 miesiące. Przetestuj bez zobowiązań płatną wersję jednej z najlepszych aplikacji do zarządzania listą zadań.\n\n1) Jak zacząć przygodę z self-hostingiem?\nhttps://jaszczur.eu/czym-jest-self-hosting/\nINFO: Hostować się na Raspberry Pi, VPSie, starym komputerze, czy może w chmurze? Jeśli wybierzemy sprzęt uruchomiony w domu, to jak dostać się do niego z internetu? Sporo przemyśleń na temat samodzielnego hostowania aplikacji\n2) Oldest Search - wyszukiwarka zwracająca najstarsze wyniki wyszukiwania dla zadanego hasła\nhttps://www.oldestsearch.com/\nINFO: Można jej używać w celach rozrywkowych, ale może przydać się także do zbadania, kiedy dana nazwa/marka/produkt po raz pierwszy zostały zapre…",
