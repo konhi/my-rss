@@ -401,16 +401,6 @@
           "wordCount": 1255,
           "title": "29 kwietnia 2022",
           "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/51f56d0d812e4fca-69/s1280x1920/48604b01c784fed8b96ac6955e1cec1b51132ee4.png"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/682229260968214528",
-          "author": null,
-          "description": "◢ #unknownews ◣\nZapraszam do Twojej piątkowej lektury :)\n\nJak od strony technicznej powstaje moje zestawienie?\n\n1) Czystszy kod bez instrukcji ELSE?\nhttps://youtube.com/watch?v=EumXak7TyQ0&feature=share\nINFO: To może brzmieć dość przewrotnie, ale opanowanie sztuki tworzenia warunków logicznych bez instrukcji ELSE może drastycznie wpłynąć na czytelność Twojego kodu. Warto rzucić okiem. Osoby wychowane na zasadzie ‘single return’ mogą mieć problem z tym podejściem.\n2) Elon rozmyśla nad upublicznieniem algorytmu Twittera - jak mogłoby to wyglądać?\nhttps://transitivebullsh.it/oss-twitter-algorithm-part-1\nINFO: Ciekawe rozmyślania na temat pomysłu Elona, jak i na temat działania samego algorytmu. Długa lektura, ale jeśli poważnie traktujesz swoją obecność na Twitterze, to może to być użyteczne\n…",
-          "link": "https://news.mrugalski.pl/post/682229260968214528",
-          "publishedOn": "2022-04-22T10:48:44.000Z",
-          "wordCount": 1391,
-          "title": "22 kwietnia 2022",
-          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/408d64706157bc99-28/s1280x1920/94a5be6cd0640eb1bc4239d5e4d6f90cc387eb62.png"
         }
       ]
     },

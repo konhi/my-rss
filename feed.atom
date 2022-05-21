@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-21T22:11:09.052Z</updated>
+    <updated>2022-05-21T23:11:46.630Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -495,27 +495,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej rozmowę przep
 The post Weekendowa Lektura: odcinek 464 [2022-04-23]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 kwietnia 2022]]></title>
-        <id>https://news.mrugalski.pl/post/682229260968214528</id>
-        <link href="https://news.mrugalski.pl/post/682229260968214528"/>
-        <updated>2022-04-22T10:48:44.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Zapraszam do Twojej piątkowej lektury :)
-
-Jak od strony technicznej powstaje moje zestawienie?
-
-1) Czystszy kod bez instrukcji ELSE?
-https://youtube.com/watch?v=EumXak7TyQ0&feature=share
-INFO: To może brzmieć dość przewrotnie, ale opanowanie sztuki tworzenia warunków logicznych bez instrukcji ELSE może drastycznie wpłynąć na czytelność Twojego kodu. Warto rzucić okiem. Osoby wychowane na zasadzie ‘single return’ mogą mieć problem z tym podejściem.
-2) Elon rozmyśla nad upublicznieniem algorytmu Twittera - jak mogłoby to wyglądać?
-https://transitivebullsh.it/oss-twitter-algorithm-part-1
-INFO: Ciekawe rozmyślania na temat pomysłu Elona, jak i na temat działania samego algorytmu. Długa lektura, ale jeśli poważnie traktujesz swoją obecność na Twitterze, to może to być użyteczne
-…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
