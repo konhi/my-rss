@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-22T14:10:54.910Z</updated>
+    <updated>2022-05-22T15:12:44.980Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Regional CSO Huawei, Rafał Jaczyński, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62518</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/regional-cso-huawei-rafal-jaczynski-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-05-22T14:27:05.000Z</updated>
+        <summary type="html"><![CDATA[W naszej branży niektórzy szukają pracy relatywnie spokojnej, bez zbędnych atracji, podczas gdy inni przyjmują oferty stanowisk na pierwszej linii frontu, znajdujące się pod ciągłym ostrzałem medialnym i politycznym. Poznajcie Rafała.
+Rafał Jaczyński zajmuje się bezpieczeństwem w sektorze telekomunikacyjnym już od roku 1997.… Czytaj dalej 
+The post Regional CSO Huawei, Rafał Jaczyński, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 468 [2022-05-21]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62497</id>
