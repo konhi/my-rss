@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-24T01:03:24.555Z</updated>
+    <updated>2022-05-24T03:19:21.056Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -506,18 +506,6 @@ Odcinek w wersji wideo można obejrzeć poniżej:
 
 Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
 The post Odcinek 103 –  Threat Hunter, Konrad Kałużny first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Hunter, Konrad Kałużny, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62203</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/threat-hunter-konrad-kaluzny-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-04-24T13:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Dzisiaj pracować w IT security nie jest trudno, okazji nie brakuje. Trudniej robi się jednak, gdy oprócz pracy próbujecie robić coś jeszcze. Szczególnie doceniamy tych, którzy starają się pomagać innym i dzielić z nimi swoją wiedzą. Poznajcie Konrada.
-Konrad Kałużny kilka lat pracował w banku Santander, gdzie zajmował się inżynierią i monitorowaniem bezpieczeństwa.… Czytaj dalej 
-The post Threat Hunter, Konrad Kałużny, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
