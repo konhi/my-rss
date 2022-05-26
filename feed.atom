@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-26T06:15:19.383Z</updated>
+    <updated>2022-05-26T07:11:29.976Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -455,19 +455,6 @@ https://iximiuz.com/en/posts/co…]]></summary>
         <link href="https://niebezpiecznik.pl/post/5-rzeczy-ktore-warto-ustawic-na-swoim-koncie-w-banku-aby-bylo-bezpieczniejsze/"/>
         <updated>2022-04-28T09:42:14.000Z</updated>
         <summary type="html"><![CDATA[Kiedy pytamy uczestników naszych szkoleń dla firm i widzów naszych lajwów o bezpieczeństwie, czego obawiają się bardziej — utraty danych czy pieniędzy, większość z nich ma nie lada problem. Ale...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zobacz jak nie dać się zhackować]]></title>
-        <id>https://niebezpiecznik.pl/post/jak-nie-dac-sie-zhackowac-2022/</id>
-        <link href="https://niebezpiecznik.pl/post/jak-nie-dac-sie-zhackowac-2022/"/>
-        <updated>2022-04-26T18:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Doczekaliście się :) Wznawiamy cykl naszych widowiskowych wykładów pt. Jak nie dać się zhackować? podczas których na żywo pokazujemy różne cyberataki. I robimy to w nowej, ulepszonej formie. W...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
