@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-27T10:13:36.045Z</updated>
+    <updated>2022-05-27T11:11:24.434Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Weź udział w konferencji Code Europe!]]></title>
+        <id>https://niebezpiecznik.pl/post/wez-udzial-w-konferencji-code-europe/</id>
+        <link href="https://niebezpiecznik.pl/post/wez-udzial-w-konferencji-code-europe/"/>
+        <updated>2022-05-27T10:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Lada chwila odbędzie się kolejna edycja konferencji IT: Code Europe. A raczej edycje. Bo event ma miejsce w 3 lokalizacjach. Zobacz gdzie możesz spotkać (NA ŻYWO!) tak znane postaci branży jak Bjarne...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 maja 2022]]></title>
         <id>https://news.mrugalski.pl/post/685388048029171712</id>
