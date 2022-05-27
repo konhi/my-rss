@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-27T20:13:09.766Z</updated>
+    <updated>2022-05-27T21:11:15.035Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Które wykłady planuję zobaczyć na CONFidence 2022]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62581</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/ktore-wyklady-planuje-zobaczyc-na-confidence-2022/"/>
+        <updated>2022-05-27T20:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Czas „pracy na kamerkach” chwilowo dobiegł końca i możemy znowu się spotykać, przybijać piątki i chodzić na wykłady. Najlepsza ku temu okazja już za tydzień w Krakowie, a ja szykuję się robiąc slajdy i analizując program. Co planuję zobaczyć?
+Poniżej zamieszczam plan zarówno subiektywny, jak i optymistyczny.… Czytaj dalej 
+The post Które wykłady planuję zobaczyć na CONFidence 2022 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Weź udział w konferencji Code Europe!]]></title>
         <id>https://niebezpiecznik.pl/post/wez-udzial-w-konferencji-code-europe/</id>
