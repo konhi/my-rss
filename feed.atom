@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-28T05:11:50.654Z</updated>
+    <updated>2022-05-28T06:14:59.903Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -492,19 +492,6 @@ INFO: Odpowiedz na 25 podchwytliwych pytań i sprawdź, czy wiesz jak zachowa si
 https://iximiuz.com/en/posts/co…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czy &#8220;haker nawrócony&#8221; to dobry start do kariery w bezpieczeństwie?]]></title>
-        <id>https://niebezpiecznik.pl/post/czy-haker-nawrocony-to-dobry-start-do-kariery-w-bezpieczenstwie/</id>
-        <link href="https://niebezpiecznik.pl/post/czy-haker-nawrocony-to-dobry-start-do-kariery-w-bezpieczenstwie/"/>
-        <updated>2022-04-28T17:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Czy to prawda, że w branży bezpieczeństwa pracują też ex-hakerzy, czyli tzw. czarne kapelusze, które w przeszłości włamywały się na cudze serwery? Prawda. Czy to oznacza, że warto być takim Black...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
