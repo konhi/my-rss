@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-31T05:18:11.639Z</updated>
+    <updated>2022-05-31T06:15:34.827Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Poprawka dla Tora i Tailsa]]></title>
+        <id>https://niebezpiecznik.pl/post/poprawka-dla-tora-i-tailsa/</id>
+        <link href="https://niebezpiecznik.pl/post/poprawka-dla-tora-i-tailsa/"/>
+        <updated>2022-05-31T05:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Poważne błędy w przeglądarce Torbrowser i systemie Tails. Warto załatać, jeśli korzystacie. Przeczytaj także: Jeśli korzystasz z TOR-a lub czytasz o Linuksie to jesteś ekstremistą i NSA ma cię na...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Załatajcie sobie Zooma]]></title>
         <id>https://niebezpiecznik.pl/post/zalatajcie-sobie-zooma/</id>
