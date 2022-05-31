@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-05-31T06:15:34.827Z</updated>
+    <updated>2022-05-31T07:12:00.636Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter ukarany. Zapłaci 150 milionów dolarów bo wykorzystał numery telefonów użytkowników do reklam]]></title>
+        <id>https://niebezpiecznik.pl/post/twitter-ukarany-zaplaci-150-milionow-dolarow-bo-wykorzystal-numery-telefonow-uzytkownikow-do-reklam/</id>
+        <link href="https://niebezpiecznik.pl/post/twitter-ukarany-zaplaci-150-milionow-dolarow-bo-wykorzystal-numery-telefonow-uzytkownikow-do-reklam/"/>
+        <updated>2022-05-31T07:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Może kojarzycie, że Twitter prosił Was o numer telefonu. Mówił, że to zwiększy bezpieczeństwo waszego konta. Że w razie czego, odzyskacie tak do niego hasło. Niestety, firma sprzedawała podane przez...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Poprawka dla Tora i Tailsa]]></title>
         <id>https://niebezpiecznik.pl/post/poprawka-dla-tora-i-tailsa/</id>
