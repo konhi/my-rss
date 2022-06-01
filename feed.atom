@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-01T08:18:28.354Z</updated>
+    <updated>2022-06-01T09:13:59.980Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uwaga na SMS-y podszywające się pod InPost]]></title>
+        <id>https://niebezpiecznik.pl/post/uwaga-na-sms-y-podszywajace-sie-pod-inpost-3/</id>
+        <link href="https://niebezpiecznik.pl/post/uwaga-na-sms-y-podszywajace-sie-pod-inpost-3/"/>
+        <updated>2022-06-01T08:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Od kilku dni otrzymujemy od Was coraz więcej zgłoszeń w sprawie kampanii SMS-owej, w ramach której oszuści podszywają się pod InPost. W treści SMS-a znajduje się stary, dobrze znany pretekst...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Tutanota celnie krytuje pomysł Unii Europejskiej dotyczącej skanowania urządzeń w celu ochrony dzieci]]></title>
         <id>https://niebezpiecznik.pl/post/tutanota-celnie-krytuje-pomysl-unii-europejskiej-dotyczacej-skanowania-urzadzen-w-celu-ochrony-dzieci/</id>
