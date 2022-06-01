@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-01T01:07:43.745Z</updated>
+    <updated>2022-06-01T03:58:34.900Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -456,19 +456,6 @@ The post Podstawy Bezpieczeństwa: Jak fake newsy z Ukrainy służą przestępco
         <link href="https://niebezpiecznik.pl/post/10-milionow-dolarow-nagrody-za-ruskich-hakerow/"/>
         <updated>2022-05-02T17:07:41.000Z</updated>
         <summary type="html"><![CDATA[Rząd USA właśnie ogłosił sporą nagrodę za informacje na temat 6 Rosjan, którzy wchodzą w skład grupy określanej kryptonimem Sandworm. To kolesie odpowiedzialni za atak m.in. NotPetya (wymierzony w...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* Ktoś wyciął Francuzom światłowody]]></title>
-        <id>https://niebezpiecznik.pl/post/ktos-wycial-francuzom-swiatlowody/</id>
-        <link href="https://niebezpiecznik.pl/post/ktos-wycial-francuzom-swiatlowody/"/>
-        <updated>2022-05-02T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Ciekawy atak miał miejsce w okolicach Paryża. Ktoś nie tyle przeciął co wyciął kawałki światłowodu. Przecięcie jest łatwo naprawić (“spawając”) światłowód, ale uzupełnienie brakującego...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
