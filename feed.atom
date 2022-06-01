@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-01T03:58:34.900Z</updated>
+    <updated>2022-06-01T05:14:15.386Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -443,19 +443,6 @@ The post Podstawy Bezpieczeństwa: Jak fake newsy z Ukrainy służą przestępco
         <link href="https://niebezpiecznik.pl/post/airtagi-apple-srednio-nadaja-sie-do-sledzenia-kogos-w-czasie-rzeczywistym/"/>
         <updated>2022-05-04T08:07:20.000Z</updated>
         <summary type="html"><![CDATA[Zgubiłem AirTaga. Po ~10 minutach zauważyłem powiadomienie na moim iPhonie: “PLECAK was left behind“. Odpaliłem więc aplikację Find My, zawróciłem i ruszyłem do punktu wskazanego na...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* 10 milionów dolarów nagrody za ruskich hakerów]]></title>
-        <id>https://niebezpiecznik.pl/post/10-milionow-dolarow-nagrody-za-ruskich-hakerow/</id>
-        <link href="https://niebezpiecznik.pl/post/10-milionow-dolarow-nagrody-za-ruskich-hakerow/"/>
-        <updated>2022-05-02T17:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Rząd USA właśnie ogłosił sporą nagrodę za informacje na temat 6 Rosjan, którzy wchodzą w skład grupy określanej kryptonimem Sandworm. To kolesie odpowiedzialni za atak m.in. NotPetya (wymierzony w...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
