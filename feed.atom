@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-01T16:21:12.649Z</updated>
+    <updated>2022-06-01T17:20:44.369Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberbezpieczeństwo dla rodziców. Jak ochronić swoje dzieci przed cyberzagrożeniami?]]></title>
+        <id>https://niebezpiecznik.pl/post/cyberbezpieczenstwo-dla-rodzicow/</id>
+        <link href="https://niebezpiecznik.pl/post/cyberbezpieczenstwo-dla-rodzicow/"/>
+        <updated>2022-06-01T16:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Dzień dziecka to idealny moment, aby zaprosić Was na nasz webinar o tym, jak ochronić swoje dzieci przed internetowym złem. Jeśli jesteś rodzicem i chcesz wiedzieć: Jak skutecznie monitorować to, co...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uwaga na SMS-y podszywające się pod InPost]]></title>
         <id>https://niebezpiecznik.pl/post/uwaga-na-sms-y-podszywajace-sie-pod-inpost-3/</id>
