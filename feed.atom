@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-02T19:09:47.683Z</updated>
+    <updated>2022-06-02T20:12:43.856Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -474,19 +474,6 @@ Aby dotrzeć do 1,5 tys.… Czytaj dalej
 The post Podstawy Bezpieczeństwa: Jak fake newsy z Ukrainy służą przestępcom first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śledziłem kogoś AirTagiem. I w sumie dalej śledzę...]]></title>
-        <id>https://niebezpiecznik.pl/post/airtagi-apple-srednio-nadaja-sie-do-sledzenia-kogos-w-czasie-rzeczywistym/</id>
-        <link href="https://niebezpiecznik.pl/post/airtagi-apple-srednio-nadaja-sie-do-sledzenia-kogos-w-czasie-rzeczywistym/"/>
-        <updated>2022-05-04T08:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Zgubiłem AirTaga. Po ~10 minutach zauważyłem powiadomienie na moim iPhonie: “PLECAK was left behind“. Odpaliłem więc aplikację Find My, zawróciłem i ruszyłem do punktu wskazanego na...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
