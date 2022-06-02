@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-02T15:12:53.507Z</updated>
+    <updated>2022-06-02T16:17:27.825Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aplikacja mobilna dla klientów kawiarni mocno ich szpiegowała]]></title>
+        <id>https://niebezpiecznik.pl/post/aplikacja-mobilna-dla-klientow-sklepu-mocno-ich-szpiegowala/</id>
+        <link href="https://niebezpiecznik.pl/post/aplikacja-mobilna-dla-klientow-sklepu-mocno-ich-szpiegowala/"/>
+        <updated>2022-06-02T15:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Skandal w Kanadzie. Taka ich, powiedzmy, lokalna Żabka/kawiarnia miała aplikację mobilną. Zachęcali klientów do jej pobrania. Bo wiadomo, zniżki. Aplikacji przyjrzał się kanadyjski odpowiednik...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyberbezpieczeństwo dla rodziców. Jak ochronić swoje dzieci przed cyberzagrożeniami?]]></title>
         <id>https://niebezpiecznik.pl/post/cyberbezpieczenstwo-dla-rodzicow/</id>
