@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-04T22:10:20.666Z</updated>
+    <updated>2022-06-04T23:11:16.916Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -507,19 +507,6 @@ https://fasterthanli.me/articles/i-won-free-load-testing
 INFO: Ciekawa analiza przebiegu ataku. Wiele osób ukrywa swoje strony za usługą CloudFlare. Tak też robił…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uwaga na SMS-y dotyczące przesyłek]]></title>
-        <id>https://niebezpiecznik.pl/post/uwaga-na-sms-y-dotyczace-przesylek/</id>
-        <link href="https://niebezpiecznik.pl/post/uwaga-na-sms-y-dotyczace-przesylek/"/>
-        <updated>2022-05-06T10:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Właśnie ruszyła nowa fala ataków, w sprawie której otrzymujemy sporo zgłoszeń. To znów SMS-y dotyczące przesyłki, ale — co ciekawe — tym razem na końcu ataku nie znajduje się fałszywa...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
