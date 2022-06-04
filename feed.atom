@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-04T07:10:47.810Z</updated>
+    <updated>2022-06-04T08:13:09.428Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uwaga na nowe oszustwo &#8220;na ankietę Ministerstwa Finansów&#8221;]]></title>
+        <id>https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-ankiete-ministerstwa-finansow/</id>
+        <link href="https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-ankiete-ministerstwa-finansow/"/>
+        <updated>2022-06-04T07:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Otrzymujemy zgłoszenia o nowej, ciekawej akcji internetowych oszustów. Tym razem podszywają się pod …Ministerstwo Finansów i w dość kreatywny sposób wyłudzają od Was dane, dzięki którym mogą...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nie reagujcie na te e-maile o zaległej płatności]]></title>
         <id>https://niebezpiecznik.pl/post/nie-reagujcie-na-te-e-maile-o-zaleglej-platnosci/</id>
