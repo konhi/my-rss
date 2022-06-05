@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-04T23:11:16.916Z</updated>
+    <updated>2022-06-05T01:01:30.266Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -487,26 +487,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej świeży rapor
 The post Weekendowa Lektura: odcinek 466 [2022-05-06]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 maja 2022]]></title>
-        <id>https://news.mrugalski.pl/post/683499066634682368</id>
-        <link href="https://news.mrugalski.pl/post/683499066634682368"/>
-        <updated>2022-05-06T11:11:45.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Tak, to już piątek, a ja spieszę z nowym zestawieniem - zapraszam do lektury.
-
-Zestawy ebooków dla programistów Pythona - od €1 za paczkę
-
-1) Redactle - codzienna gra z ocenzurowanym artykułem (odrobinę w stylu Wordle)
-https://www.redactle.com/
-INFO: Codziennie losowany jest jeden (anglojęzyczny) artykuł z Wikipedii, a automat cenzuruje w nim większość słów. Twoim zadaniem jest odgadnąć, o jaki artykuł chodzi. Wpisuj słowa, jakie Twoim zdaniem zostały wycięte i ‘odbuduj’ ocenzurowany tekst, a przynajmniej domyśl się, o czym on jest. Uwaga: wciąga!
-2) Trzydniowy atak DDoS - 34 miliony requestów. Jak sobie poradzić?
-https://fasterthanli.me/articles/i-won-free-load-testing
-INFO: Ciekawa analiza przebiegu ataku. Wiele osób ukrywa swoje strony za usługą CloudFlare. Tak też robił…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
