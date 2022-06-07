@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-07T18:13:22.270Z</updated>
+    <updated>2022-06-07T19:14:22.349Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -415,18 +415,6 @@ https://www.oldestsearch.com/
 INFO: Można jej używać w celach rozrywkowych, ale może przydać się także do zbadania, kiedy dana nazwa/marka/produkt po raz pierwszy zostały zapre…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zarządzanie uprawnieniami, hasłami i zdalny dostęp spędzają ci sen z powiek?]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62399</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/zarzadzanie-uprawnieniami-haslami-i-zdalny-dostep-spedzaja-ci-sen-z-powiek/"/>
-        <updated>2022-05-09T06:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Są takie obszary bezpieczeństwa, gdzie problemy obrońców są jednocześnie paliwem dla napastników. Kiedy wy martwicie się, jak opanować zdalne dostępy do systemów i hasła administratorów, przestępcy wykorzystują ten chaos. Jak zmienić tę sytuację?
-Gdy przejrzycie historie incydentów opublikowane w naszym serwisie zapewne zwrócicie uwagę, że lista mniej lub bardziej trywialnych problemów najczęściej wykorzystywanych przez napastników nie jest zbyt długa.… Czytaj dalej 
-The post Zarządzanie uprawnieniami, hasłami i zdalny dostęp spędzają ci sen z powiek? first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>redakcja</name>
         </author>
     </entry>
     <entry>
