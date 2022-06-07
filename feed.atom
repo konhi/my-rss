@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-07T08:19:27.381Z</updated>
+    <updated>2022-06-07T09:11:14.062Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -427,29 +427,6 @@ Gdy przejrzycie historie incydentów opublikowane w naszym serwisie zapewne zwr�
 The post Zarządzanie uprawnieniami, hasłami i zdalny dostęp spędzają ci sen z powiek? first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>redakcja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odcinek 105 –  Szef zespołu ds. testów penetracyjnych w SC, Krystian Szybis]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62429</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/odcinek-105-szef-zespolu-ds-testow-penetracyjnych-w-sc-krystian-szybis/"/>
-        <updated>2022-05-08T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Gościem sto piątego odcinka podcastu Rozmowa Kontrolowana jest Szef zespołu ds. testów penetracyjnych w banku Standard Chartered, Krystian Szybis.
-Odwiedź stronę podcastu pod adresem live.zaufanatrzeciastrona.pl, zapisz się do newslettera i otrzymuj powiadomienia o nowych odcinkach Rozmowy Kontrolowanej.
-Podcast jest dostępny:
-w serwisie Spotify
-w serwisie Apple Podcasts
-w serwisie Google Podcasts
-w formie RSS
-jako playlista Youtube
-Odcinek w wersji wideo można obejrzeć poniżej:
-
-
-
-Wersja audio do odsłuchania jeszcze niżej.… Czytaj dalej 
-The post Odcinek 105 –  Szef zespołu ds. testów penetracyjnych w SC, Krystian Szybis first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
