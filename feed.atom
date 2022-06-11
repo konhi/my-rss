@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-11T17:09:39.318Z</updated>
+    <updated>2022-06-11T18:12:19.637Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -427,25 +427,6 @@ The post Weekendowa Lektura: odcinek 467 [2022-05-13]. Bierzcie i czytajcie firs
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 maja 2022]]></title>
-        <id>https://news.mrugalski.pl/post/684113693563289600</id>
-        <link href="https://news.mrugalski.pl/post/684113693563289600"/>
-        <updated>2022-05-13T06:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Czas na nowe zestawienie ciekawych znalezisk z branży IT - zapraszam do lektury.
-
-Todoist PRO za darmo na 2 miesiące. Przetestuj bez zobowiązań płatną wersję jednej z najlepszych aplikacji do zarządzania listą zadań.
-
-1) Jak zacząć przygodę z self-hostingiem?
-https://jaszczur.eu/czym-jest-self-hosting/
-INFO: Hostować się na Raspberry Pi, VPSie, starym komputerze, czy może w chmurze? Jeśli wybierzemy sprzęt uruchomiony w domu, to jak dostać się do niego z internetu? Sporo przemyśleń na temat samodzielnego hostowania aplikacji
-2) Oldest Search - wyszukiwarka zwracająca najstarsze wyniki wyszukiwania dla zadanego hasła
-https://www.oldestsearch.com/
-INFO: Można jej używać w celach rozrywkowych, ale może przydać się także do zbadania, kiedy dana nazwa/marka/produkt po raz pierwszy zostały zapre…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
