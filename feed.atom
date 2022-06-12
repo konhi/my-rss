@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-12T17:10:05.980Z</updated>
+    <updated>2022-06-12T18:12:32.817Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile Malware Analyst, Łukasz Cepok, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62668</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/mobile-malware-analyst-lukasz-cepok-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
+        <updated>2022-06-12T18:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Złośliwego oprogramowania na desktopy raczej nie widzimy mniej, niż dawniej, za to przybywa nam malware na urządzenia mobilne. Czas porozmawiać o tym zjawisku z kimś, kto patrzy na nie codziennie. Poznajcie Łukasza.
+Łukasz Cepok od lat zajmuje się różnymi aspektami bezpieczeństwa w sektorzy finansowym, ostatnio w banku Santander.… Czytaj dalej 
+The post Mobile Malware Analyst, Łukasz Cepok, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 471 [2022-06-10]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62640</id>
