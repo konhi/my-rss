@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-14T03:45:08.762Z</updated>
+    <updated>2022-06-14T04:43:56.087Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -402,18 +402,6 @@ INFO: Kilka porad na temat zmiany sposobu myślenia o swojej pracy, karierze i r
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Engineer, Dominik „disconnect3d” Czarnota, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62486</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/security-engineer-dominik-disconnect3d-czarnota-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-05-15T16:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Co można robić, by rozwijać się w branży bezpieczeństwa? Można znaleźć ciekawą pracę, można pisać artykuły, można grać w CTFy, można występować na konferencjach. Można też robić to wszystko naraz i jeszcze trochę. Poznajcie Dominika.
-Dominik Czarnota na co dzień pracuje jako inżynier bezpieczeństwa w firmie Trail of Bits.… Czytaj dalej 
-The post Security Engineer, Dominik „disconnect3d” Czarnota, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
