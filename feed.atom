@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-16T00:59:17.483Z</updated>
+    <updated>2022-06-16T03:01:07.492Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -376,19 +376,6 @@ https://jasont.co/ennui/
 INFO: Kilka porad na temat zmiany sposobu myślenia o swojej pracy, karierze i rozwoju zawodowym. Według autora p…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* CONFidence 2022 nadchodzi! Czekaliśmy na to dwa lata :) Plus zniżka na bilety]]></title>
-        <id>https://niebezpiecznik.pl/post/confidence-2022-nadchodzi-czekalismy-na-to-dwa-lata-plus-znizka-na-bilety/</id>
-        <link href="https://niebezpiecznik.pl/post/confidence-2022-nadchodzi-czekalismy-na-to-dwa-lata-plus-znizka-na-bilety/"/>
-        <updated>2022-05-17T14:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Już 6 czerwca startuje CONFidence 2022. Nareszcie na żywo! Jeśli tak jak my tęskniliście za dużymi wydarzeniami face2face, to zapraszamy do rejestracji. Organizatorzy, których my lubimy i którzy...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
