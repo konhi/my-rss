@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-17T21:11:06.521Z</updated>
+    <updated>2022-06-17T22:11:02.409Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 472 [2022-06-17]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62694</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-472-2022-06-17-bierzcie-i-czytajcie/"/>
+        <updated>2022-06-17T21:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Niby nie było w tym tygodniu większych afer, ale linków nagromadziło się całkiem sporo. Mamy nadzieję, że uda się wam z nimi zapoznać przed końcem weekendu. Życzymy udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film Mateusza Chroboka o cenzurze w internecie (pkt 2), informacje o oficjalnym uśmierceniu przeglądarki Internet Explorer (pkt 9) oraz doniesienia o skazaniu złodzieja nagich zdjęć z kont iCloud (pkt 12).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 472 [2022-06-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17 czerwca 2022]]></title>
         <id>https://news.mrugalski.pl/post/687282260491304960</id>
