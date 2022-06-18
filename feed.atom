@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-18T18:13:17.130Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-18T19:09:33.139Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 472 [2022-06-17]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62694</id>
