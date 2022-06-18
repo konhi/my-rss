@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-18T17:10:21.832Z</updated>
+    <updated>2022-06-18T18:13:17.130Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -385,29 +385,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia o 
 The post Weekendowa Lektura: odcinek 468 [2022-05-21]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 maja 2022]]></title>
-        <id>https://news.mrugalski.pl/post/684747873257242624</id>
-        <link href="https://news.mrugalski.pl/post/684747873257242624"/>
-        <updated>2022-05-20T06:00:59.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Twoja copiątkowa porcja ciekawych treści z branży IT jest już gotowa :)
-
-Materiały do nauki pracy z AWS - od 5zł za paczkę
-Ebooki dla Pythonowców
-Ebooki dla programistów
-
-
-1) Wszystko, co chciałbyś wiedzieć o Dockerze - od A do Z (prezentacja)
-https://container.training/intro-selfpaced.yml.html#1
-INFO: Naprawdę dobrze (i jak prosto!) wytłumaczone wszystkie główne zagadnienia związane z konteneryzacją na przykładzie Dockera. Lektura obowiązkowa dla każdego chcącego możliwie szybko wejść w świat kontenerów. Prezentacja ma tylko jedną wadę… 829 slajdów
-2) Jak czuć się (i być) bardziej zaangażowanym w pracy? - poradnik dla software engineerów
-https://jasont.co/ennui/
-INFO: Kilka porad na temat zmiany sposobu myślenia o swojej pracy, karierze i rozwoju zawodowym. Według autora p…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
