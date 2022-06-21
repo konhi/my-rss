@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-21T21:09:56.238Z</updated>
+    <updated>2022-06-21T22:10:29.150Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -349,19 +349,6 @@ Twórcy Androida umieścili „Menedżera uprawnień” wśród ustawień mając
 The post Podstawy Bezpieczeństwa: Jak zadbać o swoją prywatność, używając Androida first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rządowy trojan Predator atakuje Androidy]]></title>
-        <id>https://niebezpiecznik.pl/post/rzadowy-trojan-predator-atakuje-androidy/</id>
-        <link href="https://niebezpiecznik.pl/post/rzadowy-trojan-predator-atakuje-androidy/"/>
-        <updated>2022-05-23T09:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Wszyscy wiedzą, czym jest niesławny Pegasus. Ale tego typu rządowych trojanów jest więcej. Na temat jednego z nich, macedońskiego Predatora, wypowiedział się zespół bezpieczeństwa Google. Powodem...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
