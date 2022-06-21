@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-21T19:08:32.375Z</updated>
+    <updated>2022-06-21T20:12:22.901Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -362,18 +362,6 @@ The post Podstawy Bezpieczeństwa: Jak zadbać o swoją prywatność, używając
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABW ocenzurowało stronę publikującą emaile rządu ze skrzynki pocztowej ministra Dworczyka]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62527</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/abw-ocenzurowalo-strone-publikujaca-emaile-rzadu-ze-skrzynki-pocztowej-ministra-dworczyka/"/>
-        <updated>2022-05-23T07:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Agencja Bezpieczeństwa Wewnętrznego zleciła polskim operatorom telekomunikacyjnym zablokowanie strony poufnarozmowa.com, powołując się na zagrożenie dla obronności, bezpieczeństwa państwa i porządku publicznego. Skąd ten dziwny ruch?
-Prawie dokładnie rok temu, na początku czerwca 2021 do sieci zaczęły trafiać emaile, wymieniane przez członków polskiego rządu i ich współpracowników, wykradzione ze skrzynki ministra Dworczyka, który dał się złapać na phishing białoruskich (lub rosyjskich) szpiegów.… Czytaj dalej 
-The post ABW ocenzurowało stronę publikującą emaile rządu ze skrzynki pocztowej ministra Dworczyka first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
