@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-22T05:15:51.316Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:14:01.740Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.15.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
+        <updated>2022-06-22T06:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.15.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
