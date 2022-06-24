@@ -255,6 +255,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/687932455106314240",
+          "author": null,
+          "description": "◢ #unknownews ◣\nTwoje copiątkowa lektura jest już gotowa - zapraszam do czytania :)\n\nW poniedziałek, 27 czerwca ruszam ze sprzedażą kursu debugowania problemów na Linuksie. Zapisz się na listę oczekujących, aby otrzymać powiadomienie o starcie sprzedaży.\n\n1) IDEA - graficzna metoda prezentacji algorytmów w stylu IKEA :)\nhttps://idea-instructions.com/\nINFO: Popularne algorytmy zostały zaprezentowane bez użycia słów, a jedynie z wykorzystaniem grafik stylizowanych na tych, które znamy z instrukcji sklepów IKEA. Urzekły mnie nazwy algorytmów w stylu KVICK SÖRT ;)\n2) Siedem nieefektywnych nawyków programistów - prelekcja (film, 55 minut)\nhttps://www.youtube.com/watch?v=SUIUZ09mnwM\nINFO: Autor pokazuje nawyki programistów, które prowadzą do nadmiernego skomplikowania kodu i powodują, że kod jes…",
+          "link": "https://news.mrugalski.pl/post/687932455106314240",
+          "publishedOn": "2022-06-24T09:38:33.000Z",
+          "wordCount": 2063,
+          "title": "24 czerwca 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/54b1b66af707f2ed-6d/s1280x1920/3826c450adc4a5612a805cfa3d44bf6a296572db.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/687282260491304960",
           "author": null,
           "description": "◢ #unknownews ◣\nWitam w piątkowy poranek i zapraszam do lektury najnowszego zestawienia :)\n\nJuż tylko do niedzieli można kupić kurs wideo “Ansible w godzinę” za 67zł zamiast 97zł. Promocja kończy się o północy.\n\n1) “Wsadziliśmy pół miliona plików do jednego repozytorium GITa” - Canva\nhttps://scribe.rip/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181\nINFO: Inżynierowie z Canvy opisują swoją pracę ze swoim wielkim monorepo. Dzielą się także naukami, jakie wyciągnęli z pracy z tak wielkim repozytorium kodu.\n2) Czy to koniec developmentu na localhoście?\nhttps://dx.tips/the-end-of-localhost?source=newsletter\nINFO: Ciekawa koncepcja świata, w którym większość developmentu odbywa się w chmurze, a nie na lokalnym komputerze. Pytanie tylko, czy jest to wizja nie…",
