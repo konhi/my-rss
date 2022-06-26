@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-26T08:13:10.054Z</updated>
+    <updated>2022-06-26T09:10:22.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -331,18 +331,6 @@ The post Weekendowa Lektura: odcinek 469 [2022-05-28]. Bierzcie i czytajcie firs
         <summary type="html"><![CDATA[Często zauważamy, że doświadczenia zawodowe mają duży wpływ na naszą obecną sytuację i pozycję. Co zatem powiedzieć o człowieku, który w życiorysie wpisał już 30 różnych stanowisk, chociaż do emerytury ma daleko? Poznajcie Tomasza.
 Choć zaczynał między innymi jako trener żeglarstwa, to skręcił w stronę IT i tak mu już zostało.… Czytaj dalej 
 The post Security Manager, Tomasz Wodziński, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Które wykłady planuję zobaczyć na CONFidence 2022]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62581</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/ktore-wyklady-planuje-zobaczyc-na-confidence-2022/"/>
-        <updated>2022-05-27T20:46:33.000Z</updated>
-        <summary type="html"><![CDATA[Czas „pracy na kamerkach” chwilowo dobiegł końca i możemy znowu się spotykać, przybijać piątki i chodzić na wykłady. Najlepsza ku temu okazja już za tydzień w Krakowie, a ja szykuję się robiąc slajdy i analizując program. Co planuję zobaczyć?
-Poniżej zamieszczam plan zarówno subiektywny, jak i optymistyczny.… Czytaj dalej 
-The post Które wykłady planuję zobaczyć na CONFidence 2022 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
         </author>
