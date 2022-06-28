@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-28T05:21:19.210Z</updated>
+    <updated>2022-06-28T06:15:03.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatyczne omijanie CAPTCHA na iPhonach i Macach]]></title>
+        <id>https://niebezpiecznik.pl/post/automatyczne-omijanie-captcha-na-iphonach-i-macach/</id>
+        <link href="https://niebezpiecznik.pl/post/automatyczne-omijanie-captcha-na-iphonach-i-macach/"/>
+        <updated>2022-06-28T05:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Zbliża się premiera systemów iOS 16 i macOS Ventura. Wraz z ich upublicznieniem, posiadacze smartfonów i komputerów od Apple nie będą musieli rozwiązywać części testów CAPTCHA. Wszystko dzięki...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ktoś nabrał europejskich polityków. Deepfake Witalija Kłyczki w akcji?]]></title>
         <id>https://niebezpiecznik.pl/post/ktos-nabral-europejskich-politykow-deepfake-witalija-klyczki-w-akcji/</id>
