@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-28T23:10:57.537Z</updated>
+    <updated>2022-06-29T01:01:13.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -304,32 +304,6 @@ INFO: “Ten meeting jest bez sensu!”, “Czy Ty w ogóle …]]></summary>
         <link href="https://niebezpiecznik.pl/post/poprawka-dla-tora-i-tailsa/"/>
         <updated>2022-05-31T05:57:40.000Z</updated>
         <summary type="html"><![CDATA[Poważne błędy w przeglądarce Torbrowser i systemie Tails. Warto załatać, jeśli korzystacie. Przeczytaj także: Jeśli korzystasz z TOR-a lub czytasz o Linuksie to jesteś ekstremistą i NSA ma cię na...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* Załatajcie sobie Zooma]]></title>
-        <id>https://niebezpiecznik.pl/post/zalatajcie-sobie-zooma/</id>
-        <link href="https://niebezpiecznik.pl/post/zalatajcie-sobie-zooma/"/>
-        <updated>2022-05-30T11:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Udostępniono istotne poprawki bezpieczeństwa dla aplikacji Zoom. Niestety, nie wszystkim udało się je automatycznie pobrać i wgrać. Upewnijcie się, że macie najnowszą wersję Zooma, bo błędy, które te...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* Wyciek danych z chińskich więzień politycznych]]></title>
-        <id>https://niebezpiecznik.pl/post/wyciek-danych-z-chinskich-wiezien-politycznych/</id>
-        <link href="https://niebezpiecznik.pl/post/wyciek-danych-z-chinskich-wiezien-politycznych/"/>
-        <updated>2022-05-30T11:40:07.000Z</updated>
-        <summary type="html"><![CDATA[Ktoś wykradł chińskiej policji materiały na temat więźniów politycznych przebywających w tzw. “obozach re-edukacyjnych”, Ujgurów. I przekazał to do BBC. Są też prezentacje policyjne,...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
