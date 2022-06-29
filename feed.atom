@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-29T18:17:32.322Z</updated>
+    <updated>2022-06-29T19:09:04.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -278,19 +278,6 @@ INFO: “Ten meeting jest bez sensu!”, “Czy Ty w ogóle …]]></summary>
         <link href="https://niebezpiecznik.pl/post/tutanota-celnie-krytuje-pomysl-unii-europejskiej-dotyczacej-skanowania-urzadzen-w-celu-ochrony-dzieci/"/>
         <updated>2022-05-31T12:27:02.000Z</updated>
         <summary type="html"><![CDATA[Chodzi o temat CSAM scanningu, czyli coś, co wałkowaliśmy na Niebezpieczniku na przykładzie innej groźnej decyzji, ale nie Komisji Europejskiej a Apple. Tutanota tłumaczy w swoim wpisie, dlaczego...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter ukarany. Zapłaci 150 milionów dolarów bo wykorzystał numery telefonów użytkowników do reklam]]></title>
-        <id>https://niebezpiecznik.pl/post/twitter-ukarany-zaplaci-150-milionow-dolarow-bo-wykorzystal-numery-telefonow-uzytkownikow-do-reklam/</id>
-        <link href="https://niebezpiecznik.pl/post/twitter-ukarany-zaplaci-150-milionow-dolarow-bo-wykorzystal-numery-telefonow-uzytkownikow-do-reklam/"/>
-        <updated>2022-05-31T07:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Może kojarzycie, że Twitter prosił Was o numer telefonu. Mówił, że to zwiększy bezpieczeństwo waszego konta. Że w razie czego, odzyskacie tak do niego hasło. Niestety, firma sprzedawała podane przez...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
