@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-06-30T14:10:00.112Z</updated>
+    <updated>2022-06-30T15:12:24.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zostań certyfikowanym specjalistą Microsoft i zdobądź darmowy voucher na egzamin]]></title>
+        <id>https://niebezpiecznik.pl/post/zostan-certyfikowanym-specjalista-microsoft-i-zdobadz-darmowy-voucher-na-egzamin/</id>
+        <link href="https://niebezpiecznik.pl/post/zostan-certyfikowanym-specjalista-microsoft-i-zdobadz-darmowy-voucher-na-egzamin/"/>
+        <updated>2022-06-30T14:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Wiedza i umiejętności związane z wykorzystaniem potencjału chmury obliczeniowej, tworzeniem i zarządzaniem bazami danych oraz ich analizą, marketingiem cyfrowym oraz bezpieczeństwem przetwarzania i...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#x1f6a8; Ostatnia szansa na WIECZYSTY DOSTĘP do obecnych i przyszłych lekcji naszego kursu z OSINT]]></title>
         <id>https://niebezpiecznik.pl/post/ostatnia-szansa-na-wieczysty-dostep-do-obecnych-i-przyszlych-lekcji-naszego-kursu-z-osint/</id>
