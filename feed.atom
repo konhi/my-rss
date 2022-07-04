@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-04T07:10:48.642Z</updated>
+    <updated>2022-07-04T08:14:41.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Policja może Cię namierzyć po szumie sensora twojego aparatu]]></title>
+        <id>https://niebezpiecznik.pl/post/policja-moze-cie-namierzyc-po-szumie-sensora-twojego-aparatu/</id>
+        <link href="https://niebezpiecznik.pl/post/policja-moze-cie-namierzyc-po-szumie-sensora-twojego-aparatu/"/>
+        <updated>2022-07-04T07:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Analiza szumu na zdjęciu lub nagraniu wideo to znane od lat zagadnienie. Warto jednak odnotować, że badacze z Uniwersytetu w Groningen zaprezentowali właśnie system, który ten szum lepiej wyodrębnia...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ekspert Cyberbezpieczeństwa, Maciej Pyznar, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62833</id>
