@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-05T08:14:56.950Z</updated>
+    <updated>2022-07-05T09:11:26.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zapraszamy na BEZPŁATNY webinar z OSINT-u!]]></title>
+        <id>https://niebezpiecznik.pl/post/zapraszamy-na-bezplatny-webinar-z-osint-u/</id>
+        <link href="https://niebezpiecznik.pl/post/zapraszamy-na-bezplatny-webinar-z-osint-u/"/>
+        <updated>2022-07-05T08:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy Was na bezpłatny, webinar z OSINT-u. Tym razem będzie to krótki pokaz tego, jak można ustalić czyjeś dane na podstawie samego numeru telefonu. Webinar odbędzie się w środę 6 lipca o...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Ciekawy raport: ocena cyberbezpieczeństwa kraju]]></title>
         <id>https://niebezpiecznik.pl/post/ciekawy-raport-ocena-cyberbezpieczenstwa-kraju/</id>
