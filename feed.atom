@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-05T07:10:59.743Z</updated>
+    <updated>2022-07-05T08:14:56.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Ciekawy raport: ocena cyberbezpieczeństwa kraju]]></title>
+        <id>https://niebezpiecznik.pl/post/ciekawy-raport-ocena-cyberbezpieczenstwa-kraju/</id>
+        <link href="https://niebezpiecznik.pl/post/ciekawy-raport-ocena-cyberbezpieczenstwa-kraju/"/>
+        <updated>2022-07-05T07:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Poland? Nie, Holland! Niestety, raport nie jest autorstwa naszego kraju, a Holandii, a dokładniej holenderskiego, narodowego koordynatora ds. bezpieczeństwa i kontrterroryzmu. Ale mamy nadzieję, że...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pracownik platformy bug bounty podglądał i kradł zgłoszenia błędów. Zarabiał na nich na boku&#8230;]]></title>
+        <id>https://niebezpiecznik.pl/post/pracownik-platformy-bug-bounty-podgladal-i-kradl-zgloszenia-bledow-zarabial-na-nich-na-boku/</id>
+        <link href="https://niebezpiecznik.pl/post/pracownik-platformy-bug-bounty-podgladal-i-kradl-zgloszenia-bledow-zarabial-na-nich-na-boku/"/>
+        <updated>2022-07-05T07:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Hackerone to jedna z platform Bug Bounty, przy pomocy której różne firmy zachęcają pentesterów do atakowania swoich systemów i szukania w nich dziur, oferując w zamian pieniądze. Jeden z pracowników...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Chiny tworzą własny system operacyjny]]></title>
         <id>https://niebezpiecznik.pl/post/chiny-tworza-wlasny-system-operacyjny/</id>
