@@ -33,6 +33,16 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "https://niebezpiecznik.pl/post/cyber-zwodzenie-na-przykladzie-wojska/",
+          "author": null,
+          "description": "Ciekawy artykuł o tym, jak “deception” (ciężko o dobry polski odpowiednik tego słowa) może być — i od dawna jest! — wykorzystywane w domenie cyber. Tekst tylko po części...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
+          "link": "https://niebezpiecznik.pl/post/cyber-zwodzenie-na-przykladzie-wojska/",
+          "publishedOn": "2022-07-06T06:35:13.000Z",
+          "wordCount": 1377,
+          "title": "* Cyber-zwodzenie na przykładzie wojska",
+          "imageUrl": "//niebezpiecznik.pl/nbzp-logo.png"
+        },
+        {
           "id": "https://niebezpiecznik.pl/post/zapraszamy-na-bezplatny-webinar-z-osint-u/",
           "author": null,
           "description": "Zapraszamy Was na bezpłatny, webinar z OSINT-u. Tym razem będzie to krótki pokaz tego, jak można ustalić czyjeś dane na podstawie samego numeru telefonu. Webinar odbędzie się w środę 6 lipca o...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
