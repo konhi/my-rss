@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-07T14:11:30.655Z</updated>
+    <updated>2022-07-07T15:12:12.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ktoś wysyła chrześcijański spam i prosi o odpisanie &#8220;JEZU UFAM TOBIE&#8221;]]></title>
+        <id>https://niebezpiecznik.pl/post/ktos-wysyla-chrzescijanski-spam-i-prosi-o-odpisanie-jezu-ufam-tobie/</id>
+        <link href="https://niebezpiecznik.pl/post/ktos-wysyla-chrzescijanski-spam-i-prosi-o-odpisanie-jezu-ufam-tobie/"/>
+        <updated>2022-07-07T14:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Od tygodnia różni Czytelnicy i Czytelniczki zgłaszają nam, że otrzymują SMS-y o takiej treści: Dziękujemy za aktywację naszej usługi “chrześcijański cytat na każdy wieczór”. Koszt usługi...
+
+
+### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na fałszywe e-maile od &#8220;Netflix&#8221;]]></title>
         <id>https://niebezpiecznik.pl/post/uwaga-na-falszywe-e-maile-od-netflix/</id>
