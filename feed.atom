@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-09T17:11:06.561Z</updated>
+    <updated>2022-07-09T18:12:51.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -450,25 +450,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej obszerny mater
 The post Weekendowa Lektura: odcinek 471 [2022-06-10]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 czerwca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/686649494886137856</id>
-        <link href="https://news.mrugalski.pl/post/686649494886137856"/>
-        <updated>2022-06-10T05:46:27.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Zapraszam do lektury najnowszego zestawienia ciekawych subiektywnie najciekawszych materiałów z branży IT, na które natrafiłem w ubiegłym tygodniu.
-
-W poniedziałek, 13 czerwca rusza sprzedaż kursu “Ansible w godzinę”. Zapisz się na listę zainteresowanych kursem.
-
-1) Wyobraź sobie, że cały Twój sprzęt spłonął…
-https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/
-INFO: Laptop i smartfon przepadły w ogniu. Z dysku z backupami pozostał tylko pył. Twój YubiKey to teraz stopiona, plastikowa kulka. Straciłeś całe swoje cyfrowe życie. Brzmi strasznie? To przeczytaj, co spotkało autora tego artykułu. Warto uwzględnić taki scenariusz w swoich planach awaryjnych
-2) Lista 7 ‘prawd’ w które wierzyłem jako Junior Developer
-https://monicalent.com/blog/2019/06/03/abso…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
