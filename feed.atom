@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-16T17:11:14.021Z</updated>
+    <updated>2022-07-16T18:13:27.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -472,26 +472,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film Mateusza 
 The post Weekendowa Lektura: odcinek 472 [2022-06-17]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 czerwca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/687282260491304960</id>
-        <link href="https://news.mrugalski.pl/post/687282260491304960"/>
-        <updated>2022-06-17T05:23:59.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Witam w piątkowy poranek i zapraszam do lektury najnowszego zestawienia :)
-
-Już tylko do niedzieli można kupić kurs wideo “Ansible w godzinę” za 67zł zamiast 97zł. Promocja kończy się o północy.
-
-1) “Wsadziliśmy pół miliona plików do jednego repozytorium GITa” - Canva
-https://scribe.rip/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181
-INFO: Inżynierowie z Canvy opisują swoją pracę ze swoim wielkim monorepo. Dzielą się także naukami, jakie wyciągnęli z pracy z tak wielkim repozytorium kodu.
-2) Czy to koniec developmentu na localhoście?
-https://dx.tips/the-end-of-localhost?source=newsletter
-INFO: Ciekawa koncepcja świata, w którym większość developmentu odbywa się w chmurze, a nie na lokalnym komputerze. Pytanie tylko, czy jest to wizja nie…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>

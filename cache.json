@@ -382,16 +382,6 @@
           "wordCount": 2063,
           "title": "24 czerwca 2022",
           "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/54b1b66af707f2ed-6d/s1280x1920/3826c450adc4a5612a805cfa3d44bf6a296572db.png"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/687282260491304960",
-          "author": null,
-          "description": "◢ #unknownews ◣\nWitam w piątkowy poranek i zapraszam do lektury najnowszego zestawienia :)\n\nJuż tylko do niedzieli można kupić kurs wideo “Ansible w godzinę” za 67zł zamiast 97zł. Promocja kończy się o północy.\n\n1) “Wsadziliśmy pół miliona plików do jednego repozytorium GITa” - Canva\nhttps://scribe.rip/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181\nINFO: Inżynierowie z Canvy opisują swoją pracę ze swoim wielkim monorepo. Dzielą się także naukami, jakie wyciągnęli z pracy z tak wielkim repozytorium kodu.\n2) Czy to koniec developmentu na localhoście?\nhttps://dx.tips/the-end-of-localhost?source=newsletter\nINFO: Ciekawa koncepcja świata, w którym większość developmentu odbywa się w chmurze, a nie na lokalnym komputerze. Pytanie tylko, czy jest to wizja nie…",
-          "link": "https://news.mrugalski.pl/post/687282260491304960",
-          "publishedOn": "2022-06-17T05:23:59.000Z",
-          "wordCount": 1069,
-          "title": "17 czerwca 2022",
-          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/91d41dcf3562fb8b-bd/s1280x1920/c8c11c110fb7cf6a553e9a5b71a494f6f02da1f5.png"
         }
       ]
     },
