@@ -14,16 +14,6 @@
           "wordCount": 263,
           "title": "v1.15.1",
           "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "author": null,
-          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
-          "publishedOn": "2022-06-18T19:01:33.000Z",
-          "wordCount": 280,
-          "title": "v1.15.0",
-          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
         }
       ]
     },
