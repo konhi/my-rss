@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-21T17:15:46.544Z</updated>
+    <updated>2022-07-21T18:14:42.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -447,16 +447,6 @@ https://www.youtube.com/watch?v=SUIUZ09mnwM
 INFO: Autor pokazuje nawyki programistów, które prowadzą do nadmiernego skomplikowania kodu i powodują, że kod jes…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.15.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
-        <updated>2022-06-22T06:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
     <entry>
