@@ -322,6 +322,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/690458427646951424",
+          "author": null,
+          "description": "◢ #unknownews ◣\n\nJestem na urlopie, ale udało mi się przygotować nowe zestawienie ciekawych treści z branży IT. Zapraszam do lektury.\n1) Kilka tysięcy polskich filmów dostępnych legalnie, bez reklam i bez opłat\nhttps://35mm.online/?t=192527856\nINFO: Polskie filmy fabularne, dokumentalne, kroniki filmowe, filmy animowane oraz materiały dla dzieci. Większość to stare produkcje, ale myślę, że każdy znajdzie tam coś dla siebie (Seksmisja, Vabank, Sami Swoi itp).\n2) Jak hackerzy używają publicznego Prometheusa do przejmowania klastrów Kubernetesa\nhttps://sysdig.com/blog/exposed-prometheus-exploit-kubernetes-kubeconeu/\nINFO: Do czego może doprowadzić wystawianie metryk Prometheusa na świat? Użyteczna (zwłaszcza dla pentesterów) wiedza zarówno w formie filmu (22 minuty) jak i opisu tekstowego.\n3)…",
+          "link": "https://news.mrugalski.pl/post/690458427646951424",
+          "publishedOn": "2022-07-22T06:47:48.000Z",
+          "wordCount": 1793,
+          "title": "22 lipca 2022",
+          "imageUrl": "https://64.media.tumblr.com/d530a3de7162cad7c96f92a93f21faed/d281eca3fc8719ae-a0/s1280x1920/4732fd2f42883484e762cebc5db4bd5781f01963.jpg"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/689832378398556160",
           "author": null,
           "description": "◢ #unknownews ◣\nZapraszam do lektury kolejnego wydania mojego subiektywnego przeglądu najciekawszych znalezisk technologicznych z ostatniego tygodnia :)\n\nEbooki dla frontend developerów - od €1 za paczkę\nZapisz się na listę oczekujących na szkolenie z debugowania problemów na linuksie\n\n1) Historia interfejsów użytkownika z lat 1973-2007\nhttps://history.user-interface.io/\nINFO: Jak zmieniał się UI/UX systemów operacyjnych na przestrzeni lat? Warto szczególnie rzucić okiem na interfejsy powstałe przed Windows 95, który jakby nie patrzeć, wizualnie mocno odmienił rynek systemów.\n2) Architektura systemu w Spotify - jak to wygląda?\nhttps://scribe.rip/geekculture/spotify-system-architecture-6bb418db6084\nINFO: Ten artykuł nie tłumaczy zastosowanych rozwiązań technologicznych. Przedstawia za z jak…",
