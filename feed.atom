@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-23T21:10:23.781Z</updated>
+    <updated>2022-07-23T22:10:42.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -458,26 +458,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej film o tym, ja
 The post Weekendowa Lektura: odcinek 473 [2022-06-24]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 czerwca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/687932455106314240</id>
-        <link href="https://news.mrugalski.pl/post/687932455106314240"/>
-        <updated>2022-06-24T09:38:33.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Twoje copiątkowa lektura jest już gotowa - zapraszam do czytania :)
-
-W poniedziałek, 27 czerwca ruszam ze sprzedażą kursu debugowania problemów na Linuksie. Zapisz się na listę oczekujących, aby otrzymać powiadomienie o starcie sprzedaży.
-
-1) IDEA - graficzna metoda prezentacji algorytmów w stylu IKEA :)
-https://idea-instructions.com/
-INFO: Popularne algorytmy zostały zaprezentowane bez użycia słów, a jedynie z wykorzystaniem grafik stylizowanych na tych, które znamy z instrukcji sklepów IKEA. Urzekły mnie nazwy algorytmów w stylu KVICK SÖRT ;)
-2) Siedem nieefektywnych nawyków programistów - prelekcja (film, 55 minut)
-https://www.youtube.com/watch?v=SUIUZ09mnwM
-INFO: Autor pokazuje nawyki programistów, które prowadzą do nadmiernego skomplikowania kodu i powodują, że kod jes…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
