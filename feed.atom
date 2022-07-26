@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-26T22:11:08.038Z</updated>
+    <updated>2022-07-26T23:11:06.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -428,19 +428,6 @@ INFO: Programista postanowił stworzyć grę w stylu space invaders w Pythonie, 
         <link href="https://niebezpiecznik.pl/post/automatyczne-omijanie-captcha-na-iphonach-i-macach/"/>
         <updated>2022-06-28T05:33:39.000Z</updated>
         <summary type="html"><![CDATA[Zbliża się premiera systemów iOS 16 i macOS Ventura. Wraz z ich upublicznieniem, posiadacze smartfonów i komputerów od Apple nie będą musieli rozwiązywać części testów CAPTCHA. Wszystko dzięki...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ktoś nabrał europejskich polityków. Deepfake Witalija Kłyczki w akcji?]]></title>
-        <id>https://niebezpiecznik.pl/post/ktos-nabral-europejskich-politykow-deepfake-witalija-klyczki-w-akcji/</id>
-        <link href="https://niebezpiecznik.pl/post/ktos-nabral-europejskich-politykow-deepfake-witalija-klyczki-w-akcji/"/>
-        <updated>2022-06-27T10:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Prezydenci miast Berlina, Wiednia oraz Madrytu (i pewnie także kilku innych miast, o których jeszcze nie wiemy) twierdzą, że w piątek rozmawiali z kimś, kto podszywał się pod ukraińskiego byłego...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
