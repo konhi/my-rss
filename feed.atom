@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-27T21:10:05.831Z</updated>
+    <updated>2022-07-27T22:11:32.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -402,19 +402,6 @@ INFO: Programista postanowił stworzyć grę w stylu space invaders w Pythonie, 
         <link href="https://niebezpiecznik.pl/post/ostatnia-szansa-na-wieczysty-dostep-do-obecnych-i-przyszlych-lekcji-naszego-kursu-z-osint/"/>
         <updated>2022-06-30T08:20:17.000Z</updated>
         <summary type="html"><![CDATA[W najbliższy czwartek, 7 lipca o godz. 23:59, zmieniamy sposób sprzedaży naszego Internetowego Kursu OSINT-u. Jeśli chcesz otrzymać: ✅ wieczysty dostęp do wszystkich obecnych oraz nowych...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rafał Trzaskowski też rozmawiał z fałszywym Kłyczko. Ale to nie był deepfake]]></title>
-        <id>https://niebezpiecznik.pl/post/rafal-trzaskowski-tez-rozmawial-z-falszywym-klyczko-ale-to-nie-byl-deepfake/</id>
-        <link href="https://niebezpiecznik.pl/post/rafal-trzaskowski-tez-rozmawial-z-falszywym-klyczko-ale-to-nie-byl-deepfake/"/>
-        <updated>2022-06-28T09:35:50.000Z</updated>
-        <summary type="html"><![CDATA[Wczoraj rano opisaliśmy, jak to ktoś, podszywając się pod mera Kijowa, Witalija Kłyczko, obdzwonił prezydentów zachodnich miast: Berlina, Madrytu, Wiednia. Zastanawialiśmy się, czy oszust próbował...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
