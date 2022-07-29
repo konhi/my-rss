@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-29T10:12:53.816Z</updated>
+    <updated>2022-07-29T11:09:45.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[29 lipca 2022]]></title>
+        <id>https://news.mrugalski.pl/post/691094770000494592</id>
+        <link href="https://news.mrugalski.pl/post/691094770000494592"/>
+        <updated>2022-07-29T07:22:12.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+
+Zapraszam do lektury najnowszego zestawienia :)
+1) Hackowanie kas samoobsługowych w McDonaldzie
+https://ghuntley.com/mcdonalds/
+INFO: Opis zabezpieczeń (a niekiedy ich braku…) stosowanych w kasach samoobsługowych ‘restauracji pod złotymi łukami’. Kasy tego typu, to zwykłe komputery x86, uruchomione na prawach administratora.
+2) Unboxing Chromebooka za $100 - co potrafi to urządzenie?
+https://twitter.com/timsneath/status/1550598445248811008?s=12&t=MA0mDSYEtyyfyQT-KhKL_g
+INFO: Autor kupił Chromebooka od Lenovo do testów swojej aplikacji. W tym wątku na Twitterze opisuje on jak wygląda taki budżetowy laptop i jak się sprawuje.
+3) Każdy może otrzymywać pocztówkę z Timbuktu (Ty także!)
+https://reasonstobecheerful.world/timbuktu-tour-guides-develop-postcard-program/?ref=refind
+I…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 477 [2022-07-22]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62889</id>

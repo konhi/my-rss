@@ -292,6 +292,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/691094770000494592",
+          "author": null,
+          "description": "◢ #unknownews ◣\n\nZapraszam do lektury najnowszego zestawienia :)\n1) Hackowanie kas samoobsługowych w McDonaldzie\nhttps://ghuntley.com/mcdonalds/\nINFO: Opis zabezpieczeń (a niekiedy ich braku…) stosowanych w kasach samoobsługowych ‘restauracji pod złotymi łukami’. Kasy tego typu, to zwykłe komputery x86, uruchomione na prawach administratora.\n2) Unboxing Chromebooka za $100 - co potrafi to urządzenie?\nhttps://twitter.com/timsneath/status/1550598445248811008?s=12&t=MA0mDSYEtyyfyQT-KhKL_g\nINFO: Autor kupił Chromebooka od Lenovo do testów swojej aplikacji. W tym wątku na Twitterze opisuje on jak wygląda taki budżetowy laptop i jak się sprawuje.\n3) Każdy może otrzymywać pocztówkę z Timbuktu (Ty także!)\nhttps://reasonstobecheerful.world/timbuktu-tour-guides-develop-postcard-program/?ref=refind\nI…",
+          "link": "https://news.mrugalski.pl/post/691094770000494592",
+          "publishedOn": "2022-07-29T07:22:12.000Z",
+          "wordCount": 1409,
+          "title": "29 lipca 2022",
+          "imageUrl": "https://64.media.tumblr.com/d530a3de7162cad7c96f92a93f21faed/a9a17bb3ae44bcf8-6b/s1280x1920/f2efd7515cb2ca05e9f24c6da6b4bab6d6406f27.jpg"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/690458427646951424",
           "author": null,
           "description": "◢ #unknownews ◣\n\nJestem na urlopie, ale udało mi się przygotować nowe zestawienie ciekawych treści z branży IT. Zapraszam do lektury.\n1) Kilka tysięcy polskich filmów dostępnych legalnie, bez reklam i bez opłat\nhttps://35mm.online/?t=192527856\nINFO: Polskie filmy fabularne, dokumentalne, kroniki filmowe, filmy animowane oraz materiały dla dzieci. Większość to stare produkcje, ale myślę, że każdy znajdzie tam coś dla siebie (Seksmisja, Vabank, Sami Swoi itp).\n2) Jak hackerzy używają publicznego Prometheusa do przejmowania klastrów Kubernetesa\nhttps://sysdig.com/blog/exposed-prometheus-exploit-kubernetes-kubeconeu/\nINFO: Do czego może doprowadzić wystawianie metryk Prometheusa na świat? Użyteczna (zwłaszcza dla pentesterów) wiedza zarówno w formie filmu (22 minuty) jak i opisu tekstowego.\n3)…",
