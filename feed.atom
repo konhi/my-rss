@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-30T04:32:29.391Z</updated>
+    <updated>2022-07-30T05:15:26.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -389,19 +389,6 @@ https://hackernoon.com/how-i-let-an-ai-code-a-game-for-me
 INFO: Programista postanowił stworzyć grę w stylu space invaders w Pythonie, ale bez ręcznego napisania ani jednej linii kodu. Warto rzucić okiem. Pod koniec artykułu znajdziesz linka do filmu (ponad 2 godziny) prezentującego…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korzystasz z Chrome? Można Cię śledzić dzięki dodatkom, które zainstalowałeś]]></title>
-        <id>https://niebezpiecznik.pl/post/korzystasz-z-chrome-mozna-cie-sledzic-dzieki-dodatkom-ktore-zainstalowales/</id>
-        <link href="https://niebezpiecznik.pl/post/korzystasz-z-chrome-mozna-cie-sledzic-dzieki-dodatkom-ktore-zainstalowales/"/>
-        <updated>2022-06-30T16:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Ciekawy problem z obszaru OPSEC. Istnieje sposób, aby dowolna strona poznała nazwy dodatków, które masz zainstalowane w swojej przeglądarce Chrome. Niby to żaden wstyd i problem, ale ponieważ różni...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
