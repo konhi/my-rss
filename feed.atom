@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-30T01:01:17.068Z</updated>
+    <updated>2022-07-30T03:43:26.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -397,19 +397,6 @@ INFO: Programista postanowił stworzyć grę w stylu space invaders w Pythonie, 
         <link href="https://niebezpiecznik.pl/post/korzystasz-z-chrome-mozna-cie-sledzic-dzieki-dodatkom-ktore-zainstalowales/"/>
         <updated>2022-06-30T16:38:02.000Z</updated>
         <summary type="html"><![CDATA[Ciekawy problem z obszaru OPSEC. Istnieje sposób, aby dowolna strona poznała nazwy dodatków, które masz zainstalowane w swojej przeglądarce Chrome. Niby to żaden wstyd i problem, ale ponieważ różni...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zostań certyfikowanym specjalistą Microsoft i zdobądź darmowy voucher na egzamin]]></title>
-        <id>https://niebezpiecznik.pl/post/zostan-certyfikowanym-specjalista-microsoft-i-zdobadz-darmowy-voucher-na-egzamin/</id>
-        <link href="https://niebezpiecznik.pl/post/zostan-certyfikowanym-specjalista-microsoft-i-zdobadz-darmowy-voucher-na-egzamin/"/>
-        <updated>2022-06-30T14:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Wiedza i umiejętności związane z wykorzystaniem potencjału chmury obliczeniowej, tworzeniem i zarządzaniem bazami danych oraz ich analizą, marketingiem cyfrowym oraz bezpieczeństwem przetwarzania i...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
