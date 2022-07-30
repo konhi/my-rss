@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-30T20:11:17.776Z</updated>
+    <updated>2022-07-30T21:09:46.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -369,26 +369,6 @@ W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o t
 The post Weekendowa Lektura: odcinek 474 [2022-07-01]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Anna Wasilewska-Śpioch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 lipca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/688564637894164480</id>
-        <link href="https://news.mrugalski.pl/post/688564637894164480"/>
-        <updated>2022-07-01T09:06:50.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Dziś na wstępie muszę ogłosić super ważnego newsa!
-
-Tylko do niedzieli do 23:59 można kupić mój kurs online “Akademia Debugowania Linuxa”. Kolejna szansa pojawi się dopiero w październiku.
-
-1) Najlepsze prezentacje projektów dla developerów
-https://dx.tips/pitches
-INFO: Jak zaprezentowano światu Dockera, Twillio, Ruby on Rails, Heroku czy Netlify? Warto rzucić okiem jak zrobiły to firmy/projekty, które później odniosły globalny sukces.
-2) Czy Copilot może stworzyć grę od początku do końca? Może!
-https://hackernoon.com/how-i-let-an-ai-code-a-game-for-me
-INFO: Programista postanowił stworzyć grę w stylu space invaders w Pythonie, ale bez ręcznego napisania ani jednej linii kodu. Warto rzucić okiem. Pod koniec artykułu znajdziesz linka do filmu (ponad 2 godziny) prezentującego…]]></summary>
-        <author>
-            <name>unknowNews</name>
         </author>
     </entry>
     <entry>
