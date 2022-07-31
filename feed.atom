@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-07-31T09:10:43.975Z</updated>
+    <updated>2022-07-31T10:12:12.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -357,18 +357,6 @@ Maciej Pyznar od 2008 roku pracował w Rządowym Centrum Bezpieczeństwa, gdzie 
 The post Ekspert Cyberbezpieczeństwa, Maciej Pyznar, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 474 [2022-07-01]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62810</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-474-2022-07-01-bierzcie-i-czytajcie/"/>
-        <updated>2022-07-01T21:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Urlopy urlopami, ale przestępcy ani myślą o zaprzestaniu swoich działań. Abyście nie tracili czasu na wybieranie najlepszych linków, zrobiliśmy to za Was. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o tym, że operatorzy ransomware’u LockBit 3.0 ruszają z własnym programem bug bounty (pkt 6) oraz dwa obszerne raporty dotyczące zablokowania przez Google dziesiątek domen hakerów do wynajęcia (pkt 11).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 474 [2022-07-01]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
