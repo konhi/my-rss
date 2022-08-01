@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-01T08:15:48.173Z</updated>
+    <updated>2022-08-01T09:12:44.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Raport PwC na temat (wpadek) APT35]]></title>
+        <id>https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/</id>
+        <link href="https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/"/>
+        <updated>2022-08-01T08:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Ciekawy raport o &#8220;Charming Kittens&#8221; opublikowało PwC. Atrybucja była łatwa, bo najwyraźniej te opsecowe wpadki sprzed roku nie dały grupie do myślenia. Przeczytaj także: Nieudany pentest PwC ujawnił infrastrukturę, jaką firma wykorzystuje do ataków na swoich klientów i ich dane * OPSEC: narzędzia dla dziennikarzy * Irańska grupa włamywaczy zdemaskowana]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Nagrania wykładów ze SteelConu]]></title>
         <id>https://niebezpiecznik.pl/post/nagrania-wykladow-ze-steelconu/</id>

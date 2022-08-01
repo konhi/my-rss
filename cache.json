@@ -12,6 +12,16 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/",
+          "author": null,
+          "description": "Ciekawy raport o &#8220;Charming Kittens&#8221; opublikowało PwC. Atrybucja była łatwa, bo najwyraźniej te opsecowe wpadki sprzed roku nie dały grupie do myślenia. Przeczytaj także: Nieudany pentest PwC ujawnił infrastrukturę, jaką firma wykorzystuje do ataków na swoich klientów i ich dane * OPSEC: narzędzia dla dziennikarzy * Irańska grupa włamywaczy zdemaskowana",
+          "link": "https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/",
+          "publishedOn": "2022-08-01T08:39:11.000Z",
+          "wordCount": 1348,
+          "title": "* Raport PwC na temat (wpadek) APT35",
+          "imageUrl": "//niebezpiecznik.pl/nbzp-logo.png"
+        },
+        {
           "id": "https://niebezpiecznik.pl/post/nagrania-wykladow-ze-steelconu/",
           "author": null,
           "description": "Pojawiły się właśnie na YouTube.Przeczytaj także: * Nagrania z konferencji RSA Zobacz niebezpiecznikowy wykład z TEDx Konferencja SECURE 2013 &#8212; konkurs na darmową wejściówkę!",
