@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-01T13:37:35.673Z</updated>
+    <updated>2022-08-01T14:13:27.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Raport o &#8220;kosztach&#8221; incydentów i ataków]]></title>
+        <id>https://niebezpiecznik.pl/post/raport-o-kosztach-incydentow-i-atakow/</id>
+        <link href="https://niebezpiecznik.pl/post/raport-o-kosztach-incydentow-i-atakow/"/>
+        <updated>2022-08-01T12:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Opublikował IBM. Bez zaskoczeń: średni koszt ataku rośnie, a 60% z firm-ofiar podnosi ceny, aby stratę &#8220;rozprowadzić&#8221; po klientach ;)Przeczytaj także: Obsługa incydentu &#8211; Google udostępnia GRR Gdy na wojnę trzeba pójść… Rzecz o przygotowaniu i wdrożeniu efektywnego procesu zarządzania incydentami bezpieczeństwa informacji w przedsiębiorstwie Zarządzanie incydentami bezpieczeństwa informacji w przedsiębiorstwie]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Raport PwC na temat (wpadek) APT35]]></title>
         <id>https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/</id>

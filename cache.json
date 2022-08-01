@@ -12,6 +12,16 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "https://niebezpiecznik.pl/post/raport-o-kosztach-incydentow-i-atakow/",
+          "author": null,
+          "description": "Opublikował IBM. Bez zaskoczeń: średni koszt ataku rośnie, a 60% z firm-ofiar podnosi ceny, aby stratę &#8220;rozprowadzić&#8221; po klientach ;)Przeczytaj także: Obsługa incydentu &#8211; Google udostępnia GRR Gdy na wojnę trzeba pójść… Rzecz o przygotowaniu i wdrożeniu efektywnego procesu zarządzania incydentami bezpieczeństwa informacji w przedsiębiorstwie Zarządzanie incydentami bezpieczeństwa informacji w przedsiębiorstwie",
+          "link": "https://niebezpiecznik.pl/post/raport-o-kosztach-incydentow-i-atakow/",
+          "publishedOn": "2022-08-01T12:52:49.000Z",
+          "wordCount": 1354,
+          "title": "* Raport o &#8220;kosztach&#8221; incydentów i ataków",
+          "imageUrl": "//niebezpiecznik.pl/nbzp-logo.png"
+        },
+        {
           "id": "https://niebezpiecznik.pl/post/raport-pwc-na-temat-wpadek-apt35/",
           "author": null,
           "description": "Ciekawy raport o &#8220;Charming Kittens&#8221; opublikowało PwC. Atrybucja była łatwa, bo najwyraźniej te opsecowe wpadki sprzed roku nie dały grupie do myślenia. Przeczytaj także: Nieudany pentest PwC ujawnił infrastrukturę, jaką firma wykorzystuje do ataków na swoich klientów i ich dane * OPSEC: narzędzia dla dziennikarzy * Irańska grupa włamywaczy zdemaskowana",
