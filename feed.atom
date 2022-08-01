@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-01T17:21:21.063Z</updated>
+    <updated>2022-08-01T18:15:57.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* 911[.]re umarło]]></title>
+        <id>https://niebezpiecznik.pl/post/911-re-umarlo/</id>
+        <link href="https://niebezpiecznik.pl/post/911-re-umarlo/"/>
+        <updated>2022-08-01T16:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Spory serwis sprzedający dostęp do tzw. &#8220;residential proxy&#8221; umarł. Ciekawe co (i czy cokolwiek) stanie się z osieroconymi klientami tego botnetu&#8230;?Przeczytaj także: Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze? MalaRIA &#8211; nowe &#8220;hackerskie&#8221; narzędzie Jak namierzyć nadawcę (fałszywego) e-maila?]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Raport o &#8220;kosztach&#8221; incydentów i ataków]]></title>
         <id>https://niebezpiecznik.pl/post/raport-o-kosztach-incydentow-i-atakow/</id>
