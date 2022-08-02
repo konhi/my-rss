@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-01T23:13:56.269Z</updated>
+    <updated>2022-08-02T01:11:40.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -397,18 +397,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekspert Cyberbezpieczeństwa, Maciej Pyznar, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62833</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/ekspert-cyberbezpieczenstwa-maciej-pyznar-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-07-03T11:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Codziennie korzystamy z prądu, wody, możliwości tankowania czy przeglądania internetu. Jak wygląda proces zapewnienia bezpieczeństwa świadczenia takich usług? Najlepiej zapytać człowieka, który te procesy planował. Poznajcie Macieja.
-Maciej Pyznar od 2008 roku pracował w Rządowym Centrum Bezpieczeństwa, gdzie w Wydziale Ochrony Infrastruktury Krytycznej tworzył standardy i dobre praktyki bezpieczeństwa dla… oczywiście infrastruktury krytycznej, czyli tych usług, których brak odczulibyśmy najmocniej.… Czytaj dalej 
-The post Ekspert Cyberbezpieczeństwa, Maciej Pyznar, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
