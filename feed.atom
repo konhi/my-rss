@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-02T19:09:25.860Z</updated>
+    <updated>2022-08-02T20:13:43.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -379,19 +379,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/jak-przekonac-szefa-aby-oplacil-ci-udzial-w-naszym-kursie-osint/"/>
         <updated>2022-07-04T11:47:12.000Z</updated>
         <summary type="html"><![CDATA[Udział w naszym Internetowym Kursie OSINT-u to spora korzyść dla firm, co potwierdzają tysiące spółek, które od startu kursu wykupiły dostępy swoim pracownikom. Jeśli nie chcesz przegapić wieczystego...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policja może Cię namierzyć po szumie sensora twojego aparatu]]></title>
-        <id>https://niebezpiecznik.pl/post/policja-moze-cie-namierzyc-po-szumie-sensora-twojego-aparatu/</id>
-        <link href="https://niebezpiecznik.pl/post/policja-moze-cie-namierzyc-po-szumie-sensora-twojego-aparatu/"/>
-        <updated>2022-07-04T07:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Analiza szumu na zdjęciu lub nagraniu wideo to znane od lat zagadnienie. Warto jednak odnotować, że badacze z Uniwersytetu w Groningen zaprezentowali właśnie system, który ten szum lepiej wyodrębnia...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
