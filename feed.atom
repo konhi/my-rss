@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-02T23:11:24.381Z</updated>
+    <updated>2022-08-03T01:09:16.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -366,19 +366,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/chiny-tworza-wlasny-system-operacyjny/"/>
         <updated>2022-07-05T07:02:39.000Z</updated>
         <summary type="html"><![CDATA[Ktoś w Chinach doszedł do wniosku, że korzystanie z amerykańskiego kodu może być problemem. W sumie to już lata temu, ale jakoś im nie wyszło wyprodukowanie własnego OS (codename Kylin). Teraz widać...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak przekonać szefa, aby opłacił ci udział w naszym Kursie OSINT?]]></title>
-        <id>https://niebezpiecznik.pl/post/jak-przekonac-szefa-aby-oplacil-ci-udzial-w-naszym-kursie-osint/</id>
-        <link href="https://niebezpiecznik.pl/post/jak-przekonac-szefa-aby-oplacil-ci-udzial-w-naszym-kursie-osint/"/>
-        <updated>2022-07-04T11:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Udział w naszym Internetowym Kursie OSINT-u to spora korzyść dla firm, co potwierdzają tysiące spółek, które od startu kursu wykupiły dostępy swoim pracownikom. Jeśli nie chcesz przegapić wieczystego...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
