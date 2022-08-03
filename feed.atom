@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-03T20:12:57.208Z</updated>
+    <updated>2022-08-03T21:10:42.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -314,19 +314,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/cyber-zwodzenie-na-przykladzie-wojska/"/>
         <updated>2022-07-06T06:35:13.000Z</updated>
         <summary type="html"><![CDATA[Ciekawy artykuł o tym, jak “deception” (ciężko o dobry polski odpowiednik tego słowa) może być — i od dawna jest! — wykorzystywane w domenie cyber. Tekst tylko po części...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zapraszamy na BEZPŁATNY webinar z OSINT-u!]]></title>
-        <id>https://niebezpiecznik.pl/post/zapraszamy-na-bezplatny-webinar-z-osint-u/</id>
-        <link href="https://niebezpiecznik.pl/post/zapraszamy-na-bezplatny-webinar-z-osint-u/"/>
-        <updated>2022-07-05T08:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy Was na bezpłatny, webinar z OSINT-u. Tym razem będzie to krótki pokaz tego, jak można ustalić czyjeś dane na podstawie samego numeru telefonu. Webinar odbędzie się w środę 6 lipca o...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
