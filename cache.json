@@ -170,26 +170,6 @@
           "wordCount": 1534,
           "title": "Zapraszamy na BEZPŁATNY webinar z OSINT-u!",
           "imageUrl": ""
-        },
-        {
-          "id": "https://niebezpiecznik.pl/post/ciekawy-raport-ocena-cyberbezpieczenstwa-kraju/",
-          "author": null,
-          "description": "Poland? Nie, Holland! Niestety, raport nie jest autorstwa naszego kraju, a Holandii, a dokładniej holenderskiego, narodowego koordynatora ds. bezpieczeństwa i kontrterroryzmu. Ale mamy nadzieję, że...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "https://niebezpiecznik.pl/post/ciekawy-raport-ocena-cyberbezpieczenstwa-kraju/",
-          "publishedOn": "2022-07-05T07:28:59.000Z",
-          "wordCount": 1393,
-          "title": "* Ciekawy raport: ocena cyberbezpieczeństwa kraju",
-          "imageUrl": "//niebezpiecznik.pl/nbzp-logo.png"
-        },
-        {
-          "id": "https://niebezpiecznik.pl/post/pracownik-platformy-bug-bounty-podgladal-i-kradl-zgloszenia-bledow-zarabial-na-nich-na-boku/",
-          "author": null,
-          "description": "Hackerone to jedna z platform Bug Bounty, przy pomocy której różne firmy zachęcają pentesterów do atakowania swoich systemów i szukania w nich dziur, oferując w zamian pieniądze. Jeden z pracowników...\n\r\n\r\n### Reszta artykułu na https://niebezpiecznik.pl",
-          "link": "https://niebezpiecznik.pl/post/pracownik-platformy-bug-bounty-podgladal-i-kradl-zgloszenia-bledow-zarabial-na-nich-na-boku/",
-          "publishedOn": "2022-07-05T07:20:55.000Z",
-          "wordCount": 1497,
-          "title": "Pracownik platformy bug bounty podglądał i kradł zgłoszenia błędów. Zarabiał na nich na boku&#8230;",
-          "imageUrl": "https://niebezpiecznik.pl/wp-content/uploads/2022/07/hackerone-600x305.jpg"
         }
       ]
     },
