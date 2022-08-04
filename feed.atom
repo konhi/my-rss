@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-04T20:13:10.936Z</updated>
+    <updated>2022-08-04T21:10:25.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -288,19 +288,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/ostatni-dzien-by-zgarnac-nasz-kurs-osint-z-wieczystym-dostepem-to-mozliwe-tylko-do-2359/"/>
         <updated>2022-07-07T09:09:42.000Z</updated>
         <summary type="html"><![CDATA[Przypominamy, że dziś o 23:59 przestajemy przydzielać wieczysty dostęp do naszego Internetowego Kursu OSINT. Od północy kurs będziemy oferować w formie subskrypcji, którą trzeba będzie regularnie...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanadyjski żołnierz w Ukrainie zdemaskowany kilkoma technikami OSINT-u]]></title>
-        <id>https://niebezpiecznik.pl/post/kanadyjski-zolnierz-w-ukrainie-zdemaskowany-kilkoma-technikami-osint-u/</id>
-        <link href="https://niebezpiecznik.pl/post/kanadyjski-zolnierz-w-ukrainie-zdemaskowany-kilkoma-technikami-osint-u/"/>
-        <updated>2022-07-06T08:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Od wielu tygodni, konto na Twitterze o nazwie “CanadianUkrain1” publikowało kulisy walki tajemniczego Kanadyjczyka na rzecz Ukrainy. Konto zdobyło ponad 120 tysięcy followersów. Problem w...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
