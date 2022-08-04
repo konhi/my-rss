@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-04T18:14:26.136Z</updated>
+    <updated>2022-08-04T19:09:23.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -301,19 +301,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/kanadyjski-zolnierz-w-ukrainie-zdemaskowany-kilkoma-technikami-osint-u/"/>
         <updated>2022-07-06T08:52:18.000Z</updated>
         <summary type="html"><![CDATA[Od wielu tygodni, konto na Twitterze o nazwie “CanadianUkrain1” publikowało kulisy walki tajemniczego Kanadyjczyka na rzecz Ukrainy. Konto zdobyło ponad 120 tysięcy followersów. Problem w...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* Cyber-zwodzenie na przykładzie wojska]]></title>
-        <id>https://niebezpiecznik.pl/post/cyber-zwodzenie-na-przykladzie-wojska/</id>
-        <link href="https://niebezpiecznik.pl/post/cyber-zwodzenie-na-przykladzie-wojska/"/>
-        <updated>2022-07-06T06:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Ciekawy artykuł o tym, jak “deception” (ciężko o dobry polski odpowiednik tego słowa) może być — i od dawna jest! — wykorzystywane w domenie cyber. Tekst tylko po części...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
