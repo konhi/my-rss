@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-05T20:12:29.797Z</updated>
+    <updated>2022-08-05T21:10:12.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -294,19 +294,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/kilka-technik-osint-u-do-namierzania-informacji-o-wlascicielu-numeru-telefonu/"/>
         <updated>2022-07-07T10:46:03.000Z</updated>
         <summary type="html"><![CDATA[Dziękujemy wszystkim za udział w naszym wczorajszym webinarze. W pewnym momencie jednocześnie oglądało go ~6000 osób, co jak na tak niszowy temat jakim jest OSINT uważamy za prawdziwy sukces :-)...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ostatni dzień &#x23f0; by zgarnąć nasz kurs OSINT z wieczystym dostępem! To możliwe tylko do 23:59]]></title>
-        <id>https://niebezpiecznik.pl/post/ostatni-dzien-by-zgarnac-nasz-kurs-osint-z-wieczystym-dostepem-to-mozliwe-tylko-do-2359/</id>
-        <link href="https://niebezpiecznik.pl/post/ostatni-dzien-by-zgarnac-nasz-kurs-osint-z-wieczystym-dostepem-to-mozliwe-tylko-do-2359/"/>
-        <updated>2022-07-07T09:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Przypominamy, że dziś o 23:59 przestajemy przydzielać wieczysty dostęp do naszego Internetowego Kursu OSINT. Od północy kurs będziemy oferować w formie subskrypcji, którą trzeba będzie regularnie...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
