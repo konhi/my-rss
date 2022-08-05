@@ -211,6 +211,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/691722555057389568",
+          "author": null,
+          "description": "◢ #unknownews ◣\nCzas na nowe zestawienie subiektywnie najciekawszych treści z branży IT, na które natrafiłem w sieci w ubiegłym tygodniu.\n\nRzuć okiem na najnowsze wydanie mojego okołobiznesowego newslettera, może przypadnie Ci do gustu :)\n\n1) myNoise - darmowe zagłuszacz dźwięków otoczenia\nhttps://mynoise.net/\nINFO: Gdy nie masz dostępu do słuchawek z redukcją szumów, a chcesz popracować w zatłoczonym biurze, to ten generator szumów może być dla Ciebie idealnym rozwiązaniem. Można wybierać z puli wielu dźwięków (np. irlandzkie wybrzeże, kawiarnia, wodospady, czy japoński ogród) i dostosowywać natężenie składowych dźwięku do własnych potrzeb.\n2) Jak wysłać Tweeta za pomocą Githubowego Copilota?\nhttps://blackgirlbytes.dev/how-to-send-a-tweet-with-github-copilot?source=personalized-newsletter…",
+          "link": "https://news.mrugalski.pl/post/691722555057389568",
+          "publishedOn": "2022-08-05T05:40:34.000Z",
+          "wordCount": 1849,
+          "title": "6 sierpnia 2022",
+          "imageUrl": "https://64.media.tumblr.com/457709bca85258557271f2b94196e73c/9aa1aa9036273d5c-df/s1280x1920/bddde08441176724f5e4d79635be3b8c3f053c17.png"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/691094770000494592",
           "author": null,
           "description": "◢ #unknownews ◣\n\nZapraszam do lektury najnowszego zestawienia :)\n1) Hackowanie kas samoobsługowych w McDonaldzie\nhttps://ghuntley.com/mcdonalds/\nINFO: Opis zabezpieczeń (a niekiedy ich braku…) stosowanych w kasach samoobsługowych ‘restauracji pod złotymi łukami’. Kasy tego typu, to zwykłe komputery x86, uruchomione na prawach administratora.\n2) Unboxing Chromebooka za $100 - co potrafi to urządzenie?\nhttps://twitter.com/timsneath/status/1550598445248811008?s=12&t=MA0mDSYEtyyfyQT-KhKL_g\nINFO: Autor kupił Chromebooka od Lenovo do testów swojej aplikacji. W tym wątku na Twitterze opisuje on jak wygląda taki budżetowy laptop i jak się sprawuje.\n3) Każdy może otrzymywać pocztówkę z Timbuktu (Ty także!)\nhttps://reasonstobecheerful.world/timbuktu-tour-guides-develop-postcard-program/?ref=refind\nI…",

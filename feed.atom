@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-05T08:15:15.208Z</updated>
+    <updated>2022-08-05T09:11:42.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 sierpnia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/691722555057389568</id>
+        <link href="https://news.mrugalski.pl/post/691722555057389568"/>
+        <updated>2022-08-05T05:40:34.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Czas na nowe zestawienie subiektywnie najciekawszych treści z branży IT, na które natrafiłem w sieci w ubiegłym tygodniu.
+
+Rzuć okiem na najnowsze wydanie mojego okołobiznesowego newslettera, może przypadnie Ci do gustu :)
+
+1) myNoise - darmowe zagłuszacz dźwięków otoczenia
+https://mynoise.net/
+INFO: Gdy nie masz dostępu do słuchawek z redukcją szumów, a chcesz popracować w zatłoczonym biurze, to ten generator szumów może być dla Ciebie idealnym rozwiązaniem. Można wybierać z puli wielu dźwięków (np. irlandzkie wybrzeże, kawiarnia, wodospady, czy japoński ogród) i dostosowywać natężenie składowych dźwięku do własnych potrzeb.
+2) Jak wysłać Tweeta za pomocą Githubowego Copilota?
+https://blackgirlbytes.dev/how-to-send-a-tweet-with-github-copilot?source=personalized-newsletter…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* 911[.]re umarło]]></title>
         <id>https://niebezpiecznik.pl/post/911-re-umarlo/</id>
