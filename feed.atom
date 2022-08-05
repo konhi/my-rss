@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-05T22:10:58.312Z</updated>
+    <updated>2022-08-05T23:11:18.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -281,19 +281,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/uwaga-na-falszywe-e-maile-od-netflix/"/>
         <updated>2022-07-07T13:57:41.000Z</updated>
         <summary type="html"><![CDATA[Ktoś podszywa się pod Netfliksa i wysyła e-maile informujące o “zawieszeniu” ze względu na błąd w przetwarzaniu płatności za kolejny cykl rozliczeniowy. Wiadomości są rozsyłane masowo, z...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilka technik OSINT-u do namierzania informacji o właścicielu numeru telefonu]]></title>
-        <id>https://niebezpiecznik.pl/post/kilka-technik-osint-u-do-namierzania-informacji-o-wlascicielu-numeru-telefonu/</id>
-        <link href="https://niebezpiecznik.pl/post/kilka-technik-osint-u-do-namierzania-informacji-o-wlascicielu-numeru-telefonu/"/>
-        <updated>2022-07-07T10:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Dziękujemy wszystkim za udział w naszym wczorajszym webinarze. W pewnym momencie jednocześnie oglądało go ~6000 osób, co jak na tak niszowy temat jakim jest OSINT uważamy za prawdziwy sukces :-)...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
