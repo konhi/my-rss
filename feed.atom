@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-06T08:13:59.015Z</updated>
+    <updated>2022-08-06T09:10:29.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -235,18 +235,6 @@ https://github.com/WangYihang/GitHacker
 INFO: Zdarzyło Ci się znaleźć stronę z udostępnionym katalogiem…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński, gościem Rozmowy Kontrolowanej w niedzielę o 21]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62840</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/dyrektor-departamentu-cyberbezpieczenstwa-w-uknf-krzysztof-zielinski-gosciem-rozmowy-kontrolowanej-w-niedziele-o-21/"/>
-        <updated>2022-07-07T20:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Banki pilnują waszych pieniędzy. A kto pilnuje banków? W Polsce jest to Komisja Nadzoru Finansowego, która dość aktywnie działa od pewnego czasu w obszarze cyberbezpieczeństwa. Kto, jak i dlaczego – te odpowiedzi zna Krzysztof.
-Krzysztof Zieliński od ponad 20 lat zajmuje się zawodowo bezpieczeństwem.… Czytaj dalej 
-The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Adam Haertle</name>
         </author>
     </entry>
     <entry>
