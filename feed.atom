@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-06T04:17:43.022Z</updated>
+    <updated>2022-08-06T05:10:41.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -247,19 +247,6 @@ Krzysztof Zieliński od ponad 20 lat zajmuje się zawodowo bezpieczeństwem.… 
 The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński, gościem Rozmowy Kontrolowanej w niedzielę o 21 first appeared on Zaufana Trzecia Strona.]]></summary>
         <author>
             <name>Adam Haertle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[* DE_NA_SM_MOB]]></title>
-        <id>https://niebezpiecznik.pl/post/de_na_sm_mob/</id>
-        <link href="https://niebezpiecznik.pl/post/de_na_sm_mob/"/>
-        <updated>2022-07-07T16:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Jeśli dostałeś SMS-a od banku Millennium o treści “DE_NA_SM_MOB” to nie jesteś sam. Ten SMS to zapewne pomyłka w systemach banku — takie, a nawet gorsze się zdarzają — nie ma...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
