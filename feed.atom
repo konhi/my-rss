@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-06T00:59:37.576Z</updated>
+    <updated>2022-08-06T02:58:30.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -255,32 +255,6 @@ The post Dyrektor Departamentu Cyberbezpieczeństwa w UKNF, Krzysztof Zieliński
         <link href="https://niebezpiecznik.pl/post/de_na_sm_mob/"/>
         <updated>2022-07-07T16:42:13.000Z</updated>
         <summary type="html"><![CDATA[Jeśli dostałeś SMS-a od banku Millennium o treści “DE_NA_SM_MOB” to nie jesteś sam. Ten SMS to zapewne pomyłka w systemach banku — takie, a nawet gorsze się zdarzają — nie ma...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ktoś wysyła chrześcijański spam i prosi o odpisanie &#8220;JEZU UFAM TOBIE&#8221;]]></title>
-        <id>https://niebezpiecznik.pl/post/ktos-wysyla-chrzescijanski-spam-i-prosi-o-odpisanie-jezu-ufam-tobie/</id>
-        <link href="https://niebezpiecznik.pl/post/ktos-wysyla-chrzescijanski-spam-i-prosi-o-odpisanie-jezu-ufam-tobie/"/>
-        <updated>2022-07-07T14:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Od tygodnia różni Czytelnicy i Czytelniczki zgłaszają nam, że otrzymują SMS-y o takiej treści: Dziękujemy za aktywację naszej usługi “chrześcijański cytat na każdy wieczór”. Koszt usługi...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#x26a0;&#xfe0f; Uwaga na fałszywe e-maile od &#8220;Netflix&#8221;]]></title>
-        <id>https://niebezpiecznik.pl/post/uwaga-na-falszywe-e-maile-od-netflix/</id>
-        <link href="https://niebezpiecznik.pl/post/uwaga-na-falszywe-e-maile-od-netflix/"/>
-        <updated>2022-07-07T13:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Ktoś podszywa się pod Netfliksa i wysyła e-maile informujące o “zawieszeniu” ze względu na błąd w przetwarzaniu płatności za kolejny cykl rozliczeniowy. Wiadomości są rozsyłane masowo, z...
 
 
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
