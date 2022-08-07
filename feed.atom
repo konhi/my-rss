@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-07T11:10:25.576Z</updated>
+    <updated>2022-08-07T12:19:24.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -203,18 +203,6 @@ INFO: Ten artykuł nie tłumaczy zastosowanych rozwiązań technologicznych. Prz
 ### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 475 [2022-07-09]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62844</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-475-2022-07-09-bierzcie-i-czytajcie/"/>
-        <updated>2022-07-08T23:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury, w którym znajdziecie informacje o przeprowadzonych ostatnio atakach, świeżo załatanych lukach i czyhających w sieci szkodnikach. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o pracowniku HackerOne, który szantażował klientów platformy (pkt 7) oraz obszerny materiał o udostępnianiu przez Google danych użytkowników objętej sankcjami firmie (pkt 10).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 475 [2022-07-09]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
