@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-07T17:11:59.982Z</updated>
+    <updated>2022-08-07T18:13:51.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 479 [2022-08-07]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62937</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-479-2022-08-07-bierzcie-i-czytajcie/"/>
+        <updated>2022-08-07T17:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Czeka na was świeży zbiór linków, który pozwoli zorientować się w ostatnich wydarzeniach związanych z bezpieczeństwem. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej doniesienia o atakach na europejski koncern zbrojeniowy MBDA (pkt 9) oraz artykuł o zatrzymaniu twórcy szpiegującego oprogramowania, które zakupiło 14,5 tys.… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 479 [2022-08-07]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 sierpnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/691722555057389568</id>
