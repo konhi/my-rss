@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-09T16:15:44.721Z</updated>
+    <updated>2022-08-09T17:15:28.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Radomir sam ustalił jak go okradziono, ale sprawcy nie ujęto, bo nikogo poza Radomirem najwyraźniej to nie obchodzi]]></title>
+        <id>https://niebezpiecznik.pl/post/profile-zaufane-sa-bezpieczniejsze-radomir-sam-ustalil-jak-go-okradziono-ale-sprawcy-nie-ujeto/</id>
+        <link href="https://niebezpiecznik.pl/post/profile-zaufane-sa-bezpieczniejsze-radomir-sam-ustalil-jak-go-okradziono-ale-sprawcy-nie-ujeto/"/>
+        <updated>2022-08-09T15:46:55.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/profile-zaufane-sa-bezpieczniejsze-radomir-sam-ustalil-jak-go-okradziono-ale-sprawcy-nie-ujeto/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2015/12/image20151125_025-150x150.jpg" class="alignleft tfe wp-post-image" alt="Złodziej okradający bankomaty urządzeniem elektronicznym" loading="lazy" /></a>Przejęcie czyjegoś Profilu Zaufanego nie jest tak łatwe jak rok temu. To dobra wiadomość. Niestety, jeśli ktoś padł ofiarą tego przestępstwa wcześniej, to wciąż będzie zmagać się skutkami&#8230; Uwaga! Ten artykuł będzie dłuższy. Ale warto doczytać go do końca, zwłaszcza jeśli historię obfitą w opary biurokracji wymieszanej z absurdem, bystrych Czytelników Niebezpiecznika, którzy instrumentalizują prokuraturę i [&#8230;]]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 479 [2022-08-07]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62937</id>
