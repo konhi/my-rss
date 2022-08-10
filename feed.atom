@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-10T21:10:41.213Z</updated>
+    <updated>2022-08-10T22:11:08.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -210,19 +210,6 @@ INFO: Ten artykuł nie tłumaczy zastosowanych rozwiązań technologicznych. Prz
         <link href="https://niebezpiecznik.pl/post/jak-zadbac-o-prywatnosc-nocujac-w-hotelu/"/>
         <updated>2022-07-15T08:50:41.000Z</updated>
         <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/jak-zadbac-o-prywatnosc-nocujac-w-hotelu/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/07/green-nbzp-150x150.png" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Nie każdy jedzie na wakacje swoim kamperem :) Większość urlopowiczów nocować będzie w hotelach, pensjonatach lub wynajętych na Bookingu lub Air B&#038;B mieszkaniach. W tym odcinku naszego podcastu Na Podsłuchu podpowiadamy na co warto zwrócić uwagę podczas meldunku, pomieszkiwania i nocowania w obcym miejscu. Jak uchronić swoją prywatność, nie dać się podejrzeć, nie stracić pieniędzy i [&#8230;]]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atak na samochody Hondy. Da się je zdalnie otworzyć i uruchomić zdalnie]]></title>
-        <id>https://niebezpiecznik.pl/post/atak-na-samochody-hondy-da-sie-je-zdalnie-otworzyc-i-uruchomic-zdalnie/</id>
-        <link href="https://niebezpiecznik.pl/post/atak-na-samochody-hondy-da-sie-je-zdalnie-otworzyc-i-uruchomic-zdalnie/"/>
-        <updated>2022-07-12T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Wykryto słabość w algorytmie, który Honda wykorzystuje do komunikacji między pilotem (kluczykiem) a zamkiem centralnym w samochodzie. Co to oznacza? Że można bezprzewodowo otworzyć, a nawet uruchomić...
-
-
-### Reszta artykułu na https://niebezpiecznik.pl]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
         </author>
