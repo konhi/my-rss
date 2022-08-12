@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-12T18:14:10.378Z</updated>
+    <updated>2022-08-12T19:09:25.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 480 [2022-08-12]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62950</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-480-2022-08-12-bierzcie-i-czytajcie/"/>
+        <updated>2022-08-12T18:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Urlopy urlopami, ale przestępcy działają nadal. Poniżej kolejna porcja informacji o najnowszych atakach, świeżo odkrytych podatnościach i grasujących w sieci szkodnikach. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej informacje o atakach phishingowych na Twilio i Cloudflare (pkt 10) oraz artykuł o nowych marketach w sieci Tor powiązanych z meksykańskimi kartelami (pkt 13).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 480 [2022-08-12]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 sierpnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/692356117680062464</id>
