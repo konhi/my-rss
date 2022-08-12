@@ -150,6 +150,16 @@
       "siteUrl": "https://news.mrugalski.pl/",
       "articles": [
         {
+          "id": "https://news.mrugalski.pl/post/692356117680062464",
+          "author": null,
+          "description": "◢ #unknownews ◣\n\nZapraszam do lektury kolejnego przeglądu subiektywnie najciekawszych znalezisk z branży IT z ubiegłego tygodnia.\n\nPaczki ebooków na temat Cybersecurity - od €1\nEbooki programistyczne - różne języki i technologie\n\n1) Ile duże korporacje płacą programistom za bycie on-call?\nhttps://blog.pragmaticengineer.com/oncall-compensation/\nINFO: Dyżury ‘pod telefonem’ nie są rzadkością w branży programistów. Na jakich zasadach takie dyżury się odbywają i jak są opłacane w dużych firmach? Tego dowiesz się z artykułu.\n2) Wywiad z człowiekiem mówiącym w 20 językach - jak efektywnie uczyć się języków?\nhttps://medium.com/age-of-awareness/i-asked-a-guy-who-studied-20-languages-about-the-best-way-to-learn-1e68f3ecdabc\nINFO: Ciekawy przegląd metod nauki języków obcych. Niekoniecznie musisz od …",
+          "link": "https://news.mrugalski.pl/post/692356117680062464",
+          "publishedOn": "2022-08-12T05:30:47.000Z",
+          "wordCount": 2030,
+          "title": "12 sierpnia 2022",
+          "imageUrl": "https://64.media.tumblr.com/163fcc9fd5a3d314b0173e44e4936660/6d33680504ef0648-f5/s1280x1920/6e6ec8eaf84d154336c901f332b6b922d7e75660.jpg"
+        },
+        {
           "id": "https://news.mrugalski.pl/post/691722555057389568",
           "author": null,
           "description": "◢ #unknownews ◣\nCzas na nowe zestawienie subiektywnie najciekawszych treści z branży IT, na które natrafiłem w sieci w ubiegłym tygodniu.\n\nRzuć okiem na najnowsze wydanie mojego okołobiznesowego newslettera, może przypadnie Ci do gustu :)\n\n1) myNoise - darmowe zagłuszacz dźwięków otoczenia\nhttps://mynoise.net/\nINFO: Gdy nie masz dostępu do słuchawek z redukcją szumów, a chcesz popracować w zatłoczonym biurze, to ten generator szumów może być dla Ciebie idealnym rozwiązaniem. Można wybierać z puli wielu dźwięków (np. irlandzkie wybrzeże, kawiarnia, wodospady, czy japoński ogród) i dostosowywać natężenie składowych dźwięku do własnych potrzeb.\n2) Jak wysłać Tweeta za pomocą Githubowego Copilota?\nhttps://blackgirlbytes.dev/how-to-send-a-tweet-with-github-copilot?source=personalized-newsletter…",

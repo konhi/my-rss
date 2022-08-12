@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-12T08:15:10.188Z</updated>
+    <updated>2022-08-12T09:11:43.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12 sierpnia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/692356117680062464</id>
+        <link href="https://news.mrugalski.pl/post/692356117680062464"/>
+        <updated>2022-08-12T05:30:47.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+
+Zapraszam do lektury kolejnego przeglądu subiektywnie najciekawszych znalezisk z branży IT z ubiegłego tygodnia.
+
+Paczki ebooków na temat Cybersecurity - od €1
+Ebooki programistyczne - różne języki i technologie
+
+1) Ile duże korporacje płacą programistom za bycie on-call?
+https://blog.pragmaticengineer.com/oncall-compensation/
+INFO: Dyżury ‘pod telefonem’ nie są rzadkością w branży programistów. Na jakich zasadach takie dyżury się odbywają i jak są opłacane w dużych firmach? Tego dowiesz się z artykułu.
+2) Wywiad z człowiekiem mówiącym w 20 językach - jak efektywnie uczyć się języków?
+https://medium.com/age-of-awareness/i-asked-a-guy-who-studied-20-languages-about-the-best-way-to-learn-1e68f3ecdabc
+INFO: Ciekawy przegląd metod nauki języków obcych. Niekoniecznie musisz od …]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radomir sam ustalił jak go okradziono, ale sprawcy nie ujęto, bo nikogo poza Radomirem najwyraźniej to nie obchodzi]]></title>
         <id>https://niebezpiecznik.pl/post/profile-zaufane-sa-bezpieczniejsze-radomir-sam-ustalil-jak-go-okradziono-ale-sprawcy-nie-ujeto/</id>
