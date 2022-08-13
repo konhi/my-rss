@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-13T20:12:02.151Z</updated>
+    <updated>2022-08-13T21:09:51.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -213,37 +213,6 @@ The post Weekendowa Lektura: odcinek 476 [2022-07-15]. Bierzcie i czytajcie firs
         <link href="https://niebezpiecznik.pl/post/to-nie-ataki-z-uzyciem-sztucznej-inteligencji-sa-nagrozniejsze-dla-naszego-portfela/"/>
         <updated>2022-07-15T09:32:22.000Z</updated>
         <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/to-nie-ataki-z-uzyciem-sztucznej-inteligencji-sa-nagrozniejsze-dla-naszego-portfela/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/07/xStation-5_XTB-150x150.png" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>W ostatnim czasie rynek (nie tylko) finansowy dotyka plaga wszelkiego rodzaju oszustw i scamów. Parę tygodni temu odezwało się do nas XTB, czyli znany w Polsce dom maklerski. By lepiej chronić swoich klientów, pracownicy XTB chcieli sprawdzić, czy to co obserwuje redakcja Niebezpiecznik.pl w tym obszarze pokrywa się z problemami zgłaszanymi przez klientów brokera. Po naszym spotkaniu [&#8230;]]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 lipca 2022]]></title>
-        <id>https://news.mrugalski.pl/post/689832378398556160</id>
-        <link href="https://news.mrugalski.pl/post/689832378398556160"/>
-        <updated>2022-07-15T08:57:01.000Z</updated>
-        <summary type="html"><![CDATA[◢ #unknownews ◣
-Zapraszam do lektury kolejnego wydania mojego subiektywnego przeglądu najciekawszych znalezisk technologicznych z ostatniego tygodnia :)
-
-Ebooki dla frontend developerów - od €1 za paczkę
-Zapisz się na listę oczekujących na szkolenie z debugowania problemów na linuksie
-
-1) Historia interfejsów użytkownika z lat 1973-2007
-https://history.user-interface.io/
-INFO: Jak zmieniał się UI/UX systemów operacyjnych na przestrzeni lat? Warto szczególnie rzucić okiem na interfejsy powstałe przed Windows 95, który jakby nie patrzeć, wizualnie mocno odmienił rynek systemów.
-2) Architektura systemu w Spotify - jak to wygląda?
-https://scribe.rip/geekculture/spotify-system-architecture-6bb418db6084
-INFO: Ten artykuł nie tłumaczy zastosowanych rozwiązań technologicznych. Przedstawia za z jak…]]></summary>
-        <author>
-            <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak zadbać o prywatność nocując w hotelu?]]></title>
-        <id>https://niebezpiecznik.pl/post/jak-zadbac-o-prywatnosc-nocujac-w-hotelu/</id>
-        <link href="https://niebezpiecznik.pl/post/jak-zadbac-o-prywatnosc-nocujac-w-hotelu/"/>
-        <updated>2022-07-15T08:50:41.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/jak-zadbac-o-prywatnosc-nocujac-w-hotelu/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/07/green-nbzp-150x150.png" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Nie każdy jedzie na wakacje swoim kamperem :) Większość urlopowiczów nocować będzie w hotelach, pensjonatach lub wynajętych na Bookingu lub Air B&#038;B mieszkaniach. W tym odcinku naszego podcastu Na Podsłuchu podpowiadamy na co warto zwrócić uwagę podczas meldunku, pomieszkiwania i nocowania w obcym miejscu. Jak uchronić swoją prywatność, nie dać się podejrzeć, nie stracić pieniędzy i [&#8230;]]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
         </author>
