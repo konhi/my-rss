@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-14T06:14:32.876Z</updated>
+    <updated>2022-08-14T07:10:41.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -193,18 +193,6 @@ INFO: Do czego może doprowadzić wystawianie metryk Prometheusa na świat? Uży
         <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/uokik-idzie-na-wojne-z-bankami-bo-ignoruja-klientow-okradzionych-przez-internet/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/07/uokik-banki-150x150.jpg" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Mamy w Polsce prawo, które nakazuje bankom zwracać pieniądze okradzionym klientom (art. 46 Ustawy o usługach płatniczych). Ale &#8212; co za niespodzianka! &#8212; banki w Polsce od lat niechętnie stosują się do tych przepisów ;) Dlaczego je ignorują? Bo w sumie mogą i całkiem to im się opłaca. Czasem przegrają jakąś sprawę sądową, ale lepiej [&#8230;]]]></summary>
         <author>
             <name>Niebezpiecznik.pl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 476 [2022-07-15]. Bierzcie i czytajcie]]></title>
-        <id>https://zaufanatrzeciastrona.pl/?p=62855</id>
-        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-476-2022-07-15-bierzcie-i-czytajcie/"/>
-        <updated>2022-07-15T18:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Wyścig między nienasyconymi przestępcami a niestrudzonymi badaczami ciągle trwa, zatem i materiałów do tego wydania nie brakowało. Życzymy udanej lektury.
-W dzisiejszym wydaniu szczególnie polecamy w części fabularnej wyniki dziennikarskiego śledztwa w sprawie ofiar handlu ludźmi zmuszanych do udziału w oszustwach na masową skalę (pkt 17).… Czytaj dalej 
-The post Weekendowa Lektura: odcinek 476 [2022-07-15]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
-        <author>
-            <name>Anna Wasilewska-Śpioch</name>
         </author>
     </entry>
     <entry>
