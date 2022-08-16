@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-16T10:13:49.750Z</updated>
+    <updated>2022-08-16T11:09:21.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[* Atak na Google Titan M]]></title>
+        <id>https://niebezpiecznik.pl/post/atak-na-google-titan-m/</id>
+        <link href="https://niebezpiecznik.pl/post/atak-na-google-titan-m/"/>
+        <updated>2022-08-16T10:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Dość istotny chip od Google został z sukcesem zaatakowany &#8230;jednym bajtem. Ale nie tylko opis tego ataku jest ciekawy. Ciekawy jest też timeline z kontaktu.Przeczytaj także: Obsługa incydentu &#8211; Google udostępnia GRR Google.ps hacked? Podmieniono zawartość strony&#8230; Zhackowali biuro Google]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[* Jubileuszowa edycja PLNOG]]></title>
+        <id>https://niebezpiecznik.pl/post/jubileuszowa-edycja-plnog/</id>
+        <link href="https://niebezpiecznik.pl/post/jubileuszowa-edycja-plnog/"/>
+        <updated>2022-08-16T10:11:36.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/jubileuszowa-edycja-plnog/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/08/NOTKA-PRASOWA-150x150.jpg" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Najstarsza w Polsce, telekomunikacyjna konferencja powraca w formie stacjonarnej. Tematyka będzie krążyła wokół cyberbezpieczeństwa, podsumowania wdrożeń 5G, przykładów zastosowań Cloud oraz DevOps, routingu i sieci optycznych. Przedyskutujemy również najnowsze wyzwania, jakie stoją przed rynkiem telco, w tym związane ze zmianami postpandemicznymi oraz wynikłymi z działań wojennych na wschodzie. Praktyczne tematy, topowi prelegenci, inspirujące dyskusje, ścieżka [&#8230;]]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 480 [2022-08-12]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62950</id>
