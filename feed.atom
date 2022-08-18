@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-17T23:12:35.565Z</updated>
+    <updated>2022-08-18T01:11:36.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
@@ -203,16 +203,6 @@ INFO: Do czego może doprowadzić wystawianie metryk Prometheusa na świat? Uży
 3)…]]></summary>
         <author>
             <name>unknowNews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UOKiK idzie na wojnę z bankami. Bo ignorują klientów okradzionych przez internet]]></title>
-        <id>https://niebezpiecznik.pl/post/uokik-idzie-na-wojne-z-bankami-bo-ignoruja-klientow-okradzionych-przez-internet/</id>
-        <link href="https://niebezpiecznik.pl/post/uokik-idzie-na-wojne-z-bankami-bo-ignoruja-klientow-okradzionych-przez-internet/"/>
-        <updated>2022-07-19T11:15:25.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/uokik-idzie-na-wojne-z-bankami-bo-ignoruja-klientow-okradzionych-przez-internet/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/07/uokik-banki-150x150.jpg" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Mamy w Polsce prawo, które nakazuje bankom zwracać pieniądze okradzionym klientom (art. 46 Ustawy o usługach płatniczych). Ale &#8212; co za niespodzianka! &#8212; banki w Polsce od lat niechętnie stosują się do tych przepisów ;) Dlaczego je ignorują? Bo w sumie mogą i całkiem to im się opłaca. Czasem przegrają jakąś sprawę sądową, ale lepiej [&#8230;]]]></summary>
-        <author>
-            <name>Niebezpiecznik.pl</name>
         </author>
     </entry>
     <entry>
