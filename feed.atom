@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-19T07:10:56.500Z</updated>
+    <updated>2022-08-19T08:15:03.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Słuchanie Janet Jackson może zaszkodzić Twoim danym]]></title>
+        <id>https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/</id>
+        <link href="https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/"/>
+        <updated>2022-08-19T07:25:45.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/08/janet-150x150.png" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Nie żartujemy. Podatność ma oznaczenie CVE-2022-38392 i została potwierdzona przez badacza Microsoftu. Nie jest to zresztą pierwszy raz, gdy piszemy o zagrożeniu dla dysków ze strony fal akustycznych. Rozumiemy, że wielu z was ma teraz problem. Opowiadaliście swoim znajomym o miłości do metalu i hard rocka, ale czasem w tajemnicy słuchaliście R&#38;B łączonego z samplami [&#8230;]]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[* Atak na Google Titan M]]></title>
         <id>https://niebezpiecznik.pl/post/atak-na-google-titan-m/</id>
