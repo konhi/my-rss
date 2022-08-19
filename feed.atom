@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-19T18:15:55.247Z</updated>
+    <updated>2022-08-19T19:09:01.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekendowa Lektura: odcinek 481 [2022-08-19]. Bierzcie i czytajcie]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62973</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-481-2022-08-19-bierzcie-i-czytajcie/"/>
+        <updated>2022-08-19T18:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszamy do nowego wydania Weekendowej Lektury. Jak co tydzień, zebraliśmy dla was najciekawsze informacje o nowych lukach, szkodnikach, atakach i innych pomysłach internetowych przestępców. Życzymy zatem udanej lektury.
+W dzisiejszym wydaniu szczególnie polecamy w części fabularnej serię przystępnie napisanych artykułów o internetowej inwigilacji (pkt 1) oraz informacje o tym, jak wyciek z Twilio dotknął części użytkowników Signala (pkt 7).… Czytaj dalej 
+The post Weekendowa Lektura: odcinek 481 [2022-08-19]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Anna Wasilewska-Śpioch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uwaga na nowe oszustwo na Orlen]]></title>
+        <id>https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/</id>
+        <link href="https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/"/>
+        <updated>2022-08-19T18:09:52.000Z</updated>
+        <summary type="html"><![CDATA[<a href="https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/"><img align="left" hspace="5" width="100" height="100" src="https://niebezpiecznik.pl/wp-content/uploads/2022/08/orlen-scam4-150x150.jpg" class="alignleft tfe wp-post-image" alt="" loading="lazy" /></a>Marka Orlen jest chętnie wykorzystywana do oszustw w internecie. Do tej pory widzieliśmy ją głównie w scamach na inwestycje, ale od kilku dni po internecie rozprzestrzenia się scam wykorzystujący wizerunek Orlen w formie&#8230; ankiety. O co chodzi? Popatrzcie na opis ataku: Dostajesz linka od znajomego Zaczyna się od otrzymania wiadomości, często od znajomego. Na WhatsAppie lub [&#8230;]]]></summary>
+        <author>
+            <name>Niebezpiecznik.pl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19 sierpnia 2022]]></title>
         <id>https://news.mrugalski.pl/post/692998489134809088</id>

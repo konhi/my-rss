@@ -12,6 +12,16 @@
       "siteUrl": "https://niebezpiecznik.pl",
       "articles": [
         {
+          "id": "https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/",
+          "author": null,
+          "description": "<a href=\"https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/\"><img align=\"left\" hspace=\"5\" width=\"100\" height=\"100\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2022/08/orlen-scam4-150x150.jpg\" class=\"alignleft tfe wp-post-image\" alt=\"\" loading=\"lazy\" /></a>Marka Orlen jest chętnie wykorzystywana do oszustw w internecie. Do tej pory widzieliśmy ją głównie w scamach na inwestycje, ale od kilku dni po internecie rozprzestrzenia się scam wykorzystujący wizerunek Orlen w formie&#8230; ankiety. O co chodzi? Popatrzcie na opis ataku: Dostajesz linka od znajomego Zaczyna się od otrzymania wiadomości, często od znajomego. Na WhatsAppie lub [&#8230;]",
+          "link": "https://niebezpiecznik.pl/post/uwaga-na-nowe-oszustwo-na-orlen/",
+          "publishedOn": "2022-08-19T18:09:52.000Z",
+          "wordCount": 2133,
+          "title": "Uwaga na nowe oszustwo na Orlen",
+          "imageUrl": "https://niebezpiecznik.pl/wp-content/uploads/2022/08/orlen-scam4-432x600.jpg"
+        },
+        {
           "id": "https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/",
           "author": null,
           "description": "<a href=\"https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/\"><img align=\"left\" hspace=\"5\" width=\"100\" height=\"100\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2022/08/janet-150x150.png\" class=\"alignleft tfe wp-post-image\" alt=\"\" loading=\"lazy\" /></a>Nie żartujemy. Podatność ma oznaczenie CVE-2022-38392 i została potwierdzona przez badacza Microsoftu. Nie jest to zresztą pierwszy raz, gdy piszemy o zagrożeniu dla dysków ze strony fal akustycznych. Rozumiemy, że wielu z was ma teraz problem. Opowiadaliście swoim znajomym o miłości do metalu i hard rocka, ale czasem w tajemnicy słuchaliście R&#38;B łączonego z samplami [&#8230;]",
@@ -98,6 +108,17 @@
       "feedUrl": "https://zaufanatrzeciastrona.pl/feed",
       "siteUrl": "https://zaufanatrzeciastrona.pl",
       "articles": [
+        {
+          "id": "https://zaufanatrzeciastrona.pl/?p=62973",
+          "author": "Anna Wasilewska-Śpioch",
+          "description": "Zapraszamy do nowego wydania Weekendowej Lektury. Jak co tydzień, zebraliśmy dla was najciekawsze informacje o nowych lukach, szkodnikach, atakach i innych pomysłach internetowych przestępców. Życzymy zatem udanej lektury.\nW dzisiejszym wydaniu szczególnie polecamy w części fabularnej serię przystępnie napisanych artykułów o internetowej inwigilacji (pkt 1) oraz informacje o tym, jak wyciek z Twilio dotknął części użytkowników Signala (pkt 7).… Czytaj dalej \nThe post Weekendowa Lektura: odcinek 481 [2022-08-19]. Bierzcie i czytajcie first appeared on Zaufana Trzecia Strona.",
+          "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-481-2022-08-19-bierzcie-i-czytajcie/",
+          "publishedOn": "2022-08-19T18:51:08.000Z",
+          "wordCount": null,
+          "title": "Weekendowa Lektura: odcinek 481 [2022-08-19]. Bierzcie i czytajcie",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://zaufanatrzeciastrona.pl/?p=62950",
           "author": "Anna Wasilewska-Śpioch",
