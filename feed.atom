@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-19T09:12:03.480Z</updated>
+    <updated>2022-08-19T10:14:13.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[19 sierpnia 2022]]></title>
+        <id>https://news.mrugalski.pl/post/692998489134809088</id>
+        <link href="https://news.mrugalski.pl/post/692998489134809088"/>
+        <updated>2022-08-19T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[◢ #unknownews ◣
+Nowe zestawienie jest już dostępne! - zapraszam do lektury :)
+1) W ramach ESPN można oglądać… mistrzostwa świata w Excelu
+https://www.ladbible.com/sport/world-excel-championship-that-is-getting-national-tv-coverage-20220809
+INFO: Zobacz, jak excelowi mistrzowie ogarniają zadania z użyciem funkcji wbudowanych w arkusz kalkulacyjny. Brzmi zabawnie, ale momentami nawet wciąga :)
+2) Jak postawić swojego pierwszego honeypota?
+https://medium.com/@williamlaw2991/my-first-honeypot-f7bfb1d1079a
+INFO: Honeypot to pułapka zastawiana na hackerów lub automaty skanujące. Udaje dziurawy system (taki z licznymi podatnościami lub z danymi dostępowymi typu root/root) i pozwala agresorowi włamać się do niego. Ty jako właściciel honeypota możesz oglądać statystyki włamań i poczynania agresorów…]]></summary>
+        <author>
+            <name>unknowNews</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Słuchanie Janet Jackson może zaszkodzić Twoim danym]]></title>
         <id>https://niebezpiecznik.pl/post/sluchanie-janet-jackson-moze-zaszkodzic-twoim-danym/</id>
