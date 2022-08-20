@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://konhi.me/my-rss/index.html</id>
     <title>konhi's personal rss feed</title>
-    <updated>2022-08-20T20:12:14.855Z</updated>
+    <updated>2022-08-20T21:10:43.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://konhi.me/my-rss/index.html"/>
     <link rel="self" href="https://konhi.me/my-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bitomaty zhakowane przez trywialne błędy konfiguracji]]></title>
+        <id>https://zaufanatrzeciastrona.pl/?p=62984</id>
+        <link href="https://zaufanatrzeciastrona.pl/post/bitomaty-zhakowane-przez-trywialne-bledy-konfiguracji/"/>
+        <updated>2022-08-20T20:32:04.000Z</updated>
+        <summary type="html"><![CDATA[O włamaniach do bankomatów słyszeliśmy już nie raz – wybuchy, nakładki, malware, incydentów nie brakowało. Z atakami na bitomaty, czyli „bankomaty do kryptowalut”, spotykamy się dużo rzadziej – ale gdy już słychać, to naprawdę z przytupem.
+Serwis BleepingComputer opisał ciekawy przypadek ataku na bitomaty jednego z dużych producentów tego sprzętu (i oprogramowania).… Czytaj dalej 
+The post Bitomaty zhakowane przez trywialne błędy konfiguracji first appeared on Zaufana Trzecia Strona.]]></summary>
+        <author>
+            <name>Adam Haertle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekendowa Lektura: odcinek 481 [2022-08-19]. Bierzcie i czytajcie]]></title>
         <id>https://zaufanatrzeciastrona.pl/?p=62973</id>
