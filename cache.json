@@ -209,16 +209,6 @@
           "wordCount": 1409,
           "title": "29 lipca 2022",
           "imageUrl": "https://64.media.tumblr.com/d530a3de7162cad7c96f92a93f21faed/a9a17bb3ae44bcf8-6b/s1280x1920/f2efd7515cb2ca05e9f24c6da6b4bab6d6406f27.jpg"
-        },
-        {
-          "id": "https://news.mrugalski.pl/post/690458427646951424",
-          "author": null,
-          "description": "◢ #unknownews ◣\n\nJestem na urlopie, ale udało mi się przygotować nowe zestawienie ciekawych treści z branży IT. Zapraszam do lektury.\n1) Kilka tysięcy polskich filmów dostępnych legalnie, bez reklam i bez opłat\nhttps://35mm.online/?t=192527856\nINFO: Polskie filmy fabularne, dokumentalne, kroniki filmowe, filmy animowane oraz materiały dla dzieci. Większość to stare produkcje, ale myślę, że każdy znajdzie tam coś dla siebie (Seksmisja, Vabank, Sami Swoi itp).\n2) Jak hackerzy używają publicznego Prometheusa do przejmowania klastrów Kubernetesa\nhttps://sysdig.com/blog/exposed-prometheus-exploit-kubernetes-kubeconeu/\nINFO: Do czego może doprowadzić wystawianie metryk Prometheusa na świat? Użyteczna (zwłaszcza dla pentesterów) wiedza zarówno w formie filmu (22 minuty) jak i opisu tekstowego.\n3)…",
-          "link": "https://news.mrugalski.pl/post/690458427646951424",
-          "publishedOn": "2022-07-22T06:47:48.000Z",
-          "wordCount": 1793,
-          "title": "22 lipca 2022",
-          "imageUrl": "https://64.media.tumblr.com/d530a3de7162cad7c96f92a93f21faed/d281eca3fc8719ae-a0/s1280x1920/4732fd2f42883484e762cebc5db4bd5781f01963.jpg"
         }
       ]
     },
